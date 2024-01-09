@@ -11,8 +11,10 @@ import { getLabyrinthosUrl } from "./helpers";
 //   );
 
 test("test generated links", async () => {
-  expect(getLabyrinthosUrl("Death", "upright")).toBe("https://labyrinthos.co/blogs/tarot-card-meanings-list/death-meaning-tarot-card-meanings",
-// for (const { name, type } of names) {
+  expect(getLabyrinthosUrl("Death", "upright")).toBe(
+    "https://labyrinthos.co/blogs/tarot-card-meanings-list/death-meaning-tarot-card-meanings",
+  );
+  // for (const { name, type } of names) {
   //   const result = await got.get(getLabyrinthosUrl(name, type));
   //   console.log(result);
   //   console.log(getLabyrinthosUrl(name, type));
