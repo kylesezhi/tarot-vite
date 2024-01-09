@@ -9,4 +9,5 @@
 .static-tarot-image-container {
   cursor: pointer;
   height: 30vmin;
+  filter: grayscale(30%);
 }

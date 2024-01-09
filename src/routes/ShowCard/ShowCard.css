@@ -21,6 +21,7 @@ body {
   width: auto;
   object-fit: contain;
   will-change: transform, opacity;
+  filter: grayscale(30%);
 }
 
 .interpretation-container {
