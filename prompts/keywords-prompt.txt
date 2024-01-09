@@ -1,0 +1,5 @@
+      ["Breaking free", "Facing fears", "Overcoming addiction", "Embracing your shadow", "Releasing control", "Self-awareness"]
+Use the keywords above to write four positive affirmations. Give a JSON object in the following shape. Do NOT add or remove any key-value pairs in this object shape. Focus on the positive aspects of the keywords.
+{
+  "affirmations": ["Here is a one-sentence positive affirmation related to the keywords.", "Here is another one-sentence positive affirmation related to the keywords."],
+}

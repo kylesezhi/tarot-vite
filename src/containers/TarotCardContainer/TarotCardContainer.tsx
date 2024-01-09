@@ -1,4 +1,3 @@
-import React from "react";
 import "./TarotCardContainer.css";
 import { useTarotStore } from "../../store";
 import TarotCard from "../../components/TarotCard/TarotCard";

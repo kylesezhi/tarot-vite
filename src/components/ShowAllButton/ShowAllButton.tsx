@@ -1,4 +1,3 @@
-import React from "react";
 import "./ShowAllButton.css";
 import icon from "./assets/infinity.svg";
 

@@ -1,8 +1,9 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { useGesture } from "react-use-gesture";
 import "./RotateTarotCardImage.css";
 import { Orientation } from "../../store/types";
 import { animated, config, useSpring } from "@react-spring/web";
+import { Cards } from "../../assets/Cards/index";
 
 interface TarotImageProps {
   number: number;
@@ -17,7 +18,6 @@ function RotateTarotCardImage({
   const ZOOM_OUT = -0.1;
 
   const [zoom, setZoom] = useState(0);
-  const tarotImage = require(`../../assets/Cards/${number}.webp`);
 
   const { transform, scale } = useSpring({
     transform: `rotate(${orientation === "reversed" ? "180" : "0"}deg)`,
@@ -38,7 +38,7 @@ function RotateTarotCardImage({
   return (
     <animated.img
       {...bind()}
-      src={tarotImage}
+      src={Cards[number]}
       className="rotate-tarot-image"
       alt="tarot-card"
       style={reversedStyle}

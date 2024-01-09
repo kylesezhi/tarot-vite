@@ -1,0 +1,13 @@
+King of Pentacles
+Fill out the information for the tarot card in the title. Give a JSON object in the following shape. Do NOT add or remove any key-value pairs in this object shape.
+{
+  name: "name of card"
+  keywords: {
+    upright: ["keyword1", "keyword2"],
+    reversed: ["keyword1", "keyword2"],
+  },
+  description: {
+    upright: "Give a general description of the interpretation and meaning of the upright card",
+    reversed:  "Give a general description of the interpretation and meaning of the reversed card",
+  }
+},

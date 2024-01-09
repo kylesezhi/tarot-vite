@@ -1,4 +1,3 @@
-import React from "react";
 import "./ShareButtonContainer.css";
 import ShareButton from "../../components/ShareButton/ShareButton";
 import { getCardUrl } from "../../utils/helpers";

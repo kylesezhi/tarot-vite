@@ -1,4 +1,3 @@
-import React from "react";
 import "./BackChevronLinkContainer.css";
 import { useNavigate } from "react-router-dom";
 import BackChevron from "../../components/BackChevron/BackChevron";

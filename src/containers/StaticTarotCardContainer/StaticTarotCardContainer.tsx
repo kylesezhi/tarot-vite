@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { useGesture } from "react-use-gesture";
 import { Link } from "react-router-dom";
 import "./StaticTarotCardContainer.css";

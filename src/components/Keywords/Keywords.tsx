@@ -1,4 +1,3 @@
-import React from "react";
 import "./Keywords.css";
 import Keyword from "../Keyword/Keyword";
 

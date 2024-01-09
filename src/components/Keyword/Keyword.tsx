@@ -1,4 +1,3 @@
-import React from "react";
 import "./Keyword.css";
 
 interface KeywordProps {

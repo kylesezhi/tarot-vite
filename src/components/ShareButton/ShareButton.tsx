@@ -1,4 +1,3 @@
-import React from "react";
 import "./ShareButton.css";
 import icon from "./assets/share.svg";
 

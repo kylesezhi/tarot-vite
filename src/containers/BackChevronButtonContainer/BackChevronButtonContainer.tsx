@@ -1,4 +1,3 @@
-import React from "react";
 import "./BackChevronButtonContainer.css";
 import BackChevron from "../../components/BackChevron/BackChevron";
 import { useTarotStore } from "../../store";

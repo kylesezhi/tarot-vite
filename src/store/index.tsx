@@ -4,15 +4,14 @@ import { drawInterpretation, getRandom } from "../utils/helpers";
 import {
   BACK_OF_CARD_NUMBER,
   Card,
-  Interpretation,
   REVERSED_CHANCE,
   Store,
   backCard,
   emptyDrawnInterpretation,
   emptyInterpretation,
 } from "./types";
-const shuffle = require("knuth-shuffle").knuthShuffle;
-const tarot_interpretations: Array<Interpretation> = require("./interpretations.json");
+import { knuthShuffle as shuffle } from "knuth-shuffle";
+import tarot_interpretations from "./interpretations.json";
 
 export const useTarotStore = create<Store, [["zustand/devtools", Store]]>(
   devtools((set) => ({

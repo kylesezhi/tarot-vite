@@ -1,4 +1,3 @@
-import React from "react";
 import "./AnchorPill.css";
 
 interface AnchorPillProps {

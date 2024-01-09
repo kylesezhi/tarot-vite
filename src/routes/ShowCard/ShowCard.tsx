@@ -1,4 +1,3 @@
-import React from "react";
 import TopNavigation from "../../components/TopNavigation/TopNavigation";
 import "./ShowCard.css";
 import { useParams, useNavigate } from "react-router-dom";
@@ -27,7 +26,7 @@ function ShowCard() {
   const orientation = parseOrientation(cardOrientation);
   const number = parseNum(cardNumber, 78);
   const interpretation: Interpretation = useTarotStore(
-    (state) => state.getInterpretation,
+    (state) => state.getInterpretation
   )(number);
   const onClick = () => {
     const opposite = orientation === "reversed" ? "upright" : "reversed";

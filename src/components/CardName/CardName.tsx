@@ -1,4 +1,3 @@
-import React from "react";
 import "./CardName.css";
 import { getTitle } from "../../utils/helpers";
 

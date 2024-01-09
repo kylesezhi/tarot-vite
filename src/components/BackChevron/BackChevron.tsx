@@ -1,4 +1,3 @@
-import React from "react";
 import "./BackChevron.css";
 import chevron from "./assets/chevron-left.svg";
 

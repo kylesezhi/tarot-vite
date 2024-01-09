@@ -1,4 +1,3 @@
-import React from "react";
 import "./LabyrinthosLink.css";
 import { getLabyrinthosUrl } from "../../utils/helpers";
 
