@@ -15,8 +15,6 @@
 
 body {
   margin: 0;
-  display: flex;
-  min-width: 320px;
+  background-color: #282c34;
   min-height: 100vh;
-  justify-content: center;
 }

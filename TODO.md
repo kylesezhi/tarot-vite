@@ -2,6 +2,8 @@
 
 1. Setup tests
 1. Prettier
+1. Favicon
+1. Add infinity button or back button to error page
 1. filter: grayscale(30%); on cards
 1. Glow on hover / mouseover of card:
 ```css
