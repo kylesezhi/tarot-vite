@@ -1,13 +1,19 @@
-.static-tarot-card-container {
+.static-tarot-card {
   display: flex;
   flex-direction: column;
   padding: 3vmin;
   width: 20vmin;
   justify-content: space-around;
+  will-change: filter;
+  transition: filter 0.25s;
 }
 
-.static-tarot-image-container {
+.static-tarot-image {
   cursor: pointer;
   height: 30vmin;
   filter: grayscale(30%);
+}
+
+.static-tarot-card:hover {
+  filter: drop-shadow(0 0 0.25em white);
 }

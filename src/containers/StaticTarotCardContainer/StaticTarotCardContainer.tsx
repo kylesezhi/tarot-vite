@@ -39,11 +39,11 @@ function StaticTarotCardContainer({
   return (
     <Link to={`/cards/${number}/upright`} style={{ textDecoration: "none" }}>
       <animated.div
-        className="static-tarot-card-container"
+        className="static-tarot-card"
         style={{ opacity }}
         {...bind()}
       >
-        <div className="static-tarot-image-container">
+        <div className="static-tarot-image">
           <animated.img
             src={Cards[number]}
             className="tarot-image"

@@ -13,8 +13,7 @@
 
 .front-card {
   position: absolute;
-  will-change: transform, opacity, height, filter;
-  transition: filter 1s;
+  will-change: transform, opacity, height;
   filter: grayscale(30%);
 }
 
