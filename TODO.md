@@ -1,6 +1,8 @@
 # TODO
 
 1. Port site over to Vite
+1. Styling issues
+1. Setup tests
 1. Prettier
 1. filter: grayscale(30%); on cards
 1. Glow on hover:
