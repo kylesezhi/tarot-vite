@@ -1,0 +1,3490 @@
+[
+  {
+    "name": "The Fool",
+    "type": "major",
+    "keywords": {
+      "upright": [
+        "New beginnings",
+        "Adventure",
+        "Innocence",
+        "Spontaneity",
+        "Faith",
+        "Leap of faith",
+        "Beginner's luck",
+        "Originality"
+      ],
+      "reversed": [
+        "Folly",
+        "Chaos",
+        "Lack of direction",
+        "Naivety",
+        "Poor judgement",
+        "Hesitation",
+        "Imprudence",
+        "Fear"
+      ]
+    },
+    "description": {
+      "upright": "The Fool represents the start of a new journey, filled with optimism and excitement. It encourages you to take a leap of faith and embrace the unknown with an open mind. This card can also signify a need for playfulness and spontaneity, reminding you to not take life too seriously. The Fool can also indicate innocence and a lack of experience, but it can also symbolize a fresh start and the opportunity to learn and grow. Trust your intuition and take the first step towards your goals.",
+      "reversed": "The reversed Fool suggests that you may be holding back from taking a chance or starting something new. You may be afraid of the unknown or unsure of yourself. This card can also indicate a lack of direction or purpose in your life. You may be feeling lost or unsure of what you want. The reversed Fool can also signify recklessness, impulsiveness, and poor judgment. Be careful not to act without thinking things through. Take some time to reflect on your goals and make sure you are making decisions that are aligned with your values."
+    },
+    "affirmations": {
+      "upright": [
+        "I embrace new beginnings with a sense of wonder and excitement.",
+        "I trust my intuition and take fearless leaps of faith.",
+        "I see the world with fresh eyes, open to infinite possibilities.",
+        "I approach life with a playful spirit and a sense of humor.",
+        "I release my fears and embrace the unknown with open arms.",
+        "I am a free spirit, unbound by limitations or expectations."
+      ],
+      "reversed": [
+        "I am learning to trust my instincts and take more risks.",
+        "I am releasing my need for control and embracing spontaneity.",
+        "I am grounding my dreams in reality and taking practical steps forward.",
+        "I am finding balance between my playful spirit and my responsibilities.",
+        "I am learning from my mistakes and growing wiser with each experience.",
+        "I am embracing my authentic self and defying expectations."
+      ]
+    },
+    "number": 0
+  },
+  {
+    "name": "The Magician",
+    "type": "major",
+    "keywords": {
+      "upright": [
+        "Manifestation",
+        "Action",
+        "Potential",
+        "Willpower",
+        "Resourcefulness",
+        "Skill",
+        "Communication",
+        "Confidence"
+      ],
+      "reversed": [
+        "Deception",
+        "Illusion",
+        "Manipulation",
+        "Lack of focus",
+        "Wasted potential",
+        "Doubt",
+        "Communication issues"
+      ]
+    },
+    "description": {
+      "upright": "The Magician represents the power of manifestation and the potential to achieve your goals through focused action, willpower, and your innate abilities. It signifies a time of new beginnings, resourcefulness, and the ability to bring ideas into reality. The Magician also encourages clear communication and confident self-expression.",
+      "reversed": "The reversed Magician can indicate wasted potential, a lack of focus, and difficulty manifesting your desires. It may point to deception, manipulation, or communication issues that are hindering your progress. This card can also suggest self-doubt, a lack of confidence, and the need to tap into your hidden talents and abilities."
+    },
+    "affirmations": {
+      "upright": [
+        "I harness my willpower to create the life I desire.",
+        "I am a channel for infinite creativity and manifestation.",
+        "I confidently gather the resources I need to achieve my goals.",
+        "I skillfully transform my dreams into reality.",
+        "I embrace my personal power to shape my destiny.",
+        "I align my thoughts, actions, and intentions to achieve perfect harmony."
+      ],
+      "reversed": [
+        "I reclaim my power and take action to manifest my dreams.",
+        "I clear away distractions and focus my energy on my true goals.",
+        "I embrace my inner wisdom and intuition to guide my choices.",
+        "I confidently express my unique talents and abilities.",
+        "I strengthen my willpower and discipline to overcome challenges.",
+        "I align my thoughts and actions to create positive change in my life."
+      ]
+    },
+    "number": 1
+  },
+  {
+    "name": "The High Priestess",
+    "type": "major",
+    "keywords": {
+      "upright": [
+        "Intuition",
+        "Mystery",
+        "Hidden knowledge",
+        "Secrets",
+        "Inner wisdom",
+        "Passivity",
+        "Reflection"
+      ],
+      "reversed": [
+        "Lack of clarity",
+        "Confusion",
+        "Misinformation",
+        "Repressed emotions",
+        "Secretiveness",
+        "Stagnation",
+        "Resistance to change"
+      ]
+    },
+    "description": {
+      "upright": "The High Priestess represents a deep connection to intuition, inner wisdom, and the subconscious mind. It suggests a time for introspection, reflection, and trusting your gut feeling. This card can also indicate hidden knowledge, secrets, and mysteries that are waiting to be revealed. In love, it can signify a soulmate connection or a deep and meaningful relationship. In career, it can suggest a desire for further education or training, or a need to listen to your intuition when making decisions.",
+      "reversed": "The reversed High Priestess suggests that you are out of touch with your intuition and inner wisdom. You may be feeling confused, overwhelmed, or unsure of what to do. This card can also indicate secrets that are coming to light, or misinformation that is causing problems. In love, it can warn of a hidden agenda or a relationship that is not based on honesty and trust. In career, it can signify a lack of direction or clarity."
+    },
+    "affirmations": {
+      "upright": [
+        "I embrace the mysteries of life and trust my intuition to guide me.",
+        "I am open to receiving divine wisdom and insights.",
+        "I cultivate a deep connection to my inner knowing.",
+        "I listen to the whispers of my soul and honor my deepest truths.",
+        "I am a sacred vessel of wisdom and understanding.",
+        "I bridge the worlds of the seen and unseen, revealing hidden truths."
+      ],
+      "reversed": [
+        "I am ready to release blocked intuition and reconnect with my inner wisdom.",
+        "I seek clarity amidst confusion and trust my ability to discern the truth.",
+        "I open my mind to new perspectives and embrace the unknown.",
+        "I honor my emotions and intuition as valuable guides.",
+        "I courageously explore the depths of my subconscious mind.",
+        "I am patient with the process of self-discovery and trust that all will be revealed in time."
+      ]
+    },
+    "number": 2
+  },
+  {
+    "name": "The Empress",
+    "type": "major",
+    "keywords": {
+      "upright": [
+        "Abundance",
+        "Creativity",
+        "Fertility",
+        "Nurturing",
+        "New Beginnings",
+        "Nature",
+        "Sensuality",
+        "Feminine Energy"
+      ],
+      "reversed": [
+        "Blocked Creativity",
+        "Lack of Abundance",
+        "Emotional Instability",
+        "Materialism",
+        "Narcissism",
+        "Overindulgence",
+        "Stagnation",
+        "Unwanted Pregnancy"
+      ]
+    },
+    "description": {
+      "upright": "The Empress represents the feminine energy of creation, fertility, and abundance. She is a nurturing figure who encourages us to connect with our creativity and express ourselves authentically. This card can also signify new beginnings, personal growth, and a sense of well-being.",
+      "reversed": "The reversed Empress can indicate blocked creativity, lack of abundance, or emotional instability. It may also suggest materialism, narcissism, or overindulgence. In some cases, it can even foreshadow unwanted pregnancy. This card is a call to reconnect with your feminine energy and nurture yourself."
+    },
+    "affirmations": {
+      "upright": [
+        "I nurture my creativity and bring my ideas to life.",
+        "I embrace my sensuality and celebrate the beauty of nature.",
+        "I am abundant and generous, and I share my gifts with the world.",
+        "I trust my intuition and follow my heart's desires.",
+        "I create a nurturing and loving environment for myself and others.",
+        "I am open to change and growth, and I embrace the cycles of life."
+      ],
+      "reversed": [
+        "I am learning to balance my need to nurture others with my own needs.",
+        "I am working to overcome creative blocks and self-doubt.",
+        "I am setting healthy boundaries and practicing self-care.",
+        "I am reconnecting with my intuition and listening to my inner voice.",
+        "I am releasing the need to control everything and allowing life to unfold naturally.",
+        "I am embracing change and trusting the process of growth."
+      ]
+    },
+    "number": 3
+  },
+  {
+    "name": "The Emperor",
+    "type": "major",
+    "keywords": {
+      "upright": [
+        "Authority",
+        "Father figure",
+        "Law and order",
+        "Leadership",
+        "Power"
+      ],
+      "reversed": [
+        "Control freak",
+        "Immaturity",
+        "Lack of discipline",
+        "Loss of authority",
+        "Manipulative friends"
+      ]
+    },
+    "description": {
+      "upright": "The Emperor represents stability, security, and control. It signifies a strong, authoritative presence, a father figure who provides structure and guidance. This card can also indicate a need for discipline, organization, and clear boundaries. In a career context, it can represent success, leadership, and a clear vision for the future.",
+      "reversed": "The reversed Emperor card suggests an imbalance of power, an overbearing or controlling personality, or a lack of discipline. It can also indicate immaturity, a fear of commitment, or a reliance on others to make decisions. In a career context, it can represent challenges to authority, lack of direction, or a need to loosen up and be more flexible."
+    },
+    "affirmations": {
+      "upright": [
+        "I create order and stability in my life.",
+        "I lead with strength, courage, and integrity.",
+        "I embrace my authority and make wise decisions.",
+        "I build foundations for success with discipline and determination.",
+        "I protect those under my care and provide for their needs.",
+        "I am a master of my own destiny, shaping my world with clarity and purpose."
+      ],
+      "reversed": [
+        "I recognize where I have been overly controlling and seek to balance my power.",
+        "I open myself to flexibility and compassion, tempering my strength with understanding.",
+        "I release the need for rigid structure and embrace healthy boundaries.",
+        "I acknowledge my vulnerabilities and create space for others to express their needs.",
+        "I learn to balance my responsibilities with self-care and nurturing.",
+        "I step back from dominance and create harmony through collaboration."
+      ]
+    },
+    "number": 4
+  },
+  {
+    "name": "The Hierophant",
+    "type": "major",
+    "keywords": {
+      "upright": [
+        "Tradition",
+        "Conformity",
+        "Education",
+        "Guidance",
+        "Spirituality",
+        "Dogma"
+      ],
+      "reversed": [
+        "Rebellion",
+        "Dogmatism",
+        "Lack of Guidance",
+        "Unconventional Thinking",
+        "Hypocrisy"
+      ]
+    },
+    "description": {
+      "upright": "The Hierophant represents tradition, conformity, and established systems. It signifies a need for guidance, education, and spiritual growth. It can also suggest a desire for conformity and following the rules. When upright, the Hierophant indicates a strong connection to established institutions, such as religion, education, or government. It can also represent a mentor or teacher who provides valuable guidance.",
+      "reversed": "The reversed Hierophant represents rebellion against tradition, dogma, and established systems. It suggests a need for independent thinking and questioning of authority. It can also indicate a lack of guidance or spiritual direction. When reversed, the Hierophant can warn against hypocrisy or being overly rigid in your beliefs. It can also suggest a need to break free from the constraints of tradition and forge your own path."
+    },
+    "affirmations": {
+      "upright": [
+        "I honor tradition and seek wisdom from those who have come before me.",
+        "I embrace my role as a teacher and guide, sharing my knowledge with others.",
+        "I align myself with my values and create a life of meaning and purpose.",
+        "I connect with the divine through ritual and ceremony, finding peace and guidance.",
+        "I belong to a community that supports my spiritual growth.",
+        "I am open to receiving guidance from those who are wiser than me."
+      ],
+      "reversed": [
+        "I question traditional beliefs and seek my own truth.",
+        "I break free from conformity and create my own path.",
+        "I trust my intuition and inner wisdom above all else.",
+        "I challenge authority and create my own rules.",
+        "I am open to new experiences and perspectives.",
+        "I embrace my individuality and authenticity."
+      ]
+    },
+    "number": 5
+  },
+  {
+    "name": "The Lovers",
+    "type": "major",
+    "keywords": {
+      "upright": [
+        "Love",
+        "unity",
+        "harmony",
+        "partnership",
+        "choices",
+        "decisions",
+        "commitment",
+        "attraction",
+        "trust",
+        "deep connection"
+      ],
+      "reversed": [
+        "Disharmony",
+        "imbalance",
+        "doubt",
+        "indecision",
+        "temptation",
+        "lack of commitment",
+        "betrayal",
+        "separation",
+        "self-love"
+      ]
+    },
+    "description": {
+      "upright": "The Lovers represent love in all its forms, from romantic and platonic to self-love. It signifies strong bonds, deep connections, and harmonious relationships. It can also represent a crossroads, where you are faced with a choice between two paths or partners. This decision should not be taken lightly, as it will have lasting ramifications. Upright, the Lovers card encourages you to be open to love and commitment, to trust your intuition, and to make decisions based on your heart.",
+      "reversed": "The reversed Lovers card indicates disharmony, imbalance, and a lack of commitment. It may suggest that you are feeling doubt or indecision, or that you are being tempted by something or someone outside of your current relationship. You may also be experiencing betrayal or separation. The reversed Lovers card encourages you to take responsibility for your own happiness and to make choices that align with your values. It may also be a sign that you need to focus on self-love and healing."
+    },
+    "affirmations": {
+      "upright": [
+        "I embrace love in all its forms, both within myself and in my relationships.",
+        "I create harmonious partnerships based on mutual respect, understanding, and shared values.",
+        "I follow my heart's desires, knowing that they guide me towards fulfilling relationships.",
+        "I honor my authentic self and attract those who appreciate my true nature.",
+        "I celebrate the beauty of connection and intimacy, allowing love to deepen and grow.",
+        "I make choices that align with my values, fostering trust and commitment in my relationships."
+      ],
+      "reversed": [
+        "I release self-doubt and embrace my worthiness of deep, fulfilling love.",
+        "I acknowledge and address imbalances in my relationships, seeking harmony and understanding.",
+        "I clarify my values and desires, making choices that align with my authentic self.",
+        "I strengthen my communication skills, fostering open and honest dialogue in my relationships.",
+        "I create healthy boundaries, honoring my needs and respecting those of others.",
+        "I cultivate self-love and compassion, attracting relationships that reflect my inner worth."
+      ]
+    },
+    "number": 6
+  },
+  {
+    "name": "The Chariot",
+    "type": "major",
+    "keywords": {
+      "upright": [
+        "Determination",
+        "Victory",
+        "Control",
+        "Ambition",
+        "Progress"
+      ],
+      "reversed": [
+        "Lack of direction",
+        "Self-doubt",
+        "Obstacles",
+        "Delays",
+        "Loss of control"
+      ]
+    },
+    "description": {
+      "upright": "The Chariot upright signifies willpower, determination, and triumph over challenges. It represents a journey, ambition, and confidence in achieving your goals. The card encourages you to embrace your inner strength and take control of your destiny.",
+      "reversed": "The Chariot reversed indicates a lack of direction, scattered energy, and self-doubt. It suggests feeling stuck or facing unexpected obstacles. The card may be a reminder to re-evaluate your goals and strategies, or to address internal conflicts that are hindering your progress."
+    },
+    "affirmations": {
+      "upright": [
+        "I harness my willpower and drive to achieve my goals.",
+        "I navigate challenges with confidence and control.",
+        "I forge ahead with unwavering determination.",
+        "I am the master of my own destiny, steering my life towards victory.",
+        "My ambition fuels my actions, propelling me forward with unstoppable momentum.",
+        "I embrace the challenges that come my way, knowing they will make me stronger."
+      ],
+      "reversed": [
+        "I check my ego and find balance in my approach.",
+        "I release the need for control and allow life to unfold naturally.",
+        "I redirect my energy towards inner alignment and harmony.",
+        "I embrace flexibility and adapt to changing circumstances with grace.",
+        "I seek guidance from my intuition, trusting my inner compass to lead the way.",
+        "I surrender my need to force outcomes and trust in the divine timing of my life."
+      ]
+    },
+    "number": 7
+  },
+  {
+    "name": "Strength",
+    "type": "major",
+    "keywords": {
+      "upright": [
+        "Inner Strength",
+        "Courage",
+        "Compassion",
+        "Determination",
+        "Persuasion",
+        "Gentleness",
+        "Confidence"
+      ],
+      "reversed": [
+        "Doubt",
+        "Weakness",
+        "Fear",
+        "Self-doubt",
+        "Manipulation",
+        "Tyranny",
+        "Aggression"
+      ]
+    },
+    "description": {
+      "upright": "The Strength card in its upright position represents inner strength, courage, and compassion. It signifies that you have the power and resilience to overcome any obstacle. You are guided by kindness and understanding, able to face challenges with calm and determination. This card can also indicate a time for healing and self-discovery, where you tap into your inner resources and emerge stronger. In relationships, Strength suggests a deep connection built on trust and respect.",
+      "reversed": "When the Strength card appears reversed, it can signify doubt, weakness, and fear. You may be feeling overwhelmed by challenges and lacking the courage to face them head-on. This card can also indicate a tendency to be self-critical or to allow others to manipulate you. In relationships, a reversed Strength may suggest power struggles, codependency, or a lack of trust. The advice here is to find your inner strength and stand up for yourself, while also learning to be more compassionate and understanding towards others."
+    },
+    "affirmations": {
+      "upright": [
+        "I courageously face all challenges with unwavering strength.",
+        "I harness my inner power to overcome any obstacle.",
+        "My gentle spirit tames even the wildest of fears.",
+        "I lead with compassion, always finding harmony within myself and others.",
+        "I embrace my vulnerabilities, knowing they are sources of true strength.",
+        "I persevere with unwavering determination, trusting in my ability to succeed."
+      ],
+      "reversed": [
+        "I acknowledge my inner strength and work to release self-doubt.",
+        "I find balance between assertiveness and compassion.",
+        "I reclaim my power and refuse to allow others to control me.",
+        "I face my fears with courage, knowing they cannot defeat me.",
+        "I tap into my inner reserves of resilience, knowing I can overcome any challenge.",
+        "I forgive myself for past mistakes and move forward with confidence."
+      ]
+    },
+    "number": 8
+  },
+  {
+    "name": "The Hermit",
+    "type": "major",
+    "keywords": {
+      "upright": [
+        "Introspection",
+        "Meditation",
+        "Self-reflection",
+        "Solitude",
+        "Soul-searching",
+        "Wisdom",
+        "Guidance"
+      ],
+      "reversed": [
+        "Loneliness",
+        "Isolation",
+        "Withdrawal",
+        "Paranoia",
+        "Stagnation",
+        "Stuck",
+        "Confusion"
+      ]
+    },
+    "description": {
+      "upright": "The Hermit represents a time of introspection and inner reflection. It signifies a need to withdraw from the outside world and connect with your inner self. This is a time to meditate, pray, or simply be alone with your thoughts. The Hermit also represents wisdom, guidance, and seeking knowledge. You may be drawn to a mentor or teacher who can help you on your spiritual journey. This is also a time to listen to your intuition and inner voice.",
+      "reversed": "The reversed Hermit can indicate feelings of loneliness, isolation, and withdrawal. You may be feeling cut off from others or unable to connect with your inner self. This card can also represent stagnation, being stuck in a rut, or confusion about your next steps. The reversed Hermit can also be a warning to be careful of who you trust, as someone may be trying to mislead you."
+    },
+    "affirmations": {
+      "upright": [
+        "I embrace solitude as a path to wisdom and inner truth.",
+        "I listen to the still, small voice within me for guidance.",
+        "I seek truth and understanding, even if it means venturing into the unknown.",
+        "I am guided by my inner light and wisdom.",
+        "I am comfortable in my own company and find strength in my solitude.",
+        "I am open to the lessons that silence and solitude can teach me."
+      ],
+      "reversed": [
+        "I am ready to step out of my isolation and reconnect with others.",
+        "I am seeking guidance and support from those who care about me.",
+        "I am open to sharing my thoughts and feelings with others.",
+        "I am finding balance between solitude and connection.",
+        "I am learning to trust my intuition and follow my heart.",
+        "I am releasing the fear of being alone and embracing the joy of connection."
+      ]
+    },
+    "number": 9
+  },
+  {
+    "name": "Wheel of Fortune",
+    "type": "major",
+    "keywords": {
+      "upright": [
+        "Chance",
+        "Change",
+        "Destiny",
+        "Luck",
+        "Opportunity",
+        "Karma",
+        "Life cycles"
+      ],
+      "reversed": [
+        "Bad luck",
+        "Disappointment",
+        "Misfortune",
+        "Mishap",
+        "Unforeseen setbacks",
+        "Resistance to change",
+        "Stuck in a cycle"
+      ]
+    },
+    "description": {
+      "upright": "The Wheel of Fortune signifies significant change, unexpected turns of events, and the ever-shifting nature of life. It can indicate a period of good fortune and blessings, or a time of upheaval and challenges. This card emphasizes that life is a cycle of ups and downs, and that we must learn to adapt and flow with the changes. It can also represent a turning point in your life, where you are presented with new opportunities and choices.",
+      "reversed": "The reversed Wheel of Fortune indicates resistance to change, clinging to the past, and fear of the unknown. It can suggest that you are feeling stuck in a rut or facing unexpected setbacks. This card may be urging you to embrace change, let go of what no longer serves you, and trust that the universe has a plan for you. It can also indicate that you are taking unnecessary risks or gambling with your fortune."
+    },
+    "affirmations": {
+      "upright": [
+        "I embrace the cycles of change and welcome new opportunities with open arms.",
+        "I trust the flow of life and know that I am exactly where I need to be.",
+        "I am open to unexpected turns of fate and embrace the lessons they bring.",
+        "I harness the power of change to create positive growth and transformation in my life.",
+        "I celebrate the abundance and prosperity that flows to me with ease.",
+        "I step boldly into the unknown, knowing that the universe supports my every step."
+      ],
+      "reversed": [
+        "I release resistance to change and allow life to unfold naturally.",
+        "I take responsibility for my choices and create my own luck.",
+        "I break free from limiting patterns and create new opportunities for growth.",
+        "I find balance amidst the ups and downs of life and maintain a positive outlook.",
+        "I trust my intuition to guide me through challenging times.",
+        "I embrace the lessons of change and use them to create a more fulfilling life."
+      ]
+    },
+    "number": 10
+  },
+  {
+    "name": "Justice",
+    "type": "major",
+    "keywords": {
+      "upright": [
+        "Balance",
+        "Fairness",
+        "Truth",
+        "Cause and Effect",
+        "Law",
+        "Responsibility",
+        "Accountability",
+        "Judgment"
+      ],
+      "reversed": [
+        "Dishonesty",
+        "Imbalance",
+        "Unfairness",
+        "Legal Issues",
+        "Bias",
+        "Corruption",
+        "Delays",
+        "Lack of Accountability",
+        "Evading Responsibility",
+        "Injustice"
+      ]
+    },
+    "description": {
+      "upright": "The Justice card signifies balance, fairness, and the pursuit of truth. It suggests that a situation is being weighed and judged objectively, and that the outcome will be just and deserved. It can also represent legal matters, contracts, and agreements. Upright, Justice encourages you to be honest, fair, and accountable in your actions.",
+      "reversed": "The reversed Justice card indicates that there is a lack of balance, fairness, or truth in a situation. It suggests that someone may be dishonest, biased, or corrupt. It can also represent legal problems, delays, and injustices. Reversed, Justice encourages you to be introspective and consider whether you are being fair and just in your dealings with others."
+    },
+    "affirmations": {
+      "upright": [
+        "I embrace fairness and integrity in all my actions.",
+        "I seek truth and balance in every situation.",
+        "I am guided by a strong sense of justice and responsibility.",
+        "I act with clarity and integrity, knowing that my choices have consequences.",
+        "I hold myself and others accountable to high standards of conduct.",
+        "I trust in the impartial nature of justice to prevail."
+      ],
+      "reversed": [
+        "I acknowledge and address any imbalances in my life.",
+        "I seek to understand the truth, even when it’s challenging.",
+        "I take responsibility for my actions and choices.",
+        "I strive for fairness and integrity in all my dealings.",
+        "I open myself to compassion and understanding, even when facing injustice.",
+        "I honor my personal boundaries and uphold my values."
+      ]
+    },
+    "number": 11
+  },
+  {
+    "name": "The Hanged Man",
+    "type": "major",
+    "keywords": {
+      "upright": [
+        "Surrender",
+        "Letting go",
+        "New perspective",
+        "Sacrifice",
+        "Suspension",
+        "Transformation"
+      ],
+      "reversed": [
+        "Resistance to change",
+        "Indecision",
+        "Stagnation",
+        "Martyrdom",
+        "Apathy",
+        "Stalling"
+      ]
+    },
+    "description": {
+      "upright": "The Hanged Man represents a moment of pause, reflection, and surrender. It suggests the need to let go of control and trust in the process. This card can also symbolize a shift in perspective, seeing things from a new angle. Upright, The Hanged Man can encourage you to break free from old patterns, embrace sacrifice, and undergo a transformative process.",
+      "reversed": "The reversed Hanged Man indicates resistance to change, indecisiveness, and stagnation. It can suggest that you are clinging to the past or refusing to let go of something that no longer serves you. This card can also be a warning about martyrdom or unnecessary sacrifice. Reversed, The Hanged Man encourages you to take action, break free from apathy, and move forward with your life."
+    },
+    "affirmations": {
+      "upright": [
+        "I surrender to the present moment and trust the unfolding of my journey.",
+        "I release resistance and embrace a new perspective from stillness.",
+        "I let go of old patterns and allow space for creative transformation."
+      ],
+      "reversed": [
+        "I acknowledge my resistance to change and seek understanding from a different angle.",
+        "I gently nudge myself out of stagnation and take decisive action.",
+        "I release the fear of the unknown and embrace the potential for growth."
+      ]
+    },
+    "number": 12
+  },
+  {
+    "name": "Death",
+    "type": "major",
+    "keywords": {
+      "upright": [
+        "Endings",
+        "Transformation",
+        "New Beginnings",
+        "Letting Go",
+        "Rebirth"
+      ],
+      "reversed": [
+        "Resistance to Change",
+        "Stagnation",
+        "Fear of the Unknown",
+        "Unhealthy Attachments",
+        "Stuck in the Past"
+      ]
+    },
+    "description": {
+      "upright": "The Death card signifies major endings, transformations, and new beginnings. It represents a period of significant change in your life, where you must let go of the old to make room for the new. This card encourages you to embrace change, even though it may be difficult. It signifies a time of releasing the outdated, unwanted, and unnecessary aspects of your life to make way for new opportunities and growth. While the process may be challenging, it ultimately leads to a more fulfilling and enriching future.",
+      "reversed": "The Death card reversed suggests resistance to change and a fear of the unknown. You may be clinging to the past and unwilling to let go of outdated beliefs, habits, or situations. This can lead to stagnation and a lack of progress in your life. The reversed Death card can also indicate a denial of reality and an unwillingness to face the inevitable. It encourages you to confront your fears and embrace the changes that are taking place in your life. Accepting the inevitable and letting go of the past is essential for your personal growth and development."
+    },
+    "affirmations": {
+      "upright": [
+        "I embrace endings and welcome new beginnings.",
+        "I release what no longer serves me to make space for growth.",
+        "I transform through cycles of change, becoming stronger and wiser.",
+        "I fearlessly shed my old skin and embrace my true self.",
+        "I accept the natural flow of life, knowing that death is a part of it.",
+        "I trust the process of transformation, knowing it leads to rebirth."
+      ],
+      "reversed": [
+        "I let go of resistance and embrace necessary change.",
+        "I confront my fears and move through transitions with courage.",
+        "I release unhealthy attachments and create space for new beginnings.",
+        "I seek guidance to navigate challenges and find clarity.",
+        "I accept endings as opportunities for growth and renewal.",
+        "I embrace the lessons of transformation and move forward with resilience."
+      ]
+    },
+    "number": 13
+  },
+  {
+    "name": "Temperance",
+    "type": "major",
+    "keywords": {
+      "upright": [
+        "balance",
+        "moderation",
+        "patience",
+        "harmony",
+        "healing",
+        "alchemical process",
+        "integration",
+        "cooperation",
+        "adaptation"
+      ],
+      "reversed": [
+        "disharmony",
+        "imbalance",
+        "impatience",
+        "conflict",
+        "stagnation",
+        "lack of focus",
+        "unrealistic expectations",
+        "extremism",
+        "addiction"
+      ]
+    },
+    "description": {
+      "upright": "The Temperance card signifies a state of balance, harmony, and inner peace. It encourages you to find the middle ground, practice moderation, and approach situations with patience and a calm demeanor. This card can also suggest a time for healing, integration, and the merging of opposites. In relationships, it indicates cooperation, understanding, and mutual respect.",
+      "reversed": "The reversed Temperance card indicates a state of imbalance, disharmony, and inner conflict. You may be struggling with extremes, lacking patience, or experiencing emotional turmoil. This card can also suggest a lack of focus or clarity, unrealistic expectations, and difficulty cooperating with others. In relationships, it indicates conflict, misunderstanding, and a lack of respect."
+    },
+    "affirmations": {
+      "upright": [
+        "I find harmony within myself and with the world around me.",
+        "I blend my strengths and weaknesses to create a beautiful whole.",
+        "I patiently nurture my growth, knowing that all things unfold in perfect timing.",
+        "I embrace moderation and balance, flowing with the natural rhythms of life.",
+        "I gracefully navigate challenges, finding solutions that align with my values.",
+        "I trust my intuition, knowing that it guides me towards my highest good."
+      ],
+      "reversed": [
+        "I am gentle with myself as I seek to restore balance in my life.",
+        "I release extremes and embrace moderation, finding peace in the middle ground.",
+        "I listen to my body and honor its needs, creating healthy boundaries.",
+        "I forgive myself for past mistakes, knowing that each experience has guided me to this moment.",
+        "I seek guidance and support as I navigate challenges, trusting that I am not alone.",
+        "I reconnect with my inner wisdom, allowing it to guide my choices."
+      ]
+    },
+    "number": 14
+  },
+  {
+    "name": "The Devil",
+    "type": "major",
+    "keywords": {
+      "upright": [
+        "Temptation",
+        "Shadow self",
+        "Addiction",
+        "Materialism",
+        "Entrapment",
+        "Fear",
+        "Obsession"
+      ],
+      "reversed": [
+        "Breaking free",
+        "Facing fears",
+        "Overcoming addiction",
+        "Embracing your shadow",
+        "Releasing control",
+        "Self-awareness"
+      ]
+    },
+    "description": {
+      "upright": "The Devil card in the upright position can signify temptation, addiction, feeling trapped in a situation or relationship, and being ruled by your shadow self. It can also represent materialism, unhealthy attachments, and a fear of letting go. This card often appears when you need to take a hard look at your own behavior and make changes.",
+      "reversed": "The Devil reversed indicates that you are breaking free from negative influences and unhealthy patterns. You are facing your fears and taking control of your life. This card can also represent self-awareness, embracing your shadow self, and finding liberation. The reversed Devil is a positive card that signifies growth and transformation."
+    },
+    "affirmations": {
+      "upright": [
+        "I release myself from the chains that bind me.",
+        "I choose to face my shadows and reclaim my power.",
+        "I break free from unhealthy attachments and addictions.",
+        "I embrace my true desires and create my own path.",
+        "I confront my fears and find strength in vulnerability.",
+        "I transform my darkness into light and wisdom."
+      ],
+      "reversed": [
+        "I acknowledge the negative patterns that hold me back.",
+        "I forgive myself for past mistakes and embrace self-compassion.",
+        "I seek help and support to overcome challenges.",
+        "I create healthy boundaries and protect my energy.",
+        "I cultivate self-love and acceptance.",
+        "I choose to see the light within myself and others."
+      ]
+    },
+    "number": 15
+  },
+  {
+    "name": "The Tower",
+    "type": "major",
+    "keywords": {
+      "upright": [
+        "Sudden change",
+        "Disruption",
+        "Chaos",
+        "Destruction",
+        "Awakening",
+        "Liberation"
+      ],
+      "reversed": [
+        "Delayed change",
+        "Resistance",
+        "Stuck in a rut",
+        "Fear of change",
+        "Inner turmoil",
+        "Illness"
+      ]
+    },
+    "description": {
+      "upright": "The Tower represents sudden, dramatic change and upheaval. It can indicate a loss, a crisis, or a complete breakdown of your current situation. However, it can also be a catalyst for positive change and personal growth. The Tower encourages you to let go of the old and embrace the new. Trust that the universe has a plan for you, even if it doesn't feel like it at the moment.",
+      "reversed": "The reversed Tower suggests that you are resisting change or clinging to the past. You may be afraid of the unknown or unwilling to let go of what is familiar. This card can also indicate illness, injury, or other setbacks. However, it is important to remember that even these challenges can be opportunities for growth and transformation. The reversed Tower encourages you to surrender to the flow of life and trust that everything happens for a reason."
+    },
+    "affirmations": {
+      "upright": [
+        "I embrace sudden change and break free from limiting structures.",
+        "I shatter illusions and uncover profound truths.",
+        "I release what no longer serves me and make space for growth.",
+        "I fearlessly face challenges and emerge stronger than before.",
+        "I transform through chaos and create a new foundation for myself.",
+        "I trust the process of upheaval and find liberation in its wake."
+      ],
+      "reversed": [
+        "I gently release resistance and allow necessary change to unfold.",
+        "I acknowledge inner turmoil and seek guidance to navigate it.",
+        "I face my fears with compassion and create stability within myself.",
+        "I learn from past mistakes and build a more resilient foundation.",
+        "I embrace transformation with patience and trust in the journey.",
+        "I find opportunities for growth within challenges and setbacks."
+      ]
+    },
+    "number": 16
+  },
+  {
+    "name": "The Star",
+    "type": "major",
+    "keywords": {
+      "upright": [
+        "Hope",
+        "Renewal",
+        "Inspiration",
+        "Faith",
+        "Inner peace",
+        "Healing",
+        "New beginnings"
+      ],
+      "reversed": [
+        "Despair",
+        "Disillusionment",
+        "Loss of faith",
+        "Lack of inspiration",
+        "Blocked creativity",
+        "Illness",
+        "Missed opportunities"
+      ]
+    },
+    "description": {
+      "upright": "The Star is a card of immense hope, renewal, and inspiration. It signifies a time of healing and restoration, where faith and optimism guide your path. It encourages you to trust your inner guidance and believe in the universe's plan. New beginnings and opportunities are on the horizon, and you are filled with a sense of inner peace and tranquility. Embrace the positive energy of The Star and allow yourself to be open to all that is possible.",
+      "reversed": "The reversed Star can indicate feelings of despair, disillusionment, and loss of faith. You may be feeling uninspired and blocked in your creative endeavors. Missed opportunities and a lack of forward momentum can leave you feeling stagnant and unmotivated. The reversed Star is a call to take time for self-care and reflection. Reconnect with your inner light and find ways to rekindle your hope and optimism. Remember, even in the darkest of times, there is always potential for new beginnings."
+    },
+    "affirmations": {
+      "upright": [
+        "I radiate hope and inspiration to those around me.",
+        "I am guided by a clear vision of my dreams.",
+        "I am open to endless possibilities and opportunities.",
+        "I am healing and renewing my spirit.",
+        "I trust in the universe to guide my path.",
+        "I am a beacon of light in the darkness."
+      ],
+      "reversed": [
+        "I am rediscovering my faith and optimism.",
+        "I am releasing doubt and embracing my dreams.",
+        "I am reconnecting with my inner strength and wisdom.",
+        "I am finding clarity and purpose in my life.",
+        "I am opening myself to healing and transformation.",
+        "I am reclaiming my power and shining my light."
+      ]
+    },
+    "number": 17
+  },
+  {
+    "name": "The Moon",
+    "type": "major",
+    "keywords": {
+      "upright": [
+        "Illusion",
+        "Deception",
+        "Fear",
+        "Hidden things",
+        "Intuition",
+        "Unconscious"
+      ],
+      "reversed": [
+        "Deception revealed",
+        "Hidden things come to light",
+        "Release of fear",
+        "Clarity",
+        "Facing reality",
+        "Emotional instability"
+      ]
+    },
+    "description": {
+      "upright": "The Moon is a card of mystery, illusion, and the unknown. It can represent a time of uncertainty and confusion, when things are not as they seem. It can also be a time of great creativity and intuition, as we tap into our subconscious minds. The Moon can also represent our fears and anxieties, which may be holding us back. When the Moon appears in a reading, it is important to pay attention to our intuition and to be aware of our own biases and assumptions. We may need to do some soul-searching in order to uncover the truth.",
+      "reversed": "The reversed Moon can indicate that we are starting to see through illusions and deceptions. We may be gaining clarity on a situation or facing our fears. The reversed Moon can also be a sign of emotional instability and insecurity. However, it can also be a time of great personal growth and transformation, as we release old fears and embrace the unknown."
+    },
+    "affirmations": {
+      "upright": [
+        "I trust my intuition and inner wisdom to guide me through the darkness.",
+        "I embrace the unknown and seek clarity from my dreams and visions.",
+        "I release my fears and embrace the transformative power of the subconscious."
+      ],
+      "reversed": [
+        "I acknowledge my illusions and fears, and choose to see reality with clarity.",
+        "I face my anxieties head-on, seeking strength and understanding within myself.",
+        "I release the grip of the past and embrace the possibilities of a new dawn."
+      ]
+    },
+    "number": 18
+  },
+  {
+    "name": "The Sun",
+    "type": "major",
+    "keywords": {
+      "upright": [
+        "Joy",
+        "Success",
+        "Vitality",
+        "Optimism",
+        "Clarity",
+        "Abundance",
+        "Achievement"
+      ],
+      "reversed": [
+        "False Joy",
+        "Illusion",
+        "Deception",
+        "Lack of Clarity",
+        "Inner Conflict",
+        "Negativity",
+        "Disappointment"
+      ]
+    },
+    "description": {
+      "upright": "The Sun is a powerful card of positivity and optimism. It represents happiness, joy, success, and abundance. It signifies a time of great personal growth and fulfillment. The Sun also speaks of clarity and insight, suggesting that you are finally seeing things for what they truly are. This card is a reminder to embrace life's simple pleasures and to find joy in every moment.",
+      "reversed": "The reversed Sun card can indicate a period of darkness and negativity. You may be feeling lost, disillusioned, or disappointed. This card can also represent self-doubt, low self-esteem, and a lack of confidence. However, the reversed Sun is not a sign of permanent doom and gloom. It is a call to action, urging you to face your challenges and overcome your obstacles. With hard work and perseverance, you can emerge from the darkness and find your way back to the light."
+    },
+    "affirmations": {
+      "upright": [
+        "I radiate warmth and positivity wherever I go.",
+        "My joyful spirit illuminates the world around me.",
+        "I embrace my inner child and express myself freely.",
+        "I am confident in my abilities and trust in my path.",
+        "I celebrate my successes and bask in the light of achievement.",
+        "I am open to new possibilities and embrace life with enthusiasm."
+      ],
+      "reversed": [
+        "I am rediscovering my inner light and allowing it to shine.",
+        "I am releasing self-doubt and embracing my true potential.",
+        "I am finding joy in simple things and celebrating small victories.",
+        "I am nurturing my inner child and allowing myself to play.",
+        "I am connecting with my authentic self and expressing my truth.",
+        "I am open to change and embracing new opportunities for growth."
+      ]
+    },
+    "number": 19
+  },
+  {
+    "name": "Judgement",
+    "type": "major",
+    "keywords": {
+      "upright": [
+        "Awakening",
+        "Decision making",
+        "Redemption",
+        "Reincarnation",
+        "Renewal",
+        "Resurrection"
+      ],
+      "reversed": [
+        "Poor logic",
+        "Poor or hasty judgement",
+        "Self-doubt",
+        "Stagnation",
+        "Resistance to change",
+        "Ignoring intuition"
+      ]
+    },
+    "description": {
+      "upright": "The Judgement card signifies a time of awakening, rebirth, and new beginnings. It suggests that a significant period in your life is coming to an end, making way for positive change and transformation. This card can also indicate that you are being called to a higher level of consciousness, to embrace your true purpose in life. When it comes to decision-making, this card encourages you to listen to your intuition and inner voice. Trust that you have the wisdom and guidance needed to make the right decisions for your highest good.",
+      "reversed": "The reversed Judgement card suggests that you may be resisting change, clinging to the past, or ignoring your intuition. This can lead to poor judgement, self-doubt, and stagnation. The card may be urging you to let go of the past, forgive yourself and others, and move forward with your life. It may also be a sign that you need to pay closer attention to your inner voice and make decisions that are aligned with your true self."
+    },
+    "affirmations": {
+      "upright": [
+        "I embrace the call to awaken and rise to a new level of being.",
+        "I release old ways and step boldly into a fresh and vibrant future.",
+        "I listen to the whispers of my soul and trust my inner wisdom to guide me."
+      ],
+      "reversed": [
+        "I seek guidance to overcome self-doubt and embrace the transformative power within.",
+        "I forgive myself and others, opening myself to the possibility of redemption.",
+        "I pause and reflect, discerning which paths truly align with my highest good."
+      ]
+    },
+    "number": 20
+  },
+  {
+    "name": "The World",
+    "type": "major",
+    "keywords": {
+      "upright": [
+        "Completion",
+        "Success",
+        "Fulfillment",
+        "New beginnings",
+        "Unity",
+        "Travel"
+      ],
+      "reversed": [
+        "Stagnation",
+        "Delay",
+        "Lack of progress",
+        "Uncertainty",
+        "Feeling incomplete",
+        "Isolation"
+      ]
+    },
+    "description": {
+      "upright": "The World card represents the culmination of a long journey, a sense of completion and achievement. It signifies the successful conclusion of a major project or goal, and the feeling of fulfillment that comes with it. The World also suggests new beginnings and a sense of limitless possibilities. It can point to travel, expansion, and a deeper understanding of oneself and the world. Additionally, it can symbolize unity, connection, and a feeling of oneness with all things.",
+      "reversed": "The reversed World card can indicate stagnation, delay, and a lack of progress. You may be feeling stuck in a rut, unable to move forward in your life. The reversed card can also suggest uncertainty and a lack of clarity about your goals or direction. It can also represent feeling incomplete, unfulfilled, and disconnected from others. Additionally, it can signify isolation, loneliness, and a feeling of being separate from the world."
+    },
+    "affirmations": {
+      "upright": [
+        "I embrace wholeness and completion within myself.",
+        "I celebrate the culmination of my journey and the attainment of my goals.",
+        "I am open to new beginnings, knowing that I carry the wisdom of the past with me.",
+        "I am in harmony with the universe and all its possibilities.",
+        "I move forward with confidence and joy, ready to embrace my full potential.",
+        "I am a powerful creator, shaping my own destiny."
+      ],
+      "reversed": [
+        "I release any resistance to completion and allow myself to move forward.",
+        "I identify and address any lingering attachments that hold me back.",
+        "I create space for new beginnings by letting go of the past.",
+        "I align myself with my true purpose and embrace the opportunities that await me.",
+        "I trust in the universe and my own ability to create the life I desire.",
+        "I step into my power and embrace my limitless potential."
+      ]
+    },
+    "number": 21
+  },
+  {
+    "name": "Ace of Cups",
+    "type": "cups",
+    "keywords": {
+      "upright": [
+        "New beginnings",
+        "Love",
+        "Compassion",
+        "Joy",
+        "Intuition",
+        "Emotional fulfillment",
+        "Renewal",
+        "Creativity"
+      ],
+      "reversed": [
+        "Emotional blockage",
+        "Lack of love",
+        "Repression",
+        "Selfishness",
+        "Unfulfilled desires",
+        "Bitterness",
+        "Deception"
+      ]
+    },
+    "description": {
+      "upright": "The Ace of Cups signifies new beginnings in the realm of emotions, relationships, and intuition. It represents a fresh start, a chance to open your heart and experience love, compassion, and joy. This card can also indicate emotional healing, forgiveness, and a deep sense of peace. In matters of love, the Ace of Cups can represent a new romance, a deepening of an existing relationship, or a renewed sense of commitment. In career matters, it can signify a new job or opportunity that is fulfilling and emotionally rewarding.",
+      "reversed": "The reversed Ace of Cups indicates emotional blockages, repression, and a lack of love or connection. It can suggest that you are holding onto negative emotions, such as anger, resentment, or fear. This card can also represent emotional manipulation, deceit, and betrayal. In matters of love, the reversed Ace of Cups can indicate a break-up, a lack of intimacy, or a difficult relationship. In career matters, it can signify a job that is unfulfilling, stressful, or emotionally draining."
+    },
+    "affirmations": {
+      "upright": [
+        "I embrace the abundance of love and joy flowing into my life.",
+        "I open my heart to deep, authentic connections with others.",
+        "I nurture my creativity and express my emotions freely.",
+        "I trust my intuition and allow my feelings to guide me.",
+        "I forgive myself and others, and open my heart to compassion.",
+        "I radiate love and light, and create beauty in all that I do."
+      ],
+      "reversed": [
+        "I gently release any emotional blocks that are holding me back.",
+        "I forgive myself for past hurts and allow myself to heal.",
+        "I set healthy boundaries to protect my emotional well-being.",
+        "I seek guidance from my intuition to find emotional balance.",
+        "I learn to express my emotions in healthy and constructive ways.",
+        "I open my heart to the love and support that is available to me."
+      ]
+    },
+    "number": 22
+  },
+  {
+    "name": "Two of Cups",
+    "type": "cups",
+    "keywords": {
+      "upright": [
+        "Partnership",
+        "Love",
+        "Harmony",
+        "Attraction",
+        "Balance",
+        "Connection"
+      ],
+      "reversed": [
+        "Disunity",
+        "Disharmony",
+        "Unbalanced relationships",
+        "Miscommunication",
+        "Lack of trust",
+        "Jealousy"
+      ]
+    },
+    "description": {
+      "upright": "The Two of Cups represents positive connections, partnerships, and emotional bonds. It signifies a time for love, unity, and shared experiences. This card can also indicate a new partnership or collaboration on the horizon. Upright, the Two of Cups encourages you to nurture your relationships and embrace harmony.",
+      "reversed": "The reversed Two of Cups suggests challenges or difficulties in your relationships. It may indicate a lack of communication, trust, or balance. This card can also represent feelings of jealousy, insecurity, or separation. If you see the Two of Cups reversed, it's a call to address these issues head-on and work towards healing and reconciliation."
+    },
+    "affirmations": {
+      "upright": [
+        "I am open to receiving and giving love in all its forms.",
+        "My connections are built on mutual respect, trust, and understanding.",
+        "My heart is overflowing with joy and I share it freely with others.",
+        "Collaboration and partnership bring strength and fulfillment to my life."
+      ],
+      "reversed": [
+        "I trust myself to navigate any challenges in my relationships.",
+        "I release any fears or insecurities holding me back from true connection.",
+        "I am open to healing and forgiveness, strengthening my bonds with others.",
+        "My heart is a magnet, attracting the relationships I desire."
+      ]
+    },
+    "number": 23
+  },
+  {
+    "name": "Three of Cups",
+    "type": "cups",
+    "keywords": {
+      "upright": [
+        "Celebration",
+        "Friendship",
+        "Joy",
+        "Creative Collaboration",
+        "Community"
+      ],
+      "reversed": [
+        "Isolation",
+        "Gossip",
+        "Lack of Support",
+        "Superficiality",
+        "Broken Bonds"
+      ]
+    },
+    "description": {
+      "upright": "The Three of Cups upright is a joyful and celebratory card. It signifies deep connections, strong friendships, and a sense of community. It can also represent creative collaborations, shared goals, and a positive outlook on life. This card encourages you to nurture your relationships, spend time with loved ones, and express your gratitude for the good things in life.",
+      "reversed": "The Three of Cups reversed can indicate a feeling of isolation, loneliness, or a lack of support. It can also signify broken bonds, gossip, and superficial relationships. This card may be urging you to address any issues in your relationships, be more open to connection, and avoid negativity. It may also be a sign to focus on your own happiness and self-care."
+    },
+    "affirmations": {
+      "upright": [
+        "I celebrate my friendships and the joy they bring me.",
+        "I open my heart to love, connection, and community.",
+        "I raise a glass to life's blessings and embrace its abundance.",
+        "I nurture my relationships with love, care, and understanding.",
+        "I create harmony and joy wherever I go.",
+        "I share my gifts with others and delight in their happiness."
+      ],
+      "reversed": [
+        "I release the need to isolate myself and open up to others.",
+        "I forgive past hurts and open my heart to new friendships.",
+        "I find healthy ways to express my emotions and connect with others.",
+        "I create balance in my life between my personal needs and my social life.",
+        "I celebrate my own company and find joy in solitude.",
+        "I set boundaries with love and respect to protect my energy."
+      ]
+    },
+    "number": 24
+  },
+  {
+    "name": "Four of Cups",
+    "type": "cups",
+    "keywords": {
+      "upright": [
+        "Stagnation",
+        "Apathy",
+        "Missed opportunities",
+        "Indifference",
+        "Self-absorption",
+        "Reflection",
+        "Contemplation",
+        "Inner journey"
+      ],
+      "reversed": [
+        "Renewed energy",
+        "Change of direction",
+        "Embracing opportunities",
+        "Rekindled enthusiasm",
+        "Acceptance",
+        "Gratitude",
+        "Letting go of the past",
+        "New beginnings"
+      ]
+    },
+    "description": {
+      "upright": "The Four of Cups represents a period of stagnation, apathy, and missed opportunities. You may be feeling unmotivated, uninspired, and just plain blah. It feels like you're stuck in a rut and there's no way out. However, this card also encourages you to take a step back and reflect on your situation. What is causing your current state? Are you taking things for granted? Are you afraid of change? The Four of Cups suggests that you may be overlooking new opportunities that are right in front of you. It's time to open your eyes and see what the universe has to offer.",
+      "reversed": "The reversed Four of Cups signifies a shift in energy. You're starting to see your situation in a new light and you're ready to make a change. This is a time for renewed energy, enthusiasm, and acceptance. You're finally ready to let go of the past and embrace the future. The reversed Four of Cups also suggests that you're opening yourself up to new possibilities and opportunities. You're no longer afraid to take risks and step outside your comfort zone. This is a positive change that will lead you to great things."
+    },
+    "affirmations": {
+      "upright": [
+        "I open my heart to new possibilities and experiences.",
+        "I appreciate the abundance and blessings already present in my life.",
+        "I actively seek out opportunities for growth and fulfillment.",
+        "I break free from apathy and embrace the fullness of life.",
+        "I listen to my intuition and pursue what truly resonates with my soul.",
+        "I choose gratitude and optimism to guide my path forward."
+      ],
+      "reversed": [
+        "I release stagnant energy and embrace fresh perspectives.",
+        "I acknowledge my feelings of dissatisfaction and seek meaningful change.",
+        "I reconnect with my passions and rediscover my zest for life.",
+        "I overcome indifference and actively engage with the world around me.",
+        "I seek out supportive connections and create a sense of belonging.",
+        "I find joy in simple moments and cultivate a spirit of gratitude."
+      ]
+    },
+    "number": 25
+  },
+  {
+    "name": "Five of Cups",
+    "type": "cups",
+    "keywords": {
+      "upright": [
+        "Disappointment",
+        "Loss",
+        "Regret",
+        "Grief",
+        "Letting go",
+        "Unfulfilled expectations"
+      ],
+      "reversed": [
+        "Healing",
+        "Moving on",
+        "New beginnings",
+        "Acceptance",
+        "Finding the positive",
+        "Hope"
+      ]
+    },
+    "description": {
+      "upright": "The Five of Cups symbolizes disappointment, loss, grief, and the emotional impact of unfulfilled expectations. It suggests dwelling on the past and focusing on what has been lost, rather than acknowledging what remains. However, it also holds the potential for healing and growth, urging you to release negative emotions and move forward with hope.",
+      "reversed": "The reversed Five of Cups signifies a shift towards healing and acceptance. It indicates a willingness to let go of the past and embrace new possibilities. While the sting of loss may still linger, the focus is now on moving forward and rebuilding. This card also encourages you to acknowledge the blessings that remain and look for the positive within the situation."
+    },
+    "affirmations": {
+      "upright": [
+        "I choose to see the blessings that remain, even amidst loss.",
+        "I release my grip on what has been lost, and open my heart to new possibilities.",
+        "I acknowledge my pain, but I will not let it define me.",
+        "I find strength in acceptance and move forward with hope.",
+        "I forgive myself and others, and release the past with compassion.",
+        "I embrace the present moment and create space for healing and growth."
+      ],
+      "reversed": [
+        "I am ready to move on from past disappointments and embrace new opportunities.",
+        "I forgive myself for past mistakes and focus on creating a brighter future.",
+        "I release my attachment to what no longer serves me and make space for joy and abundance.",
+        "I find strength in my resilience and ability to overcome challenges.",
+        "I choose to see the good in every situation and find gratitude for all that I have.",
+        "I open my heart to love, joy, and healing, knowing that I am worthy of happiness."
+      ]
+    },
+    "number": 26
+  },
+  {
+    "name": "Six of Cups",
+    "type": "cups",
+    "keywords": {
+      "upright": [
+        "Nostalgia",
+        "innocence",
+        "childhood",
+        "happiness",
+        "healing",
+        "generosity",
+        "compassion",
+        "forgiveness",
+        "reconnect with the past",
+        "inner child"
+      ],
+      "reversed": [
+        "Immaturity",
+        "escapism",
+        "living in the past",
+        "clinging to the past",
+        "unresolved issues from childhood",
+        "lack of emotional depth"
+      ]
+    },
+    "description": {
+      "upright": "The Six of Cups is a card of nostalgia, innocence, and the joy of childhood. It reminds us of simpler times and the importance of cherishing our memories. This card can also indicate a time of healing and forgiveness, as we let go of past hurts and move forward with open hearts. The Six of Cups encourages us to reconnect with our inner child and rediscover the joy and wonder of life. When this card appears in a reading, it may be time to reach out to old friends or family members, or to revisit places that hold special memories. It is also a reminder to be kind and compassionate to ourselves and others.",
+      "reversed": "The reversed Six of Cups can indicate a resistance to change and a tendency to cling to the past. We may be living in a state of denial, refusing to acknowledge the present moment. This card can also represent unresolved issues from childhood that are affecting us in the present. If we are stuck in the past, we cannot move forward into the future. The reversed Six of Cups encourages us to face our past and learn from it, so that we can release it and move on. It is also a reminder that we cannot relive our childhood, and that it is important to focus on the present moment."
+    },
+    "affirmations": {
+      "upright": [
+        "I find joy in simple pleasures and cherished memories.",
+        "I nurture my inner child with kindness and compassion.",
+        "I open my heart to the gifts of nostalgia and innocence.",
+        "I create a safe space for playful exploration and joyful connection.",
+        "I share my gifts freely, spreading warmth and happiness to others.",
+        "I forgive the past and embrace the present with open arms."
+      ],
+      "reversed": [
+        "I release the past and create space for new beginnings.",
+        "I move forward with clarity and purpose, unburdened by nostalgia.",
+        "I embrace the present moment and all its possibilities.",
+        "I set healthy boundaries to protect my energy and well-being.",
+        "I see things as they are, without distortion or illusion.",
+        "I cultivate a sense of groundedness and maturity in my life."
+      ]
+    },
+    "number": 27
+  },
+  {
+    "name": "Seven of Cups",
+    "type": "cups",
+    "keywords": {
+      "upright": [
+        "Imagination",
+        "Choice",
+        "Opportunity",
+        "Wishful thinking",
+        "Illusion",
+        "Temptation",
+        "Indecision",
+        "Daydreaming"
+      ],
+      "reversed": [
+        "Confusion",
+        "Delusion",
+        "Addiction",
+        "Missed opportunities",
+        "Procrastination",
+        "Lack of clarity",
+        "Escapism",
+        "Disillusionment"
+      ]
+    },
+    "description": {
+      "upright": "The Seven of Cups represents a world of possibilities, imagination, and opportunity. It suggests a time of great potential, where you are presented with a variety of choices and paths to take. However, it can also be a time of confusion and indecision, as you may be unsure which way to go. The upright Seven of Cups can encourage you to explore your options and dreams, but it also warns against getting lost in illusions or chasing fantasies. Be clear about your values and goals, and make your decisions wisely.",
+      "reversed": "The reversed Seven of Cups suggests a lack of clarity or direction. You may be feeling lost, confused, or unsure of what you want. This can lead to procrastination, escapism, and poor decision-making. The reversed Seven of Cups can also be a sign of addiction, delusion, or being stuck in a fantasy world. It's time to face reality and take responsibility for your choices. Be honest with yourself about what you want and need, and make a plan to move forward."
+    },
+    "affirmations": {
+      "upright": [
+        "I see a world of possibilities and choose my path with intention.",
+        "I release distractions and focus on what truly matters.",
+        "My dreams guide me towards fulfilling my highest potential.",
+        "I embrace my imagination and create the life I desire.",
+        "I discern between illusion and reality, making wise choices.",
+        "I balance my dreams with action, manifesting my goals."
+      ],
+      "reversed": [
+        "I release unrealistic expectations and embrace grounded action.",
+        "I focus on clear goals and avoid distractions.",
+        "I see through illusions and make choices based on truth.",
+        "I ground my dreams in reality, creating a solid foundation.",
+        "I move from contemplation to action, bringing my visions to life.",
+        "I trust my intuition and take decisive steps forward."
+      ]
+    },
+    "number": 28
+  },
+  {
+    "name": "Eight of Cups",
+    "type": "cups",
+    "keywords": {
+      "upright": [
+        "Transition",
+        "Letting go",
+        "Disillusionment",
+        "Seeking fulfillment",
+        "Inner journey",
+        "Introspection",
+        "Change of direction"
+      ],
+      "reversed": [
+        "Fear of change",
+        "Resistance to letting go",
+        "Clinging to the past",
+        "Hesitation",
+        "Stagnation",
+        "Lack of direction",
+        "Escapism"
+      ]
+    },
+    "description": {
+      "upright": "The Eight of Cups represents a time of change and transition. It signifies leaving behind the past, often things that no longer serve you, in order to pursue something more meaningful. This can involve moving away from relationships, jobs, or situations that have become unfulfilling. It can also be a time of inner exploration and self-discovery. The 8 of Cups encourages you to trust your intuition and follow your heart, even if it means walking away from what is familiar.",
+      "reversed": "The reversed Eight of Cups can indicate a fear of change or resistance to letting go. You may be clinging to the past or hesitant to move forward. This card can also represent stagnation, lack of direction, or escapism. It is important to acknowledge and address the underlying issues that are holding you back. The reversed 8 of Cups encourages you to face your fears and embrace the inevitable changes in life."
+    },
+    "affirmations": {
+      "upright": [
+        "I release what no longer serves me and embark on a new journey of fulfillment.",
+        "I courageously walk away from dissatisfaction and seek a path aligned with my true purpose.",
+        "I trust my intuition and embrace the unknown, knowing that something better awaits me.",
+        "I turn my back on empty promises and create a life that nourishes my soul.",
+        "I seek meaningful connections and experiences, guided by my inner compass.",
+        "I honor my emotions and allow them to lead me to a place of greater authenticity."
+      ],
+      "reversed": [
+        "I acknowledge my fear of change and find the strength to move forward.",
+        "I release my emotional attachments and create space for new possibilities.",
+        "I confront my stagnation and seek opportunities for growth and renewal.",
+        "I embrace the lessons of the past and integrate them into my present journey.",
+        "I forgive myself for past mistakes and open my heart to new experiences.",
+        "I reclaim my personal power and create a life that aligns with my values."
+      ]
+    },
+    "number": 29
+  },
+  {
+    "name": "Nine of Cups",
+    "type": "cups",
+    "keywords": {
+      "upright": [
+        "Contentment",
+        "Satisfaction",
+        "Gratitude",
+        "Wish come true",
+        "Fulfillment",
+        "Emotional well-being",
+        "Success",
+        "Pleasure",
+        "Abundance"
+      ],
+      "reversed": [
+        "Inner happiness",
+        "Dissatisfaction",
+        "Indulgence",
+        "Materialism",
+        "Emotional stagnation",
+        "Unrealistic expectations",
+        "Lack of fulfillment",
+        "Empty pleasures"
+      ]
+    },
+    "description": {
+      "upright": "The Nine of Cups is a card of deep contentment, satisfaction, and emotional well-being. It signifies the fulfillment of desires and wishes, and a time of enjoying the fruits of your labor. This card can also indicate success, abundance, and prosperity. When upright, the Nine of Cups encourages you to take time to appreciate all the good things in your life, and to savor the moment. It is a reminder that you are worthy of happiness and deserve to enjoy life's pleasures.",
+      "reversed": "The reversed Nine of Cups can indicate a sense of inner dissatisfaction or emptiness, even though you may have everything you think you want. It can suggest that you are focusing too much on material things and neglecting your emotional needs. This card may also be a warning against indulging in excess or overindulgence. When reversed, the Nine of Cups encourages you to take a step back and re-evaluate your priorities. It is a reminder that true happiness comes from within, and that material possessions cannot fill the void of a lack of emotional fulfillment."
+    },
+    "affirmations": {
+      "upright": [
+        "I bask in the abundance of joy and fulfillment.",
+        "My heart overflows with gratitude for all that I have."
+      ],
+      "reversed": [
+        "I release the grip of desire and embrace contentment.",
+        "True happiness lies within, not in external validation."
+      ]
+    },
+    "number": 30
+  },
+  {
+    "name": "Ten of Cups",
+    "type": "cups",
+    "keywords": {
+      "upright": [
+        "Happiness",
+        "Harmony",
+        "Emotional Fulfillment",
+        "Family",
+        "Love",
+        "Completion",
+        "Celebration",
+        "Community"
+      ],
+      "reversed": [
+        "Discord",
+        "Unhappiness",
+        "Lack of Harmony",
+        "Family Issues",
+        "Emotional Instability",
+        "Broken Relationships",
+        "Isolation",
+        "Loss"
+      ]
+    },
+    "description": {
+      "upright": "The Ten of Cups represents a time of profound happiness and emotional fulfillment. It signifies a deep sense of connection and love in your relationships, whether romantic, familial, or platonic. This card can also indicate a joyous celebration, a new beginning, or the culmination of a long-held dream. In its upright position, the Ten of Cups is a powerful symbol of emotional abundance and lasting love.",
+      "reversed": "In its reversed position, the Ten of Cups suggests challenges and discord within your relationships. It can indicate emotional instability, lack of harmony, and unresolved issues. This card may also be a sign of family problems, broken relationships, or feelings of isolation. However, it is important to remember that even in its reversed position, the Ten of Cups does not signify complete disaster. Instead, it suggests a need for reflection, healing, and communication. By acknowledging the challenges present, you can work towards creating a more harmonious and fulfilling life."
+    },
+    "affirmations": {
+      "upright": [
+        "I embrace the overflowing joy of deep connection and abundant love.",
+        "I open my heart to receive and share blessings, knowing my cup is always full."
+      ],
+      "reversed": [
+        "I release blockages to emotional fulfillment and allow love to flow freely.",
+        "I seek understanding and mend broken connections, knowing harmony is always possible."
+      ]
+    },
+    "number": 31
+  },
+  {
+    "name": "Page of Cups",
+    "type": "cups",
+    "keywords": {
+      "upright": [
+        "Creativity",
+        "Imagination",
+        "Empathy",
+        "Intuition",
+        "New beginnings",
+        "Sensitive",
+        "Innocence",
+        "Openness",
+        "Messenger",
+        "Artistic"
+      ],
+      "reversed": [
+        "Emotional immaturity",
+        "Naiveté",
+        "Manipulation",
+        "Deception",
+        "Hidden emotions",
+        "Lack of inspiration",
+        "Confusion",
+        "Unrealistic expectations",
+        "Lack of clarity"
+      ]
+    },
+    "description": {
+      "upright": "The Page of Cups represents a gentle and sensitive soul. This card signifies new beginnings, fresh ideas, and a surge of creativity. It encourages you to connect with your intuition and emotions, and to express yourself in a genuine and authentic way. The Page of Cups can also represent a messenger bringing good news, or a young person who is entering your life and bringing joy and light. Reversed, the Page of Cups can indicate emotional immaturity, naiveté, or a tendency to be easily manipulated by others. It may also suggest that you are hiding your true feelings, or that you are not being completely honest with yourself or others. This card can also represent a lack of inspiration, creativity, or clarity.",
+      "reversed": "The Page of Cups reversed can be a sign of emotional immaturity, naiveté, or a tendency to be easily manipulated by others. It may also suggest that you are hiding your true feelings, or that you are not being completely honest with yourself or others. This card can also represent a lack of inspiration, creativity, or clarity. However, it can also be a call to action, urging you to get in touch with your emotions and express yourself more authentically. The Page of Cups reversed can also represent a message that needs to be heard, or a person who is trying to communicate with you but is not being successful. Take some time to reflect on your own emotions and how you are communicating with others. Are you being open and honest? Are you listening to your intuition? Once you have a better understanding of your own emotional state, you can start to make changes and improve your relationships with others."
+    },
+    "affirmations": {
+      "upright": [
+        "I embrace my creativity and express myself authentically.",
+        "I open my heart to new experiences and possibilities.",
+        "I trust my intuition and follow my dreams.",
+        "I share my emotions freely and connect with others on a deep level.",
+        "I find beauty in the everyday and create my own happiness.",
+        "I let my imagination run wild and explore the world with wonder."
+      ],
+      "reversed": [
+        "I am learning to balance my emotions and express myself in healthy ways.",
+        "I am working on overcoming my fears and insecurities.",
+        "I am setting boundaries and protecting my energy.",
+        "I am taking time for self-care and nurturing my creativity.",
+        "I am listening to my intuition and trusting my inner wisdom.",
+        "I am open to change and growth, and I am creating a life that aligns with my values."
+      ]
+    },
+    "number": 32
+  },
+  {
+    "name": "Knight of Cups",
+    "type": "cups",
+    "keywords": {
+      "upright": [
+        "Creativity",
+        "Romance",
+        "Charm",
+        "Imagination",
+        "Beauty",
+        "Intuition",
+        "Compassion",
+        "Diplomacy",
+        "Sensitivity",
+        "Dreams",
+        "New beginnings"
+      ],
+      "reversed": [
+        "Overactive imagination",
+        "Unrealistic",
+        "Jealous",
+        "Moody",
+        "Emotionally manipulative",
+        "Deception",
+        "Lack of clarity",
+        "Indecision"
+      ]
+    },
+    "description": {
+      "upright": "The Knight of Cups is a card of creativity, romance, and imagination. It suggests that you are in touch with your emotions and intuition, and that you are able to express yourself creatively. This is a time to be open to new possibilities and to follow your heart. The Knight of Cups can also represent a charming and diplomatic person who is able to bring people together. In a relationship reading, the Knight of Cups can indicate a new romantic interest or a deepening of an existing relationship.",
+      "reversed": "The reversed Knight of Cups can indicate that you are being overly emotional or that you are not in touch with your intuition. You may be having difficulty expressing yourself creatively, or you may be feeling uninspired. The reversed Knight of Cups can also represent someone who is manipulative or deceptive. This is a time to be cautious and to be aware of the motivations of others."
+    },
+    "affirmations": {
+      "upright": [
+        "I embrace my emotions and express them with authenticity.",
+        "I extend compassion and understanding to those around me.",
+        "I follow my intuition and allow my heart to guide my actions.",
+        "I create beauty and harmony in my life and in the world.",
+        "I pursue my passions with enthusiasm and joy.",
+        "I share my love openly and generously."
+      ],
+      "reversed": [
+        "I am working to balance my emotions and express them in healthy ways.",
+        "I am grounding myself in reality and moving forward with intention.",
+        "I am taking time for self-reflection and listening to my inner wisdom.",
+        "I am setting clear boundaries and protecting my energy.",
+        "I am releasing unrealistic expectations and embracing the present moment.",
+        "I am forgiving myself and others, and moving forward with compassion."
+      ]
+    },
+    "number": 33
+  },
+  {
+    "name": "Queen of Cups",
+    "type": "cups",
+    "keywords": {
+      "upright": [
+        "Nurturing",
+        "Compassionate",
+        "Intuitive",
+        "Creative",
+        "Flow",
+        "Empathy",
+        "Sensitive"
+      ],
+      "reversed": [
+        "Emotional",
+        "Manipulative",
+        "Overly Sensitive",
+        "Deception",
+        "Repression",
+        "Secretive",
+        "Unbalanced"
+      ]
+    },
+    "description": {
+      "upright": "The Queen of Cups represents the archetype of the nurturing mother, embodying compassion, intuition, and creativity. She encourages you to tap into your emotional depths and connect with your feelings. This card can also signify strong intuition, psychic abilities, and the ability to offer emotional support to others. In relationships, the Queen of Cups suggests a loving and supportive partner, or the potential for one to enter your life.",
+      "reversed": "When reversed, the Queen of Cups can indicate emotional imbalance, manipulation, or a tendency to be overly sensitive. You may be feeling overwhelmed by your emotions or struggling to connect with others. This can also be a sign of deception, repression, or a lack of emotional clarity. In relationships, the reversed Queen of Cups can suggest a manipulative partner, a lack of emotional support, or difficulty expressing your feelings."
+    },
+    "affirmations": {
+      "upright": [
+        "I nurture my emotions and the emotions of others with compassion and grace.",
+        "I create harmony and understanding through my intuitive wisdom and gentle guidance.",
+        "I embrace my sensitivity as a source of strength, flowing with my feelings and trusting my intuition.",
+        "I listen deeply to my heart, honoring my emotions and expressing them with authenticity.",
+        "I create a safe space for others to share their vulnerabilities, offering unconditional love and acceptance.",
+        "I connect deeply with others on an emotional level, fostering intimacy and trust."
+      ],
+      "reversed": [
+        "I reclaim my emotional balance and release any feelings of overwhelm or self-sacrifice.",
+        "I set healthy boundaries to protect my energy and nurture my own needs.",
+        "I trust my intuition and speak my truth with clarity and compassion.",
+        "I honor my emotions without allowing them to control me, finding strength in vulnerability.",
+        "I create healthy connections with others, balancing my needs with theirs.",
+        "I forgive myself for past emotional wounds and move forward with love and acceptance."
+      ]
+    },
+    "number": 34
+  },
+  {
+    "name": "King of Cups",
+    "type": "cups",
+    "keywords": {
+      "upright": [
+        "Compassion",
+        "Intuition",
+        "Creativity",
+        "Sensitivity",
+        "Empathy",
+        "Balance",
+        "Diplomacy",
+        "Harmony",
+        "Peace",
+        "Guidance"
+      ],
+      "reversed": [
+        "Repression",
+        "Emotional imbalance",
+        "Manipulation",
+        "Lack of self-awareness",
+        "Deception",
+        "Unreliability",
+        "Unresolved issues",
+        "Victim mentality"
+      ]
+    },
+    "description": {
+      "upright": "The King of Cups represents mastery over the realms of emotion, creativity, and the unconscious. He embodies the qualities of compassion, empathy, and intuition. Upright, this card indicates a time for emotional maturity and balance. You are in tune with your feelings and able to express them in a healthy way. You are also a natural leader who inspires others with your kindness and understanding. The King of Cups can also represent a positive male figure in your life, such as a father, mentor, or lover.",
+      "reversed": "The reversed King of Cups suggests emotional imbalance and instability. You may be repressing your feelings or expressing them in unhealthy ways. This card can also indicate manipulation, deception, or unreliability. Be wary of anyone who seems too good to be true. The reversed King of Cups can also represent a negative male figure in your life who is controlling or abusive."
+    },
+    "affirmations": {
+      "upright": [
+        "I embrace compassion and empathy, allowing emotions to flow freely.",
+        "I tap into my intuition and creativity, crafting a life filled with love."
+      ],
+      "reversed": [
+        "I release emotional blockages, finding peace and clarity within.",
+        "I reclaim my inner wisdom, stepping into my role as a compassionate leader."
+      ]
+    },
+    "number": 35
+  },
+  {
+    "name": "Ace of Swords",
+    "type": "swords",
+    "keywords": {
+      "upright": [
+        "Clarity",
+        "Intellect",
+        "New beginnings",
+        "Breakthrough",
+        "Communication",
+        "Truth",
+        "Victory"
+      ],
+      "reversed": [
+        "Confusion",
+        "Harshness",
+        "Mental block",
+        "Defeat",
+        "Miscommunication",
+        "Deception"
+      ]
+    },
+    "description": {
+      "upright": "The Ace of Swords signifies a new beginning, a moment of clarity and insight. It represents the power of intellect, communication, and truth. This card encourages you to use your mind to create new ideas, solve problems, and overcome challenges. The Ace of Swords can also signify victory, success, and achieving your goals.",
+      "reversed": "The reversed Ace of Swords indicates confusion, negativity, and mental blocks. It warns you against being too harsh or critical, and to be careful not to say things you don't mean. This card can also represent defeat, setbacks, and failure. The reversed Ace of Swords suggests that you need to clear your mind and get back on track."
+    },
+    "affirmations": {
+      "upright": [
+        "I seize clarity and truth with a sharp mind.",
+        "I pierce through illusions and embrace newfound understanding.",
+        "I boldly speak my truth, cutting through doubt and uncertainty.",
+        "My thoughts are focused and decisive, leading to powerful action.",
+        "I embrace breakthrough ideas that cut through challenges.",
+        "I wield my intellect with integrity, seeking justice and fairness."
+      ],
+      "reversed": [
+        "I release blocked thoughts and invite fresh perspectives.",
+        "I choose my words with care, fostering understanding and compassion.",
+        "I turn inward, seeking clarity and balance within my mind.",
+        "I navigate challenges with patience and open-mindedness.",
+        "I release the need to control and trust in the wisdom of uncertainty.",
+        "I find strength in vulnerability, opening myself to new possibilities."
+      ]
+    },
+    "number": 36
+  },
+  {
+    "name": "Two of Swords",
+    "type": "swords",
+    "keywords": {
+      "upright": [
+        "Difficult decision",
+        "Confusion",
+        "Stalemate",
+        "Truce",
+        "Meditation",
+        "Balance",
+        "Partnership"
+      ],
+      "reversed": [
+        "Indecisiveness",
+        "Procrastination",
+        "Avoidance",
+        "Illusion",
+        "Deception",
+        "Disharmony",
+        "Dishonesty"
+      ]
+    },
+    "description": {
+      "upright": "The Two of Swords represents a period of difficulty and uncertainty. You are facing a challenging decision, but you are unclear about which option to take. This card can also indicate a need for balance and harmony in your relationships. If reversed, the Two of Swords can suggest indecisiveness, procrastination, and a tendency to avoid problems. It can also warn of deception, illusion, and dishonesty.",
+      "reversed": "The reversed Two of Swords signifies indecisiveness, procrastination, and a refusal or inability to face reality. You may be avoiding a difficult decision or situation, but this will only make things worse in the long run. The reversed card can also warn of deception, illusion, and dishonesty. Someone may be trying to mislead you, so be careful who you trust. This is a time for introspection and self-reflection. You need to take some time to clear your head and figure out what you want. Once you have a better understanding of your own needs and desires, you will be able to make the best decision for yourself."
+    },
+    "affirmations": {
+      "upright": [
+        "I find clarity within my peaceful stillness.",
+        "I weigh all options with a balanced mind.",
+        "I embrace tranquility as I seek inner truth.",
+        "I calmly navigate emotional waters with grace.",
+        "I skillfully unite logic and intuition for harmonious decisions.",
+        "I maintain composure as I navigate challenges with wisdom."
+      ],
+      "reversed": [
+        "I release indecision and embrace decisive action.",
+        "I confront my emotions with courage and honesty.",
+        "I open my eyes to the truth, no matter how difficult.",
+        "I trust my intuition to guide me through uncertainty.",
+        "I break through stagnation by seeking new perspectives.",
+        "I embrace the clarity that comes from facing my challenges head-on."
+      ]
+    },
+    "number": 37
+  },
+  {
+    "name": "Three of Swords",
+    "type": "swords",
+    "keywords": {
+      "upright": [
+        "Heartbreak",
+        "Sorrow",
+        "Betrayal",
+        "Grief",
+        "Pain",
+        "Rejection",
+        "Hurt"
+      ],
+      "reversed": [
+        "Healing",
+        "Moving On",
+        "Acceptance",
+        " Forgiveness",
+        "Resilience",
+        "Release",
+        "Growth"
+      ]
+    },
+    "description": {
+      "upright": "The Three of Swords represents deep emotional pain, sorrow, and heartache. It can indicate a loss of love, betrayal, or a difficult decision that caused emotional wounds. The card can also signify emotional turmoil, grief, and a period of mourning. However, despite the pain, the Three of Swords can also suggest a necessary cleansing and release of emotions, leading to healing and growth.",
+      "reversed": "The Three of Swords reversed suggests a shift towards healing and moving on from emotional pain. It indicates a willingness to confront and process negative emotions, leading to forgiveness and acceptance. The reversed card can also signify a newfound resilience and strength in the face of adversity. However, it can also warn against repressing emotions or refusing to acknowledge pain, as this can hinder the healing process."
+    },
+    "affirmations": {
+      "upright": [
+        "I honor my pain and allow it to guide me towards healing.",
+        "I release the burdens of my past and make space for new beginnings.",
+        "I forgive myself and others, and move forward with compassion.",
+        "I embrace my vulnerability and find strength in my authenticity.",
+        "I transform my heartbreak into wisdom and resilience.",
+        "I choose to create beauty from my sorrow and find peace within myself."
+      ],
+      "reversed": [
+        "I gently release the grip of my pain and allow myself to heal.",
+        "I forgive myself for past mistakes and embrace the lessons learned.",
+        "I open my heart to love and connection, even amidst uncertainty.",
+        "I seek support and guidance from those who care about me.",
+        "I find strength in vulnerability and share my truth with others.",
+        "I create healthy boundaries to protect my energy and well-being."
+      ]
+    },
+    "number": 38
+  },
+  {
+    "name": "Four of Swords",
+    "type": "swords",
+    "keywords": {
+      "upright": [
+        "Rest",
+        "Peace",
+        "Contemplation",
+        "Recovery",
+        "Meditation",
+        "Withdrawal",
+        "Surrender",
+        "Introspection"
+      ],
+      "reversed": [
+        "Burnout",
+        "Stagnation",
+        "Isolation",
+        "Exhaustion",
+        "Lack of motivation",
+        "Depression",
+        "Fear of change",
+        "Inability to move forward"
+      ]
+    },
+    "description": {
+      "upright": "The Four of Swords represents a time of rest and recuperation. It is a card of peace, tranquility, and introspection. It can indicate a need to withdraw from the world and take some time for yourself. This withdrawal can be physical, mental, or emotional. The Four of Swords can also represent a time of healing and recovery, both from physical illness and emotional wounds. It is a time to surrender and trust in the process of healing. When the Four of Swords appears in a reading, it is a reminder to take some time for yourself and to listen to your inner voice. It is a time to reconnect with your true self and to find peace and harmony within.",
+      "reversed": "The reversed Four of Swords can indicate burnout, exhaustion, and a lack of motivation. It can also suggest a fear of change or a reluctance to move forward. The reversed card can also be a sign of isolation and loneliness. When the reversed Four of Swords appears in a reading, it is a reminder to take care of yourself and to make time for rest and relaxation. It is also a time to face your fears and to make the changes that you need to move forward in your life."
+    },
+    "affirmations": {
+      "upright": [
+        "I embrace rest and solitude, knowing they replenish my spirit.",
+        "I create peaceful spaces within to nurture my inner strength.",
+        "I release anxious thoughts and surrender to tranquility.",
+        "I honor my need for retreat and allow healing to unfold.",
+        "I find clarity and focus through stillness and contemplation.",
+        "My mind is calm, my body is relaxed, and my spirit is renewed."
+      ],
+      "reversed": [
+        "I gently release resistance and allow myself to fully rest.",
+        "I create healthy boundaries to protect my energy and peace.",
+        "I acknowledge my need for solitude without isolating myself.",
+        "I seek support when needed, finding strength in connection.",
+        "I balance introspection with action, moving forward with intention.",
+        "I trust my intuition to guide me toward inner harmony and renewal."
+      ]
+    },
+    "number": 39
+  },
+  {
+    "name": "Five of Swords",
+    "type": "swords",
+    "keywords": {
+      "upright": ["Conflict", "Loss", "Victory", "Deception", "Cunning"],
+      "reversed": [
+        "Reconciliation",
+        "Letting go",
+        "Learning from mistakes",
+        "New perspective",
+        "Seeking help"
+      ]
+    },
+    "description": {
+      "upright": "The Five of Swords signifies conflict, disagreement, and tension. It can represent a feeling of winning a battle but losing the war, or experiencing a sense of detachment after a struggle. The card encourages introspection and reflection on the cost of victory and the importance of diplomacy. It can also indicate deception and manipulation.",
+      "reversed": "The reversed Five of Swords suggests a willingness to move beyond conflict and seek reconciliation. It indicates a desire to learn from past mistakes and adopt a new perspective. The card also encourages reaching out for help and support to overcome challenges. It signifies a period of healing and forgiveness."
+    },
+    "affirmations": {
+      "upright": [
+        "I choose to walk away from conflict and focus on healing.",
+        "I release the need to be right and embrace compassion.",
+        "I learn from my mistakes and grow stronger through adversity.",
+        "I forgive myself and others, and move forward with grace.",
+        "I find peace within myself, even amidst challenges.",
+        "I honor my boundaries and create space for healthy relationships."
+      ],
+      "reversed": [
+        "I let go of bitterness and resentment, and open my heart to forgiveness.",
+        "I choose to see challenges as opportunities for growth.",
+        "I find the courage to admit my mistakes and make amends.",
+        "I release the need to control and surrender to the flow of life.",
+        "I trust my intuition and find the strength to move forward.",
+        "I create peace within myself and radiate it into the world."
+      ]
+    },
+    "number": 40
+  },
+  {
+    "name": "Six of Swords",
+    "type": "swords",
+    "keywords": {
+      "upright": [
+        "Transition",
+        "Journey",
+        "Letting Go",
+        "Healing",
+        "Moving On"
+      ],
+      "reversed": [
+        "Resistance to Change",
+        "Stuck in the Past",
+        "Fear of the Unknown",
+        "Emotional Baggage",
+        "Delays"
+      ]
+    },
+    "description": {
+      "upright": "The Six of Swords signifies a period of transition, a journey away from the familiar and towards the unknown. It suggests that you are leaving behind a past that no longer serves you and moving towards a new beginning. This card can also represent healing from emotional wounds and letting go of negativity. It encourages you to trust the process and have faith that you are headed in the right direction.",
+      "reversed": "The reversed Six of Swords indicates resistance to change and a fear of the unknown. You may be clinging to the past or holding onto emotional baggage that is preventing you from moving forward. This card can also suggest delays or setbacks in your plans. It encourages you to face your fears and release any negativity that is holding you back."
+    },
+    "affirmations": {
+      "upright": [
+        "I move forward with grace and ease, leaving behind what no longer serves me.",
+        "I navigate challenges with a calm and steady heart, knowing that calmer waters lie ahead.",
+        "I embrace the journey of healing and growth, trusting that it will lead me to a brighter future.",
+        "I release the burdens of the past and step into a new chapter of peace and tranquility.",
+        "I cross boundaries and explore new horizons, expanding my mind and spirit.",
+        "I seek out new perspectives and find clarity in the midst of change."
+      ],
+      "reversed": [
+        "I release resistance and allow myself to move forward, even if it feels uncertain.",
+        "I confront my fears and take action, knowing that stagnation only leads to further pain.",
+        "I forgive myself for past mistakes and embrace the lessons they have taught me.",
+        "I seek guidance and support from others as I navigate this challenging time.",
+        "I trust my intuition and take the steps necessary to create positive change in my life.",
+        "I find strength in vulnerability and allow myself to heal from past wounds."
+      ]
+    },
+    "number": 41
+  },
+  {
+    "name": "Seven of Swords",
+    "type": "swords",
+    "keywords": {
+      "upright": [
+        "Deception",
+        "Betrayal",
+        "Manipulation",
+        "Stealth",
+        "Strategy",
+        "Cunning"
+      ],
+      "reversed": [
+        "Facing truth",
+        "Taking responsibility",
+        "Clear communication",
+        "Honesty",
+        "New beginnings",
+        "Overcoming obstacles"
+      ]
+    },
+    "description": {
+      "upright": "The Seven of Swords represents deception, trickery, and hidden agendas. It can indicate that someone is dishonest or manipulative, or that you yourself are tempted to take a shortcut that involves dishonesty. This card can also suggest that you need to be more strategic in your approach to a situation, or that you need to be more careful about who you trust.",
+      "reversed": "The reversed Seven of Swords indicates that you are ready to come clean and face the truth. You are taking responsibility for your actions and are committed to honesty and integrity. This card can also suggest that you are overcoming obstacles and challenges, and that you are moving forward with a new sense of clarity and purpose."
+    },
+    "affirmations": {
+      "upright": [
+        "I embrace agility and resourcefulness, navigating challenges with cleverness and adaptability.",
+        "I release the need for control, trusting my intuition and the natural flow of events."
+      ],
+      "reversed": [
+        "I integrate past lessons, letting go of deceptive behaviors for a more honest path.",
+        "I choose transparency and open communication, fostering trust and deeper connections."
+      ]
+    },
+    "number": 42
+  },
+  {
+    "name": "Eight of Swords",
+    "type": "swords",
+    "keywords": {
+      "upright": [
+        "Feeling trapped",
+        "Limited perspective",
+        "Self-doubt",
+        "Uncertainty",
+        "Victim mentality"
+      ],
+      "reversed": [
+        "Breaking free",
+        "Seeing things clearly",
+        "Overcoming challenges",
+        "Taking control",
+        "Empowerment"
+      ]
+    },
+    "description": {
+      "upright": "The Eight of Swords in the upright position indicates a feeling of being trapped, limited, and uncertain. You may feel overwhelmed by challenges and unable to see a way out. This card can also represent self-doubt, negative thinking, and a victim mentality.",
+      "reversed": "In the reversed position, the Eight of Swords signifies breaking free from limitations and overcoming challenges. You are gaining a clearer perspective and taking back control of your life. This card also suggests a shift from a victim mentality to one of empowerment."
+    },
+    "affirmations": {
+      "upright": [
+        "I break free from the constraints that bind me.",
+        "I see beyond my limiting beliefs and embrace new possibilities.",
+        "I release the fears that hold me back and step into my power.",
+        "I reclaim my voice and speak my truth with courage.",
+        "I face my challenges with clarity and determination.",
+        "I trust my intuition and take action to create positive change."
+      ],
+      "reversed": [
+        "I acknowledge the negative thoughts that trap me and choose to release them.",
+        "I seek guidance and support to overcome my self-imposed limitations.",
+        "I forgive myself for past mistakes and move forward with confidence.",
+        "I embrace the truth, even when it is difficult.",
+        "I take responsibility for my own happiness and create the life I desire."
+      ]
+    },
+    "number": 43
+  },
+  {
+    "name": "Nine of Swords",
+    "type": "swords",
+    "keywords": {
+      "upright": ["Anxiety", "Fear", "Worry", "Sleeplessness", "Nightmares"],
+      "reversed": [
+        "Self-deception",
+        "Denial",
+        "Ignoring problems",
+        "Repressed emotions",
+        "Facing the truth"
+      ]
+    },
+    "description": {
+      "upright": "The Nine of Swords represents a state of mental anguish, anxiety, and worry. It can signify being plagued by negative thoughts, fears, and doubts that keep you up at night. These worries may be unfounded or exaggerated, but they are nonetheless causing you significant distress. The Nine of Swords can also suggest feelings of isolation, helplessness, and despair.",
+      "reversed": "The reversed Nine of Swords indicates that you are starting to face your fears and anxieties. You may be confronting the root cause of your problems, or simply acknowledging that they exist. This is a positive step, but it can still be a difficult process. The reversed Nine of Swords can also suggest that you are suppressing your emotions or denying your problems. This may be a coping mechanism in the short term, but it will ultimately prevent you from healing."
+    },
+    "affirmations": {
+      "upright": [
+        "I release my worries and find peace within myself.",
+        "I face my fears with courage and clarity.",
+        "I choose to seek support and guidance when I am feeling overwhelmed.",
+        "I embrace my vulnerability and allow myself to heal.",
+        "I forgive myself for past mistakes and move forward with confidence.",
+        "I trust my intuition and know that I am strong enough to overcome any challenge."
+      ],
+      "reversed": [
+        "I let go of negative thoughts and patterns that hold me back.",
+        "I seek out positive influences and surround myself with those who uplift me.",
+        "I practice self-compassion and patience as I work through my challenges.",
+        "I find healthy ways to cope with stress and anxiety.",
+        "I focus on the present moment and release the worries of the past and future.",
+        "I create a safe and supportive environment for myself to heal and grow."
+      ]
+    },
+    "number": 44
+  },
+  {
+    "name": "Ten of Swords",
+    "type": "swords",
+    "keywords": {
+      "upright": [
+        "Endings",
+        "Painful Loss",
+        "Betrayal",
+        "Victim Mentality",
+        "Rock Bottom"
+      ],
+      "reversed": [
+        "Renewal",
+        "Healing",
+        "Facing the Past",
+        "Letting Go",
+        "New Beginnings"
+      ]
+    },
+    "description": {
+      "upright": "The Ten of Swords represents a significant and painful ending. It can signify the end of a relationship, job, or project, often accompanied by feelings of betrayal, loss, and despair. It can also suggest feeling overwhelmed, defeated, and unable to move forward. However, this card also holds the potential for renewal and transformation. By hitting rock bottom, you are forced to confront your issues and make necessary changes. This can ultimately lead to a stronger and more resilient you.",
+      "reversed": "The Ten of Swords reversed suggests that you are beginning to heal from a difficult experience. You are facing your pain and finding the strength to move on. This card can also signify a new beginning or a fresh start. You are finally letting go of the past and embracing the future. However, the reversed Ten of Swords can still indicate unresolved issues or a tendency to dwell on the negative. Be sure to fully process your emotions and release any baggage that is holding you back."
+    },
+    "affirmations": {
+      "upright": [
+        "I release the pain of the past and make space for new beginnings.",
+        "I acknowledge my suffering and find strength in my resilience.",
+        "I surrender to what is and trust that this ending will lead to something better.",
+        "I embrace the lessons of this experience and allow them to transform me.",
+        "I honor my vulnerability and find compassion for myself in this difficult time.",
+        "I seek support from those who love me and allow myself to be nurtured."
+      ],
+      "reversed": [
+        "I refuse to be a victim and reclaim my power.",
+        "I break free from negative patterns and create a more positive reality for myself.",
+        "I forgive those who have hurt me and release myself from the burden of anger and resentment.",
+        "I find the courage to face my fears and move forward with confidence.",
+        "I trust my intuition and make choices that align with my highest good.",
+        "I embrace change and create a life that is full of joy and abundance."
+      ]
+    },
+    "number": 45
+  },
+  {
+    "name": "Page of Swords",
+    "type": "swords",
+    "keywords": {
+      "upright": [
+        "New ideas",
+        "communication",
+        "intelligence",
+        "curiosity",
+        "Mentality",
+        "intellect",
+        "analysis",
+        "logic"
+      ],
+      "reversed": [
+        "Misunderstandings",
+        "arguments",
+        "delay",
+        "gossip",
+        "Immaturity",
+        "impulsiveness",
+        "lack of focus"
+      ]
+    },
+    "description": {
+      "upright": "The Page of Swords represents a young, enthusiastic individual with a sharp intellect and a thirst for knowledge. This card can indicate new ideas, fresh perspectives, and a willingness to learn. It can also suggest clear communication, witty conversation, and a playful mind. In a reading, the Page of Swords may be urging you to use your intellect to solve problems, communicate effectively, and explore new possibilities.",
+      "reversed": "The reversed Page of Swords suggests a misuse of intellect or a lack of focus. This can manifest as arguments, misunderstandings, and gossip. The card may also warn against being overly critical, impulsive, or argumentative. In a reading, the reversed Page of Swords may be urging you to be more mindful of your words and actions, to think before you speak, and to listen more carefully to others."
+    },
+    "affirmations": {
+      "upright": [
+        "I speak my truth with clarity and conviction.",
+        "My mind is sharp and my ideas are fresh.",
+        "I am eager to learn and explore new possibilities.",
+        "I communicate with confidence and creativity.",
+        "I am a fearless advocate for change.",
+        "I embrace challenges with a sense of adventure."
+      ],
+      "reversed": [
+        "I am learning to focus my thoughts and choose my words carefully.",
+        "I am mindful of the impact of my communication on others.",
+        "I am open to feedback and willing to adjust my approach.",
+        "I am patient with myself as I develop my mental discipline.",
+        "I am committed to using my words for good."
+      ]
+    },
+    "number": 46
+  },
+  {
+    "name": "Knight of Swords",
+    "type": "swords",
+    "keywords": {
+      "upright": ["Action", "Determination", "Intellect", "Challenge", "Focus"],
+      "reversed": [
+        "Impulsiveness",
+        "Aggression",
+        "Conflict",
+        "Deception",
+        "Hasty Decisions"
+      ]
+    },
+    "description": {
+      "upright": "The Knight of Swords embodies a driven and ambitious spirit, rushing forward with unwavering conviction to achieve goals. He represents quick thinking, sharp intellect, and a powerful will. In a reading, the upright Knight signifies a time for decisive action, taking initiative, and using your mental clarity to overcome obstacles. However, it can also suggest impulsiveness, recklessness, and a lack of forethought.",
+      "reversed": "When reversed, the Knight of Swords indicates aggression, conflict, and hasty decisions. It can warn of impulsiveness, harsh words, and cutting criticisms. The reversed Knight may also represent deception, manipulation, and hidden agendas. This card suggests a need for caution, reflection, and tempering your impulsiveness before taking action."
+    },
+    "affirmations": {
+      "upright": [
+        "I harness my intellect and take decisive action to achieve my goals.",
+        "I fearlessly charge forward, embracing challenges with courage and confidence.",
+        "My mind is sharp, my words are direct, and my actions are swift.",
+        "I champion truth and justice, speaking my mind with conviction.",
+        "I break through barriers with my unwavering determination.",
+        "I ride the winds of change, adapting and innovating with ease."
+      ],
+      "reversed": [
+        "I pause to reflect before charging ahead, ensuring my actions are aligned with my values.",
+        "I temper my impulsiveness with patience and strategic thinking.",
+        "I communicate with clarity and compassion, considering the impact of my words.",
+        "I channel my energy constructively, avoiding conflict and unnecessary aggression.",
+        "I embrace flexibility and open-mindedness, adapting my approach as needed.",
+        "I balance my head and my heart, leading with both intellect and empathy."
+      ]
+    },
+    "number": 47
+  },
+  {
+    "name": "Queen of Swords",
+    "type": "swords",
+    "keywords": {
+      "upright": [
+        "Clarity",
+        "Wisdom",
+        "Justice",
+        "Independence",
+        "Objectivity",
+        "Intellect",
+        "Directness",
+        "Communication",
+        "Analysis",
+        "Truth",
+        "Strategy"
+      ],
+      "reversed": [
+        "Harshness",
+        "Cruelty",
+        "Coldness",
+        "Judgmental",
+        "Critical",
+        "Oversensitivity",
+        "Emotional Detachment",
+        "Dishonesty",
+        "Manipulation",
+        "Mental Blockage",
+        "Isolation"
+      ]
+    },
+    "description": {
+      "upright": "The Queen of Swords represents a woman of intellectual power, clear vision, and sharp wit. She embodies the element of air, signifying intellect, logic, and communication. Upright, this card can indicate a time of clarity and understanding, where you are able to see things with objectivity and make sound decisions based on truth and logic. It can also represent the need to communicate effectively, express your thoughts and feelings honestly, and stand up for yourself with confidence.",
+      "reversed": "The reversed Queen of Swords suggests a shadow side to her upright qualities. This can manifest as harshness, judgment, and a critical attitude. It can also represent emotional detachment, difficulty communicating effectively, and mental blocks that prevent clear thinking. The reversed Queen of Swords may be a warning to be more mindful of your words and actions, and to avoid being overly critical or judgmental."
+    },
+    "affirmations": {
+      "upright": [
+        "I embrace my intellectual prowess and wield my words with clarity and grace.",
+        "My sharp mind cuts through illusions, revealing truth and empowering wise decisions.",
+        "I stand firm in my boundaries, my presence a beacon of strength and unwavering resolve.",
+        "With discerning eyes and a compassionate heart, I guide others through challenges and emerge victorious."
+      ],
+      "reversed": [
+        "I soften my grip on control and allow wisdom to guide my actions instead of judgment.",
+        "I release the need to always be right and embrace the power of open-mindedness and understanding.",
+        "I transform my inner critic into a gentle voice of self-compassion and growth.",
+        "My strength lies not just in wielding the sword, but in choosing to lay it down when needed."
+      ]
+    },
+    "number": 48
+  },
+  {
+    "name": "King of Swords",
+    "type": "swords",
+    "keywords": {
+      "upright": [
+        "Intellectual power",
+        "Clarity of mind",
+        "Logic and reason",
+        "Justice and fairness",
+        "Leadership",
+        "Truth and honesty",
+        "Objective decision-making"
+      ],
+      "reversed": [
+        "Mental inflexibility",
+        "Harshness and criticism",
+        "Coldness and detachment",
+        "Dishonesty and manipulation",
+        "Loss of control",
+        "Lack of clarity and focus"
+      ]
+    },
+    "description": {
+      "upright": "The King of Swords represents the pinnacle of intellectual power and authority. He is a strong and decisive leader who thinks clearly, logically, and rationally. He is also fair and just, and he always strives to uphold the truth. When this card appears in a reading, it can indicate that you are in a position of power and influence, or that you are about to be. It can also suggest that you need to be more objective and rational in your thinking.",
+      "reversed": "The reversed King of Swords can represent mental inflexibility, harshness, and criticism. He can also be cold and detached, and he may be dishonest or manipulative. This card can also suggest that you are feeling lost and out of control, or that you are lacking clarity and focus. When this card appears in a reading, it is a warning to be careful of your thoughts and actions."
+    },
+    "affirmations": {
+      "upright": [
+        "I wield my intellect with grace and integrity.",
+        "I make clear-headed decisions that uphold my values.",
+        "My words are powerful and impactful, spoken with truth and compassion.",
+        "I lead with a steady hand, inspiring trust and respect in those around me.",
+        "I embrace my authority and use it to create positive change in the world.",
+        "I uphold justice and fairness in all my actions, guided by a strong moral compass."
+      ],
+      "reversed": [
+        "I balance my intellect with compassion, seeking understanding before judgment.",
+        "I communicate with clarity and empathy, fostering open and honest dialogue.",
+        "I temper my authority with humility, valuing collaboration and cooperation.",
+        "I release the need for control, trusting in the wisdom of others and the flow of life.",
+        "I embrace flexibility and open-mindedness, adapting gracefully to change.",
+        "I forgive myself for past mistakes, learning from them and moving forward with wisdom."
+      ]
+    },
+    "number": 49
+  },
+  {
+    "name": "Ace of Wands",
+    "type": "wands",
+    "keywords": {
+      "upright": [
+        "Creativity",
+        "Inspiration",
+        "New Beginnings",
+        "Action",
+        "Opportunity"
+      ],
+      "reversed": [
+        "Impatience",
+        "Lack of Motivation",
+        "Blocked Creativity",
+        "Delays",
+        "Disorganization"
+      ]
+    },
+    "description": {
+      "upright": "The Ace of Wands is a powerful card symbolizing new beginnings, creativity, inspiration, and action. It signifies a spark of potential, a surge of energy, and the birth of an idea. This card encourages you to embrace new opportunities and take bold steps towards your goals. It is a time to be courageous, confident, and optimistic about the future. Conversely, the reversed Ace of Wands suggests feelings of impatience, stagnation, and lack of motivation. You may be struggling to find your creative spark or feel blocked in your progress. This card may also indicate delays, disorganization, and a lack of focus. It is a time to re-evaluate your goals and strategies, and to find ways to reignite your passion and motivation.",
+      "reversed": "The reversed Ace of Wands can indicate a lack of enthusiasm, motivation, or creativity. You may be feeling burnt out, uninspired, or stuck in a rut. This card can also signify delays, obstacles, and difficulties in moving forward with your plans. It is a time to reflect on what is blocking your progress and to find ways to overcome these challenges. By taking action and focusing your energy, you can overcome these obstacles and move forward with your goals."
+    },
+    "affirmations": {
+      "upright": [
+        "I ignite my passions and create the life I desire.",
+        "My energy is boundless, and I am ready to take on any challenge.",
+        "I embrace new opportunities with enthusiasm and optimism.",
+        "My inspiration knows no bounds, and I am excited to share my gifts with the world.",
+        "I am a catalyst for change, and I fearlessly pursue my dreams.",
+        "My heart burns with a fierce determination to make a difference."
+      ],
+      "reversed": [
+        "I reclaim my power and take action to create change in my life.",
+        "I overcome my fears and move forward with confidence.",
+        "I focus my energy on my true passions and let go of distractions.",
+        "I trust my intuition and listen to the guidance of my heart.",
+        "I persevere through challenges and find strength in my resilience.",
+        "I embrace my creativity and express myself authentically."
+      ]
+    },
+    "number": 50
+  },
+  {
+    "name": "Two of Wands",
+    "type": "wands",
+    "keywords": {
+      "upright": [
+        "Planning",
+        "Vision",
+        "Ambition",
+        "Anticipation",
+        "Planning for the future",
+        "Weighing options",
+        "Exploration"
+      ],
+      "reversed": [
+        "Lack of clarity",
+        "Procrastination",
+        "Doubt",
+        "Fear of change",
+        "Inaction",
+        "Stuck in a rut",
+        "Lack of direction"
+      ]
+    },
+    "description": {
+      "upright": "The Two of Wands represents a time of planning, vision, and ambition. You are at a crossroads, surveying the landscape of your life and considering your next move. You are filled with anticipation and excitement about the future, but you are also taking the time to carefully consider your options. This card can also indicate a period of exploration and learning, as you gather information and resources to help you achieve your goals. When the Two of Wands appears in a reading, it is a reminder to be patient and thoughtful in your planning. Don't rush into action without a clear plan in place. Take your time to assess your options and choose the path that is right for you.",
+      "reversed": "The reversed Two of Wands can indicate a lack of clarity, direction, or purpose. You may be feeling lost or uncertain about what you want to do with your life. This card can also represent procrastination, doubt, and fear of change. You may be holding yourself back from taking the necessary steps to achieve your goals. When the reversed Two of Wands appears in a reading, it is a call to action. It's time to stop thinking and start doing. Take the first step towards achieving your dreams, even if you don't have all the answers. Trust that you will figure things out along the way."
+    },
+    "affirmations": {
+      "upright": [
+        "I stand poised at the precipice of possibility, clear vision fueling my bold first step.",
+        "With unwavering confidence, I map my course, embracing the thrill of uncharted territory."
+      ],
+      "reversed": [
+        "I seek clarity before committing to action, grounding my desires in a map of purpose.",
+        "Doubt whispers in the shadows, but I hold steady, rekindling the spark of my inner compass."
+      ]
+    },
+    "number": 51
+  },
+  {
+    "name": "Three of Wands",
+    "type": "wands",
+    "keywords": {
+      "upright": [
+        "Exploration",
+        "Expansion",
+        "Opportunity",
+        "Vision",
+        "Planning",
+        "Progress",
+        "Confidence",
+        "Ambition",
+        "Travel",
+        "New ventures"
+      ],
+      "reversed": [
+        "Lack of direction",
+        "Stagnation",
+        "Procrastination",
+        "Fear of change",
+        "Lack of confidence",
+        "Impatience",
+        "Delays",
+        "Unrealistic expectations",
+        "Obstacles"
+      ]
+    },
+    "description": {
+      "upright": "The Three of Wands signifies a time of exploration and expansion. You are looking forward to the future with optimism and are excited about new opportunities that are coming your way. You are confident in your abilities and are prepared to take on new challenges. This card can also indicate travel, new ventures, and a broadening of your horizons.",
+      "reversed": "The reversed Three of Wands suggests that you may be feeling stuck in a rut or that you are lacking direction in your life. You may be afraid of change or may be procrastinating on taking action towards your goals. This card can also indicate delays, obstacles, and unrealistic expectations. It is a reminder to take a step back and reassess your plan. What are your true goals and desires? Once you have a clear vision, you can start to take action to move forward."
+    },
+    "affirmations": {
+      "upright": [
+        "I boldly expand my horizons and embrace new opportunities.",
+        "I confidently navigate uncharted waters, knowing success awaits me.",
+        "My vision is clear, my plans are sound, and I am ready to take action.",
+        "I celebrate the progress I have made and eagerly anticipate what lies ahead.",
+        "I fearlessly step into my power and create the life I have always dreamed of.",
+        "My heart is open to the world, and I embrace all that it has to offer."
+      ],
+      "reversed": [
+        "I release the fear of the unknown and embrace the possibilities of change.",
+        "I seek guidance and support as I navigate new challenges.",
+        "I recommit to my goals and dreams, taking action to bring them to life.",
+        "I acknowledge my setbacks, but I do not let them define me.",
+        "I rediscover my passion and purpose, moving forward with renewed energy.",
+        "I trust in my ability to overcome obstacles and create a life of joy and fulfillment."
+      ]
+    },
+    "number": 52
+  },
+  {
+    "name": "Four of Wands",
+    "type": "wands",
+    "keywords": {
+      "upright": [
+        "Celebration",
+        "Harmony",
+        "Completion",
+        "New Beginnings",
+        "Peace",
+        "Stability",
+        "Prosperity"
+      ],
+      "reversed": [
+        "Delays",
+        "Obstacles",
+        "Lack of Harmony",
+        "Stagnation",
+        "Unrest",
+        "Impatience",
+        "Financial Difficulties"
+      ]
+    },
+    "description": {
+      "upright": "The Four of Wands is a positive card that represents harmony, peace, and celebration. It indicates a time of joy, success, and contentment. This card can also signify new beginnings, completion of projects, and a strong foundation for future growth. The Four of Wands can also symbolize a loving and supportive home environment.",
+      "reversed": "The reversed Four of Wands suggests that you may be experiencing delays, obstacles, or challenges. You may be feeling restless, impatient, or frustrated. This card can also indicate a lack of harmony in your relationships or your home environment. The reversed Four of Wands can be a warning to be patient and to avoid making impulsive decisions."
+    },
+    "affirmations": {
+      "upright": [
+        "I celebrate my accomplishments and joyfully share them with others.",
+        "I create a home filled with love, laughter, and harmony.",
+        "I open my heart to receive the abundance and blessings that surround me.",
+        "I nurture my relationships with warmth, generosity, and understanding.",
+        "I radiate joy and optimism, inspiring others to embrace life's beauty.",
+        "I find peace and contentment in the simple moments of everyday life."
+      ],
+      "reversed": [
+        "I find balance between work and play, nurturing my mind, body, and spirit.",
+        "I release the need for external validation and find fulfillment within myself.",
+        "I create a strong foundation for my dreams, building them with patience and perseverance.",
+        "I embrace challenges as opportunities for growth, learning from my mistakes and setbacks.",
+        "I open myself to new experiences and connections, expanding my horizons and enriching my life.",
+        "I celebrate my individuality and express my authentic self with confidence and grace."
+      ]
+    },
+    "number": 53
+  },
+  {
+    "name": "Five of Wands",
+    "type": "wands",
+    "keywords": {
+      "upright": [
+        "Conflict",
+        "Competition",
+        "Disagreements",
+        "Tension",
+        "Challenges",
+        "Inner conflict"
+      ],
+      "reversed": [
+        "Resolution",
+        "Compromise",
+        "Cooperation",
+        "New perspectives",
+        "Strength in numbers",
+        "Opportunity for growth"
+      ]
+    },
+    "description": {
+      "upright": "The Five of Wands in the upright position signifies conflict, competition, disagreement, and tension. It can represent a struggle for dominance, a battle of wills, or a situation where people are divided into opposing factions. This card can also indicate inner conflict and turmoil, where you are wrestling with opposing forces within yourself. When it appears in a reading, the Five of Wands encourages you to stand your ground and fight for what you believe in. It can also be a call to action, urging you to take control of your situation and overcome the obstacles that are standing in your way.",
+      "reversed": "The reversed Five of Wands indicates a resolution to conflict, a willingness to compromise, and a newfound spirit of cooperation. It can also represent the end of competition and the beginning of a new era of peace and harmony. This card suggests that you are ready to let go of your differences and work together with others to achieve a common goal. The reversed Five of Wands can also be a sign of personal growth and development. It indicates that you have learned from your past experiences and are now ready to move forward with a more positive and optimistic outlook."
+    },
+    "affirmations": {
+      "upright": [
+        "I embrace challenges and use them to strengthen my resolve.",
+        "I navigate conflict with grace and find opportunities for growth within it.",
+        "I assert my opinions confidently while respecting the views of others.",
+        "I channel my competitive energy into healthy collaboration and innovation.",
+        "I persevere through obstacles, knowing that my determination will lead to success.",
+        "I embrace the diversity of perspectives and find harmony amidst differences."
+      ],
+      "reversed": [
+        "I step back from unnecessary conflict and focus on inner peace.",
+        "I release the need to control and allow others to express themselves freely.",
+        "I find common ground amidst differences and build bridges of understanding.",
+        "I transform competition into cooperation, seeking win-win solutions for all.",
+        "I release self-doubt and embrace my unique voice and perspective.",
+        "I create harmonious relationships by honoring my boundaries and respecting those of others."
+      ]
+    },
+    "number": 54
+  },
+  {
+    "name": "Six of Wands",
+    "type": "wands",
+    "keywords": {
+      "upright": [
+        "Victory",
+        "Success",
+        "Recognition",
+        "Progress",
+        "Confidence",
+        "Leadership"
+      ],
+      "reversed": [
+        "Doubt",
+        "Lack of Confidence",
+        "Self-promotion",
+        "Ego",
+        "Obstacles",
+        "Delay"
+      ]
+    },
+    "description": {
+      "upright": "The Six of Wands signifies victory, success, and recognition. It represents a time when you have achieved a goal or overcome a challenge, and you are now reaping the rewards. This card can also indicate progress, confidence, and leadership.",
+      "reversed": "The reversed Six of Wands can indicate doubt, lack of confidence, or difficulty achieving your goals. It can also suggest that you are being too self-promotional or egotistical. This card may also mean that you are facing obstacles or delays in your progress."
+    },
+    "affirmations": {
+      "upright": [
+        "I celebrate my victories and share my joy with others.",
+        "I radiate confidence and inspire those around me.",
+        "I am a shining example of success and achievement.",
+        "My accomplishments are recognized and applauded.",
+        "I move through the world with grace and dignity.",
+        "I am a force to be reckoned with."
+      ],
+      "reversed": [
+        "I am learning to embrace my accomplishments, even in the face of self-doubt.",
+        "I am releasing the need for external validation and finding confidence within myself.",
+        "I am setting healthy boundaries and focusing on my own path.",
+        "I am celebrating my unique gifts and talents.",
+        "I am moving forward with humility and grace.",
+        "I am finding true success in alignment with my values."
+      ]
+    },
+    "number": 55
+  },
+  {
+    "name": "Seven of Wands",
+    "type": "wands",
+    "keywords": {
+      "upright": [
+        "Competition",
+        "Challenge",
+        "Defense",
+        "Standing your ground",
+        "Self-belief",
+        "Resourcefulness"
+      ],
+      "reversed": [
+        "Doubt",
+        "Giving up",
+        "Overcoming obstacles",
+        "Defensiveness",
+        "Aggression",
+        "Lack of confidence"
+      ]
+    },
+    "description": {
+      "upright": "The Seven of Wands represents the need to defend your position, stand up for your beliefs, and hold your ground. It can also indicate competition, challenges, and overcoming obstacles. The card encourages you to be resourceful and confident in your abilities.",
+      "reversed": "The reversed Seven of Wands can indicate doubt, giving up, or being easily defeated. It can also suggest defensiveness, aggression, or a lack of confidence. The card may be urging you to reconsider your position or approach a situation differently."
+    },
+    "affirmations": {
+      "upright": [
+        "I stand firm in my convictions.",
+        "My resilience is my shield and my sword."
+      ],
+      "reversed": [
+        "I seek understanding instead of defending my position.",
+        "I let go of attachments to outdated beliefs."
+      ]
+    },
+    "number": 56
+  },
+  {
+    "name": "Eight of Wands",
+    "type": "wands",
+    "keywords": {
+      "upright": [
+        "Movement",
+        "Progress",
+        "Action",
+        "Communication",
+        "Travel",
+        "Opportunity",
+        "Change",
+        "Excitement",
+        "Haste"
+      ],
+      "reversed": [
+        "Delay",
+        "Blockage",
+        "Stagnation",
+        "Lack of clarity",
+        "Missed opportunities",
+        "Impatience",
+        "Scattered energy",
+        "Confusion"
+      ]
+    },
+    "description": {
+      "upright": "The Eight of Wands represents swift movement, action, and progress. It signifies a time when things are happening quickly and you are moving forward with your goals and ambitions. This card can also indicate communication, travel, and opportunities. It is a time to be proactive and take advantage of the momentum that is building. Be flexible and adaptable, and don't be afraid to take risks.",
+      "reversed": "The reversed Eight of Wands suggests that things are moving too quickly or that you are feeling impatient and frustrated. There may be delays, obstacles, or setbacks that are preventing you from making progress. This card can also indicate a lack of clarity or direction, or that you are feeling scattered and unfocused. It is important to take some time to slow down and assess the situation. Be patient and don't rush into anything. Get clear on your goals and make a plan before taking any action."
+    },
+    "affirmations": {
+      "upright": [
+        "I embrace swift progress and welcome new opportunities with open arms.",
+        "I am energized by the rapid pace of life and trust my ability to keep up.",
+        "I move with clarity and confidence, knowing that I am on the right path.",
+        "My ideas take flight and manifest with ease, fueled by passion and inspiration.",
+        "I embrace change and welcome the unexpected, knowing that it leads to growth.",
+        "I celebrate the breakthroughs and milestones that mark my journey."
+      ],
+      "reversed": [
+        "I pause to reflect and ensure my actions align with my true intentions.",
+        "I patiently navigate delays and obstacles, knowing that they are temporary.",
+        "I release the need for control and allow life to unfold in its own perfect timing.",
+        "I communicate my needs clearly and seek support when needed.",
+        "I find peace amidst the chaos by focusing on my inner calm and clarity.",
+        "I trust that all is unfolding as it should, even when I don't understand the reasons."
+      ]
+    },
+    "number": 57
+  },
+  {
+    "name": "Nine of Wands",
+    "type": "wands",
+    "keywords": {
+      "upright": [
+        "Defense",
+        "resilience",
+        "vigilance",
+        "perseverance",
+        "Challenges",
+        "obstacles",
+        "setbacks",
+        "delays"
+      ],
+      "reversed": [
+        "Exhaustion",
+        "burnout",
+        "giving up",
+        "surrender",
+        "Defensiveness",
+        "paranoia",
+        "distrust",
+        "anger"
+      ]
+    },
+    "description": {
+      "upright": "The Nine of Wands upright suggests inner strength, resilience, and determination in the face of challenges. You have overcome many obstacles and are standing your ground. However, you may feel tired and weary, and it's important to pace yourself and ask for help if needed. Trust that you have the resources to overcome any obstacle.",
+      "reversed": "The reversed Nine of Wands indicates exhaustion, burnout, and a feeling of being overwhelmed. You may be giving up on your goals or feeling defeated. This card can also suggest defensiveness, paranoia, and a lack of trust. It's time to take a break, re-evaluate your situation, and come back with a renewed sense of purpose."
+    },
+    "affirmations": {
+      "upright": [
+        "I stand firm in the face of challenges, my resilience is my shield.",
+        "I embrace the final push, victory is within reach."
+      ],
+      "reversed": [
+        "I acknowledge my weariness, rest is not surrender.",
+        "Reassess my stance, a different perspective might bring clarity."
+      ]
+    },
+    "number": 58
+  },
+  {
+    "name": "Ten of Wands",
+    "type": "wands",
+    "keywords": {
+      "upright": [
+        "Burden",
+        "Responsibility",
+        "Overwork",
+        "Exhaustion",
+        "Struggle"
+      ],
+      "reversed": ["Delegation", "Release", "Relief", "Renewal", "Completion"]
+    },
+    "description": {
+      "upright": "The Ten of Wands represents feeling weighed down by responsibility, overwork, or burdens. It suggests that you are feeling overwhelmed and struggling to keep up with your commitments. You may be feeling exhausted and depleted, both physically and emotionally. This card can also indicate a lack of motivation or direction. In the upright position, the Ten of Wands encourages you to take stock of your situation and delegate tasks where possible. It's important to learn to say no and prioritize your own well-being. Remember, you don't have to do everything yourself. Seek support from others and find ways to lighten your load.",
+      "reversed": "The Ten of Wands reversed can signify a release from burden or responsibility. You may be feeling lighter and more energized as you finally let go of things that were holding you back. This card can also indicate delegation, completion of a project, or a sense of accomplishment. In the reversed position, the Ten of Wands encourages you to celebrate your successes and enjoy the fruits of your labor. It's time to take a break and recharge your batteries. You are now free to move on to new beginnings."
+    },
+    "affirmations": {
+      "upright": [
+        "I release burdens with grace, knowing my strength carries me forward.",
+        "I prioritize my well-being, trusting completion will follow."
+      ],
+      "reversed": [
+        "I shed unnecessary burdens, reclaiming my energy for true purpose.",
+        "I seek support, knowing collaboration lightens the load."
+      ]
+    },
+    "number": 59
+  },
+  {
+    "name": "Page of Wands",
+    "type": "wands",
+    "keywords": {
+      "upright": [
+        "New beginnings",
+        "Adventure",
+        "Excitement",
+        "Enthusiasm",
+        "Creativity",
+        "Impulsiveness",
+        "Restlessness"
+      ],
+      "reversed": [
+        "Lack of direction",
+        "Delays",
+        "Procrastination",
+        "Doubt",
+        "Fear",
+        "Blocked creativity",
+        "Impatience"
+      ]
+    },
+    "description": {
+      "upright": "The Page of Wands signifies a burst of energy, creativity, and enthusiasm. It represents new beginnings, adventures, and a desire to explore the world. This card can also indicate impulsiveness, restlessness, and the need to act quickly. When the Page of Wands appears in a reading, it's a reminder to embrace new possibilities and follow your dreams.",
+      "reversed": "The reversed Page of Wands suggests a lack of direction or motivation. You may be feeling lost, unsure of your next step, or procrastinating on important decisions. This card can also represent fear, doubt, and a blockage in your creative flow. If the reversed Page of Wands appears in a reading, it's an invitation to take a step back, assess your situation, and make a plan to move forward."
+    },
+    "affirmations": {
+      "upright": [
+        "I embrace new ideas with enthusiasm and passion.",
+        "I eagerly explore my creative potential, knowing that anything is possible.",
+        "My spirit is ignited by adventure and discovery.",
+        "I take action on my dreams, trusting my instincts to guide me.",
+        "I share my gifts with the world, inspiring others to embrace their own passions.",
+        "I am open to change and growth, knowing that every experience leads me closer to my purpose."
+      ],
+      "reversed": [
+        "I am learning to focus my energy and channel my enthusiasm into productive action.",
+        "I am patient with myself as I explore my creative path, knowing that it takes time to develop my talents.",
+        "I am committed to following through on my ideas, even when the going gets tough.",
+        "I seek guidance from others who can help me to refine my vision and bring my dreams to life.",
+        "I trust my intuition and believe in my ability to create something truly meaningful."
+      ]
+    },
+    "number": 60
+  },
+  {
+    "name": "Knight of Wands",
+    "type": "wands",
+    "keywords": {
+      "upright": [
+        "Action",
+        "Adventure",
+        "Enthusiasm",
+        "Leadership",
+        "Impulsiveness",
+        "Travel"
+      ],
+      "reversed": [
+        "Impatience",
+        "Aggression",
+        "Lack of direction",
+        "Scattered energy",
+        "Frustration",
+        "Loss of motivation"
+      ]
+    },
+    "description": {
+      "upright": "The Knight of Wands is a card of action, enthusiasm, and adventure. It represents a surge of energy and a strong desire to take on new challenges. The Knight is also a natural leader, inspiring and motivating others with his passion and drive. However, this card can also warn of impulsiveness and a lack of planning. It is important to channel your energy wisely and avoid taking unnecessary risks.",
+      "reversed": "The reversed Knight of Wands indicates a loss of enthusiasm and motivation. You may be feeling impatient and frustrated, and you may be lacking direction in your life. This card can also warn of aggression and impulsiveness. It is important to take some time to reflect and recharge your batteries. Once you have reconnected with your inner fire, you can begin to move forward again."
+    },
+    "affirmations": {
+      "upright": [
+        "I seize opportunities with passion and confidence.",
+        "My energy and enthusiasm are boundless.",
+        "I fearlessly charge forward towards my goals.",
+        "I inspire others with my adventurous spirit.",
+        "I embrace challenges and thrive on change.",
+        "My creativity knows no bounds."
+      ],
+      "reversed": [
+        "I focus my energy and channel my passions.",
+        "I temper my impulses with patience and consideration.",
+        "I complete what I start before chasing new ventures.",
+        "I listen to feedback and consider different perspectives.",
+        "I balance my boldness with thoughtfulness and planning.",
+        "I harness my fiery energy to create lasting change."
+      ]
+    },
+    "number": 61
+  },
+  {
+    "name": "Queen of Wands",
+    "type": "wands",
+    "keywords": {
+      "upright": [
+        "Passionate",
+        "Confident",
+        "Creative",
+        "Independent",
+        "Charismatic",
+        "Leader",
+        "Protective"
+      ],
+      "reversed": [
+        "Domineering",
+        "Jealous",
+        "Impatient",
+        "Unrealistic",
+        "Arrogant",
+        "Controlling",
+        "Lack of Confidence"
+      ]
+    },
+    "description": {
+      "upright": "The Queen of Wands represents a strong, independent, and confident woman. She is passionate and creative, with a natural leadership ability. She is also protective of those she cares about. The Queen of Wands can also signify a time of personal growth and self-discovery.",
+      "reversed": "The reversed Queen of Wands can indicate that you are being too domineering or controlling in your relationships. You may also be feeling jealous or insecure. Alternatively, the reversed Queen of Wands can suggest that you are lacking in confidence or that you are not putting your talents to good use. This card can also be a sign that you need to take some time for yourself to relax and recharge."
+    },
+    "affirmations": {
+      "upright": [
+        "I ignite my inner fire and boldly claim my power.",
+        "My creativity blazes brightly, guiding me towards passionate pursuits."
+      ],
+      "reversed": [
+        "I pause to rekindle my spark and reconnect with my inner lioness.",
+        "Doubts may flicker, but I choose to trust my intuition and roar again."
+      ]
+    },
+    "number": 62
+  },
+  {
+    "name": "King of Wands",
+    "type": "wands",
+    "keywords": {
+      "upright": [
+        "Visionary Leader",
+        "Action",
+        "Creativity",
+        "Confidence",
+        "Adventure",
+        "Challenge",
+        "Passion",
+        "Courage",
+        "Ambition",
+        "Inspiration"
+      ],
+      "reversed": [
+        "Domination",
+        "Impatience",
+        "Arrogance",
+        "Anger",
+        "Lack of focus",
+        "Control issues",
+        "Impulsive decisions",
+        "Burnout"
+      ]
+    },
+    "description": {
+      "upright": "The King of Wands is a card of action, initiative, and leadership. He is a charismatic and confident figure who inspires others to follow him. Upright, this card can represent a time to take charge, take risks, and pursue your dreams. It can also indicate success in business or career endeavors. The King of Wands is a reminder to stay positive and focused, and to never give up on your goals.",
+      "reversed": "The reversed King of Wands can indicate a lack of direction, impulsive decisions, and an inability to see things through. It can also represent someone who is overly dominant, controlling, or arrogant. This card is a warning to be careful about your actions and to be mindful of the consequences. It can also be a sign that you need to take some time for yourself and to relax."
+    },
+    "affirmations": {
+      "upright": [
+        "I ignite my inner fire and claim my rightful power.",
+        "I lead with bold vision and unwavering passion."
+      ],
+      "reversed": [
+        "I release the grip of domination and embrace open-hearted collaboration.",
+        "I channel my fiery energy into creative expression, not controlling ambition."
+      ]
+    },
+    "number": 63
+  },
+  {
+    "name": "Ace of Pentacles",
+    "type": "pentacles",
+    "keywords": {
+      "upright": [
+        "abundance",
+        "new beginnings",
+        "opportunity",
+        "security",
+        "groundedness",
+        "manifestation",
+        "health",
+        "wealth"
+      ],
+      "reversed": [
+        "lack",
+        "stagnation",
+        "missed opportunities",
+        "financial difficulties",
+        "instability",
+        "unrealistic expectations",
+        "poor health"
+      ]
+    },
+    "description": {
+      "upright": "The Ace of Pentacles signifies new beginnings and opportunities in the realm of finances, career, and material possessions. It represents abundance, prosperity, and the potential to manifest your goals. This card can also indicate a sense of security, stability, and groundedness. It encourages you to believe in yourself and your ability to achieve your dreams.",
+      "reversed": "The reversed Ace of Pentacles suggests a lack of abundance, stagnation, or missed opportunities. It can indicate financial difficulties, instability, and unrealistic expectations. This card may also be a sign that you are not taking care of your health or finances. The reversed Ace of Pentacles encourages you to take stock of your situation and make changes to ensure your future success."
+    },
+    "affirmations": {
+      "upright": [
+        "I embrace new opportunities for abundance and prosperity.",
+        "I plant seeds of success with confidence and enthusiasm.",
+        "I open my heart to receive financial blessings and material comfort.",
+        "I nurture my talents and skills to create lasting wealth.",
+        "I build a solid foundation for my dreams with hard work and dedication.",
+        "I celebrate the abundance of the universe and share my gifts generously."
+      ],
+      "reversed": [
+        "I release fears and doubts that block my financial flow.",
+        "I recognize and seize opportunities for growth and abundance.",
+        "I develop practical plans and take action to achieve my goals.",
+        "I balance my material needs with spiritual values.",
+        "I find joy and fulfillment in the simple things in life.",
+        "I trust in my ability to create a prosperous and fulfilling life."
+      ]
+    },
+    "number": 64
+  },
+  {
+    "name": "Two of Pentacles",
+    "type": "pentacles",
+    "keywords": {
+      "upright": [
+        "balance",
+        "adaptability",
+        "flux",
+        "opportunity",
+        "juggling",
+        "finances"
+      ],
+      "reversed": [
+        "imbalance",
+        "stress",
+        "overcommitment",
+        "disorganization",
+        "lack of control",
+        "financial instability"
+      ]
+    },
+    "description": {
+      "upright": "The Two of Pentacles represents the ability to maintain balance and harmony amidst change and challenges. It signifies adaptability, flexibility, and resourcefulness in navigating life's ups and downs. This card often indicates juggling multiple responsibilities, managing finances effectively, and finding opportunities amidst change. ",
+      "reversed": "The reversed Two of Pentacles indicates feeling overwhelmed, stressed, and out of control. It suggests overcommitment, disorganization, and difficulty maintaining balance in various aspects of life. This card can also symbolize financial instability, poor money management, and missed opportunities. "
+    },
+    "affirmations": {
+      "upright": [
+        "I gracefully juggle my responsibilities and find flow amidst the chaos.",
+        "I trust my resourcefulness and adapt effortlessly to changing circumstances."
+      ],
+      "reversed": [
+        "I release my overcommitment and prioritize tasks with clarity.",
+        "I delegate with confidence and create space for ease and joy."
+      ]
+    },
+    "number": 65
+  },
+  {
+    "name": "Three of Pentacles",
+    "type": "pentacles",
+    "keywords": {
+      "upright": [
+        "Teamwork",
+        "Collaboration",
+        "Mastery",
+        "Recognition",
+        "Learning",
+        "Growth",
+        "Shared Goals"
+      ],
+      "reversed": [
+        "Disharmony",
+        "Misalignment",
+        "Lack of Recognition",
+        "Working Alone",
+        "Limited Growth",
+        "Poor Collaboration"
+      ]
+    },
+    "description": {
+      "upright": "The Three of Pentacles signifies the power of collaboration and teamwork. It represents harnessing individual skills and talents to achieve a shared goal. Upright, this card suggests a period of learning, growth, and mastery. You are likely to receive recognition for your efforts and may even find yourself in a mentoring or teaching role. Trust in the process and enjoy the collaborative journey.",
+      "reversed": "The reversed Three of Pentacles warns of disharmony and misalignment within a team or project. There may be a lack of communication, recognition, or appreciation. You might feel undervalued or unsupported. This card can also indicate working alone, feeling isolated, or lacking the skills and resources to achieve your goals. Take some time to reflect on your situation and identify any obstacles to collaboration. Seek support from others and be open to learning and receiving feedback."
+    },
+    "affirmations": {
+      "upright": [
+        "I embrace collaboration and celebrate the power of shared goals.",
+        "My unique talents shine brighter when joined with others."
+      ],
+      "reversed": [
+        "I seek to understand and harmonize differing perspectives.",
+        "I release the need for control and trust the flow of co-creation."
+      ]
+    },
+    "number": 66
+  },
+  {
+    "name": "Four of Pentacles",
+    "type": "pentacles",
+    "keywords": {
+      "upright": [
+        "Material abundance",
+        "Stability",
+        "Security",
+        "Clinging",
+        "Possesiveness",
+        "Greed"
+      ],
+      "reversed": [
+        "Financial insecurity",
+        "Overspending",
+        "Lack of control",
+        "Generosity",
+        "Letting go",
+        "Sharing"
+      ]
+    },
+    "description": {
+      "upright": "The Four of Pentacles represents material security and abundance. It suggests that you have built a strong foundation for yourself and are now in a position to enjoy the fruits of your labor. This card can also indicate a need to be more generous and share your resources with others. The upright Four of Pentacles can also represent a time of consolidation and protection. You may be feeling the need to hold on to what you have and avoid taking unnecessary risks.",
+      "reversed": "The Four of Pentacles reversed can indicate financial insecurity and a lack of control over your finances. You may be feeling worried about money and unsure of your future. This card can also suggest that you are being too possessive of your resources and need to learn to let go. The reversed Four of Pentacles can also represent a time of generosity and sharing."
+    },
+    "affirmations": {
+      "upright": [
+        "I hold my resources close, ensuring my security and stability.",
+        "I am mindful of my spending and create a strong foundation for the future.",
+        "I am open to sharing my abundance when the time is right, cultivating generosity and trust.",
+        "I balance my material needs with my spiritual growth, finding harmony in both realms.",
+        "I am grateful for what I have and attract even greater prosperity into my life.",
+        "I am in control of my finances and create a life of abundance and security."
+      ],
+      "reversed": [
+        "I release my fears of scarcity and embrace a mindset of abundance.",
+        "I open my heart and hands to share my blessings with others, fostering generosity and joy.",
+        "I find healthy ways to manage my finances, balancing security with flexibility.",
+        "I break free from the need to control everything and trust in the flow of life.",
+        "I find my true worth beyond material possessions, embracing my inner wealth and value.",
+        "I allow myself to enjoy my blessings and experience the true richness of life."
+      ]
+    },
+    "number": 67
+  },
+  {
+    "name": "Five of Pentacles",
+    "type": "pentacles",
+    "keywords": {
+      "upright": [
+        "Financial hardship",
+        "Insecurity",
+        "Loss",
+        "Isolation",
+        "Worry"
+      ],
+      "reversed": [
+        "Recovery",
+        "Spiritual growth",
+        "Finding support",
+        "Overcoming challenges",
+        "Change of perspective"
+      ]
+    },
+    "description": {
+      "upright": "The Five of Pentacles represents a time of hardship and insecurity. It can signify financial loss, poverty, or a lack of resources. This card can also indicate feelings of isolation, loneliness, and being out in the cold. However, it can also be a sign of resilience and strength in the face of adversity. The Five of Pentacles encourages us to find inner strength and to rely on our own resources. It reminds us that we are not alone and that there is help available if we reach out for it.",
+      "reversed": "The Five of Pentacles reversed suggests that you are on the path to recovery and healing. You may be starting to see improvements in your financial situation, or you may be finding new sources of support. This card can also indicate that you are overcoming challenges and finding solutions to your problems. The Five of Pentacles reversed encourages you to continue moving forward and to have faith in yourself. It reminds you that you have the strength and courage to overcome any obstacle."
+    },
+    "affirmations": {
+      "upright": [
+        "I seek help and comfort from those who care about me.",
+        "I recognize my resilience and resourcefulness in times of hardship.",
+        "I release my fears of scarcity and embrace abundance.",
+        "I open myself to compassion and support, knowing I am not alone.",
+        "I take action to improve my circumstances, step by step.",
+        "I find strength in my vulnerability and connect with others on a deeper level."
+      ],
+      "reversed": [
+        "I let go of self-pity and isolation, choosing to connect with others.",
+        "I acknowledge my inner strength and ability to overcome challenges.",
+        "I seek practical solutions to my problems, taking responsibility for my well-being.",
+        "I release my fears of loss and embrace the possibilities of change.",
+        "I cultivate gratitude for what I have, knowing that true abundance comes from within.",
+        "I forgive myself for past mistakes and move forward with hope and determination."
+      ]
+    },
+    "number": 68
+  },
+  {
+    "name": "Six of Pentacles",
+    "type": "pentacles",
+    "keywords": {
+      "upright": [
+        "Generosity",
+        "Abundance",
+        "Charity",
+        "Balance",
+        "Support",
+        "Success",
+        "Giving and receiving"
+      ],
+      "reversed": [
+        "Selfishness",
+        "Scarcity",
+        "Ungrateful",
+        "Manipulation",
+        "Dependence",
+        "Lack",
+        "Unbalanced giving"
+      ]
+    },
+    "description": {
+      "upright": "The Six of Pentacles is a card of generosity, abundance, and charity. It signifies a time of financial security and stability, where you are able to share your blessings with others. This card can also represent giving and receiving support, both emotional and material. In relationships, the Six of Pentacles suggests a harmonious and balanced partnership where both partners are willing to give and receive support. In work, it can indicate recognition for your hard work and achievements, or a time of financial rewards.",
+      "reversed": "The reversed Six of Pentacles can indicate selfishness, scarcity, and ungratefulness. It may suggest that you are not sharing your resources enough, or that you are feeling taken advantage of. This card can also represent manipulation and dependence, where someone is giving or receiving support in a way that is not healthy or balanced. In relationships, the reversed Six of Pentacles can indicate a power struggle or imbalance, where one partner feels like they are always giving and the other is always taking. In work, it can suggest that you are not being recognized for your contributions, or that you are feeling undervalued or exploited."
+    },
+    "affirmations": {
+      "upright": [
+        "I share my blessings with others, knowing that there is enough for all.",
+        "I open my heart to both giving and receiving, creating a beautiful flow of abundance.",
+        "I am grateful for the opportunities to help others, and I do so with joy and compassion.",
+        "My generosity is a reflection of my inner wealth, and it ripples out into the world to create positive change.",
+        "I trust that the universe will always provide for me, and I am happy to share my good fortune with those in need.",
+        "I celebrate the abundance that surrounds me, and I use my resources wisely to create a better world for all."
+      ],
+      "reversed": [
+        "I am mindful of my own needs and boundaries, even as I extend generosity to others.",
+        "I release any feelings of guilt or obligation around money, and I embrace a healthy relationship with abundance.",
+        "I am open to receiving help when I need it, and I trust that others will be there for me.",
+        "I balance my giving and receiving, ensuring that I am not depleting my own resources.",
+        "I create healthy financial boundaries, and I am assertive in asking for what I deserve.",
+        "I am worthy of abundance, and I am open to receiving it in all forms."
+      ]
+    },
+    "number": 69
+  },
+  {
+    "name": "Seven of Pentacles",
+    "type": "pentacles",
+    "keywords": {
+      "upright": [
+        "Progress",
+        "Patience",
+        "Investment",
+        "Evaluation",
+        "Reward",
+        "Growth",
+        "Persistence"
+      ],
+      "reversed": [
+        "Doubt",
+        "Lack of progress",
+        "Discouragement",
+        "Impatience",
+        "Stagnation",
+        "Reaping what you sow",
+        "Delays"
+      ]
+    },
+    "description": {
+      "upright": "The Seven of Pentacles signifies a time of steady progress and growth. It suggests that your hard work and dedication are paying off, but there is still work to be done. This card encourages you to be patient and persistent, and to trust that your efforts will eventually be rewarded. It may also be a time to evaluate your progress and make sure that you are on the right track.",
+      "reversed": "The reversed Seven of Pentacles indicates that you may be feeling discouraged or impatient about your progress. You may be doubting your abilities or wondering if your efforts are worthwhile. This card encourages you to take a step back and reassess your situation. Are you putting in the time and effort necessary to achieve your goals? Are your goals realistic? Once you have a clear understanding of your situation, you can take steps to make progress."
+    },
+    "affirmations": {
+      "upright": [
+        "I pause to appreciate the progress I've made, knowing my efforts bear fruit.",
+        "I trust the process, knowing my dedication will yield sustainable results."
+      ],
+      "reversed": [
+        "I release the need to control outcomes and embrace the cyclical nature of growth.",
+        "I reassess my priorities and refocus on efforts that align with my long-term goals."
+      ]
+    },
+    "number": 70
+  },
+  {
+    "name": "Eight of Pentacles",
+    "type": "pentacles",
+    "keywords": {
+      "upright": [
+        "Work",
+        "Dedication",
+        "Learning",
+        "Craftmanship",
+        "Skill",
+        "Progress",
+        "Patience",
+        "Achievement"
+      ],
+      "reversed": [
+        "Unfulfilled potential",
+        "Lack of motivation",
+        "Burnout",
+        "Perfectionism",
+        "Distraction",
+        "Lack of progress"
+      ]
+    },
+    "description": {
+      "upright": "The Eight of Pentacles signifies a period of hard work, dedication, and commitment. It represents the focused energy you are pouring into your craft, skill, or career. This card encourages you to be patient and persistent, as your efforts will ultimately lead to success and mastery. It can also indicate a time for learning and acquiring new knowledge and skills.",
+      "reversed": "The reversed Eight of Pentacles can suggest a lack of motivation, direction, or purpose in your work. You may be feeling uninspired, bored, or burnt out. This card can also represent procrastination, perfectionism, or a tendency to get easily distracted. It may be a call to re-evaluate your goals and priorities, and to find ways to bring more enjoyment and passion back into your work."
+    },
+    "affirmations": {
+      "upright": [
+        "I dedicate myself to mastering my craft.",
+        "I take pride in the quality of my work.",
+        "I am committed to continuous improvement.",
+        "I find joy in the process of creation.",
+        "I am patient and persistent in my efforts.",
+        "I know that my skills will bring me success."
+      ],
+      "reversed": [
+        "I step back and reassess my priorities.",
+        "I seek balance between work and other aspects of my life.",
+        "I challenge myself to grow beyond my comfort zone.",
+        "I embrace new opportunities to learn and expand my skills.",
+        "I release the need for perfection and embrace progress.",
+        "I find fulfillment in the journey, not just the destination."
+      ]
+    },
+    "number": 71
+  },
+  {
+    "name": "Nine of Pentacles",
+    "type": "pentacles",
+    "keywords": {
+      "upright": [
+        "Abundance",
+        "Luxury",
+        "Self-Sufficiency",
+        "Financial Independence",
+        "Security",
+        "Confidence",
+        "Achievement",
+        "Reward"
+      ],
+      "reversed": [
+        "Materialism",
+        "Greed",
+        "Debt",
+        "Lack of Abundance",
+        "Insecurity",
+        "Self-Doubt",
+        "Overwork",
+        "Burnout",
+        "Procrastination"
+      ]
+    },
+    "description": {
+      "upright": "The Nine of Pentacles signifies a time of abundance, prosperity, and financial security. You have built a solid foundation for yourself and are now able to enjoy the fruits of your labor. This card also represents self-sufficiency, confidence, and a sense of accomplishment. You are in control of your life and are able to create the life you want. When the Nine of Pentacles appears in a reading, it is a sign to enjoy your success and celebrate your achievements. It is also a reminder to be grateful for all that you have.",
+      "reversed": "The reversed Nine of Pentacles can indicate a feeling of lack or scarcity. You may be feeling insecure about your finances or your ability to provide for yourself. This card can also represent materialism, greed, and an unhealthy attachment to money. Alternatively, the reversed Nine of Pentacles may indicate that you are working too hard and neglecting other areas of your life. It is important to find a balance between work and leisure. When the reversed Nine of Pentacles appears in a reading, it is a sign to take a step back and re-evaluate your priorities. It is also a reminder that true wealth comes from within, not from external possessions."
+    },
+    "affirmations": {
+      "upright": [
+        "I embrace abundance and celebrate my well-earned success.",
+        "My efforts bear fruit, and I savor the sweetness of security."
+      ],
+      "reversed": [
+        "I release attachment to material things and find value beyond possessions.",
+        "I rebalance my focus and prioritize my true desires."
+      ]
+    },
+    "number": 72
+  },
+  {
+    "name": "Ten of Pentacles",
+    "type": "pentacles",
+    "keywords": {
+      "upright": [
+        "abundance",
+        "security",
+        "stability",
+        "family",
+        "legacy",
+        "completion",
+        "success",
+        "achievement",
+        "fulfillment",
+        "reward"
+      ],
+      "reversed": [
+        "lack",
+        "instability",
+        "disinheritance",
+        "loss",
+        "broken family ties",
+        "unfinished business",
+        "unfulfilled potential",
+        "neglect",
+        "greed",
+        "materialism"
+      ]
+    },
+    "description": {
+      "upright": "The Ten of Pentacles signifies a state of abundance and security in all aspects of life. It represents financial stability, a happy and prosperous family, and a sense of accomplishment and fulfillment. This card suggests that you have reached a point of completion in your journey and are now reaping the rewards of your hard work. You are surrounded by love, support, and security, and you are able to enjoy the fruits of your labor. This card also speaks to the importance of building a strong foundation for the future, whether it be financial security, a loving family, or a fulfilling career. The Ten of Pentacles is a reminder that hard work and perseverance pay off in the end.",
+      "reversed": "The reversed Ten of Pentacles suggests a period of instability and insecurity in your life. You may be experiencing financial difficulties, family problems, or a sense of unfulfilled potential. This card can also indicate a lack of focus or direction in your life, or a feeling of being stuck in a rut. The reversed Ten of Pentacles can be a wake-up call to take action and make changes in your life. It is a reminder that you are responsible for your own happiness and success. This card can also suggest that you are being too materialistic, and that you need to focus on more important things in life. The reversed Ten of Pentacles is a call to re-evaluate your priorities and make sure that you are living a life that is true to yourself."
+    },
+    "affirmations": {
+      "upright": [
+        "I embrace abundance and share my prosperity with others.",
+        "My strong foundation supports me in all aspects of life."
+      ],
+      "reversed": [
+        "I release attachment to material security and trust in my inner wealth.",
+        "I break free from limiting beliefs and open myself to abundance."
+      ]
+    },
+    "number": 73
+  },
+  {
+    "name": "Page of Pentacles",
+    "type": "pentacles",
+    "keywords": {
+      "upright": [
+        "New beginnings",
+        "Opportunity",
+        "Growth",
+        "Practicality",
+        "Learning",
+        "Diligence",
+        "Stability",
+        "Security",
+        "Financial abundance",
+        "Nature"
+      ],
+      "reversed": [
+        "Lack of focus",
+        "Procrastination",
+        "Delays",
+        "Impatience",
+        "Financial instability",
+        "Wastefulness",
+        "Unrealistic expectations",
+        "Materialism",
+        "Lack of grounding",
+        "Neglecting responsibilities"
+      ]
+    },
+    "description": {
+      "upright": "The Page of Pentacles represents new beginnings, opportunity, and growth in the material realm. It signifies the start of a new project, venture, or learning process that has the potential to bring you abundance and prosperity. This card encourages you to be practical, diligent, and patient in your endeavors. It also reminds you to stay grounded and connected to the earth.",
+      "reversed": "The reversed Page of Pentacles suggests that you may be lacking focus, procrastinating, or being impatient. This can lead to delays, setbacks, and financial instability. The card may also be a warning against materialism, wastefulness, and unrealistic expectations. It's a call to ground yourself, connect with nature, and re-evaluate your priorities."
+    },
+    "affirmations": {
+      "upright": [
+        "I embrace new opportunities to grow my skills and talents.",
+        "My curiosity and dedication lead me to exciting discoveries.",
+        "I approach challenges with a sense of wonder and enthusiasm.",
+        "I am open to learning and growing, no matter what life brings.",
+        "I trust my intuition and follow my passions with a grounded spirit.",
+        "I find joy in the process of creation and manifestation."
+      ],
+      "reversed": [
+        "I am patient with myself as I learn and grow.",
+        "I focus my energy on practical steps towards my goals.",
+        "I seek guidance when I feel lost or uncertain.",
+        "I trust that my hard work will lead to fulfilling rewards.",
+        "I balance my dreams with a grounded sense of reality.",
+        "I celebrate every step of my journey, big or small."
+      ]
+    },
+    "number": 74
+  },
+  {
+    "name": "Knight of Pentacles",
+    "type": "pentacles",
+    "keywords": {
+      "upright": [
+        "Duty",
+        "Practicality",
+        "Work",
+        "Patience",
+        "Reliability",
+        "Progress"
+      ],
+      "reversed": [
+        "Stagnation",
+        "Stubbornness",
+        "Sloth",
+        "Materialism",
+        "Lack of Progress",
+        "Uncertainty"
+      ]
+    },
+    "description": {
+      "upright": "The Knight of Pentacles embodies responsibility, dedication, and a steady approach to life. He carries a single pentacle, symbolizing focus and commitment to his goals. This card indicates a time for hard work, perseverance, and careful planning. It encourages you to be patient, reliable, and methodical in your endeavors. Upright, the Knight of Pentacles can also suggest slow but steady progress, financial security, and a sense of accomplishment.",
+      "reversed": "The reversed Knight of Pentacles can represent a lack of motivation, procrastination, and an inability to follow through on your commitments. It may also indicate stagnation, boredom, and a reluctance to take responsibility for your actions. Financially, the reversed Knight can warn of overspending, poor investments, or a lack of financial security. This card encourages you to identify your goals and take action to achieve them. It may also be a call to re-evaluate your priorities and make sure your actions are aligned with your values."
+    },
+    "affirmations": {
+      "upright": [
+        "I approach my goals with steady determination and unwavering focus.",
+        "I take pride in my work ethic and find joy in the process of creation.",
+        "My patience and diligence are my greatest strengths, and I trust the path I am on.",
+        "I am a master of my craft, and I am always seeking new ways to improve my skills.",
+        "I am grounded in the present moment, and I take each step with intention and purpose.",
+        "I am building a solid foundation for my future, brick by brick."
+      ],
+      "reversed": [
+        "I am releasing any resistance to hard work and embracing my responsibilities with grace.",
+        "I am finding balance between my ambition and my need for rest and rejuvenation.",
+        "I am breaking free from old patterns of procrastination and self-doubt.",
+        "I am allowing myself to enjoy the fruits of my labor and celebrate my accomplishments.",
+        "I am opening myself to new opportunities and embracing change with a sense of adventure.",
+        "I am trusting my intuition and following my heart, even when it leads me off the beaten path."
+      ]
+    },
+    "number": 75
+  },
+  {
+    "name": "Queen of Pentacles",
+    "type": "pentacles",
+    "keywords": {
+      "upright": [
+        "abundance",
+        "security",
+        "nurturing",
+        "sensuality",
+        "success",
+        "responsibility",
+        "practicality",
+        "earthiness"
+      ],
+      "reversed": [
+        "materialism",
+        "greed",
+        "dependence",
+        "neglect",
+        "stagnation",
+        "lack of abundance",
+        "unfulfilled potential"
+      ]
+    },
+    "description": {
+      "upright": "The Queen of Pentacles embodies the energy of abundance, security, and nurturing. She is a practical and grounded woman who has achieved success in the material world. She is also connected to nature and enjoys the finer things in life. In a reading, the Queen of Pentacles can signify that you are entering a period of prosperity and abundance. It can also encourage you to be more nurturing and responsible, both towards yourself and others.",
+      "reversed": "The reversed Queen of Pentacles can indicate materialism, greed, and dependence. It can also suggest that you are feeling neglected or that you are not living up to your full potential. You may be focusing too much on the material world and neglecting your spiritual needs. The reversed Queen of Pentacles can be a call to action to get your finances in order and to start taking care of yourself."
+    },
+    "affirmations": {
+      "upright": [
+        "I embrace abundance and cultivate secure foundations.",
+        "My nurturing spirit attracts prosperity and creates a flourishing life."
+      ],
+      "reversed": [
+        "I release attachment to material things and prioritize true value.",
+        "I break free from self-doubt and claim my inner queen."
+      ]
+    },
+    "number": 76
+  },
+  {
+    "name": "King of Pentacles",
+    "type": "pentacles",
+    "keywords": {
+      "upright": [
+        "Material wealth",
+        "Financial abundance",
+        "Worldly success",
+        "Stability",
+        "Security",
+        "Generosity",
+        "Leadership",
+        "Ambition",
+        "Creativity",
+        "Business",
+        "Investment"
+      ],
+      "reversed": [
+        "Materialism",
+        "Greed",
+        "Obsession with money",
+        "Lack of security",
+        "Loss",
+        "Debt",
+        "Stagnation",
+        "Poor leadership",
+        "Unrealistic expectations"
+      ]
+    },
+    "description": {
+      "upright": "The King of Pentacles represents a man of great ambition, materialistic satisfaction, and worldly success. He is a natural leader who is generous, protective, and always provides for those around him. The card can also signify the successful completion of a creative project, a business venture, or an investment. In a more general sense, the King of Pentacles encourages you to be responsible, practical, and to take care of your finances.",
+      "reversed": "The reversed King of Pentacles can indicate materialism, greed, and an obsession with money. It can also signify financial hardship, debt, and a lack of security. The card may be advising you to be more careful with your money and to avoid unnecessary risks. In some cases, the reversed King of Pentacles can also represent poor leadership, unrealistic expectations, and a need to be more grounded in reality."
+    },
+    "affirmations": {
+      "upright": [
+        "I achieve prosperity through wise leadership and practical action.",
+        "I create abundance and stability for myself and others.",
+        "I am a master of my material world, using my resources wisely and generously.",
+        "My integrity and hard work are rewarded with success and respect.",
+        "I build a legacy of strength, generosity, and abundance.",
+        "I share my wealth of knowledge and experience to empower others."
+      ],
+      "reversed": [
+        "I release my need for control and embrace flexibility and adaptability.",
+        "I find balance between my material goals and my spiritual values.",
+        "I am open to receiving help and support from others.",
+        "I cultivate patience and trust in the process of growth and abundance.",
+        "I use my resources wisely and ethically, avoiding greed and materialism.",
+        "I find true fulfillment in generosity and service to others."
+      ]
+    },
+    "number": 77
+  }
+]

@@ -1,0 +1,17 @@
+:root {
+  --swiper-pagination-color: white;
+  --swiper-pagination-bullet-inactive-color: white;
+  --swiper-pagination-bullet-opacity: 0.7;
+  --swiper-pagination-bullet-inactive-opacity: 0.3;
+  --swiper-pagination-bottom: 0;
+  --swiper-pagination-bullet-width: 10px;
+  --swiper-pagination-bullet-height: 10px;
+}
+
+.affirmations {
+  padding-bottom: 4vmin;
+}
+
+.affirmations-swiper {
+  cursor: pointer;
+}

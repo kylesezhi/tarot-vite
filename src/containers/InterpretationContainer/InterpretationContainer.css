@@ -1,0 +1,8 @@
+.interpretation-container {
+  display: flex;
+  justify-content: center;
+}
+
+.interpretations {
+  width: 80vw;
+}

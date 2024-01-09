@@ -1,0 +1,14 @@
+.anchor-pill {
+  background-color: #96afa2;
+  border: none;
+  color: #282c34;
+  padding: 7px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 20px;
+  text-transform: uppercase;
+  font-family: 'HeeboMedium';
+  font-size: 12px;
+  cursor: pointer;
+}

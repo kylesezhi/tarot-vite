@@ -1,0 +1,12 @@
+.version {
+  display: flex;
+  width: 100%;
+  color: white;
+  opacity: 0.4;
+  font-family: 'HeeboRegular';
+  font-size: 0.7rem;
+  transform: rotateY(180deg);
+  margin-top: -6vh;
+  justify-content: right;
+  padding-right: 6vmin;
+}

@@ -1,0 +1,4 @@
+# applies to all paths. deploy this to tarot-images.netlify.app
+/*
+  # allows cross-origin requests
+  Access-Control-Allow-Origin: *

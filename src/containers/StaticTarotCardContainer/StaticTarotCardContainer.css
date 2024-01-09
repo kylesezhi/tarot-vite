@@ -1,0 +1,12 @@
+.static-tarot-card-container {
+  display: flex;
+  flex-direction: column;
+  padding: 3vmin;
+  width: 20vmin;
+  justify-content: space-around;
+}
+
+.static-tarot-image-container {
+  cursor: pointer;
+  height: 30vmin;
+}

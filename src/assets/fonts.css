@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'LoraSemiBold';
+  src: url('./Lora/Lora-SemiBold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'LoraRegular';
+  src: url('./Lora/Lora-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HeeboMedium';
+  src: url('./Heebo/Heebo-Medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HeeboRegular';
+  src: url('./Heebo/Heebo-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}

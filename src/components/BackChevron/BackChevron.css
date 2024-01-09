@@ -1,0 +1,9 @@
+.back-chevron-image {
+  height: 7vh;
+}
+
+.back-chevron {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}

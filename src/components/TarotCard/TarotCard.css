@@ -1,0 +1,11 @@
+.tarot-sides-container {
+  display: flex;
+  justify-content: center;
+  height: 60vh;
+  aspect-ratio: 412 / 686;
+}
+
+.tarot-card {
+  position: absolute;
+  will-change: transform, opacity, height;
+}

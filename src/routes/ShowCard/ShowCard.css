@@ -1,0 +1,33 @@
+html {
+  scroll-behavior: auto;
+}
+
+body {
+  background-color: #282c34;
+  text-align: center;
+}
+
+.show-card {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.show-tarot-card {
+  border-radius: 10px;
+  height: 60vh;
+  aspect-ratio: 412 / 686;
+  width: auto;
+  object-fit: contain;
+  will-change: transform, opacity;
+}
+
+.interpretation-container {
+  display: flex;
+  justify-content: center;
+}
+
+.interpretations {
+  width: 80vw;
+}
