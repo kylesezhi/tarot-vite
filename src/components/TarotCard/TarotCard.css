@@ -5,13 +5,19 @@
   aspect-ratio: 412 / 686;
 }
 
-.tarot-card {
+.back-card {
   position: absolute;
   will-change: transform, opacity, height, filter;
-  transition: filter .3s;
+  transition: filter 1s;
+}
+
+.front-card {
+  position: absolute;
+  will-change: transform, opacity, height, filter;
+  transition: filter 1s;
   filter: grayscale(30%);
 }
 
-.tarot-card:hover {
+.back-card:hover {
   filter: drop-shadow(0 0 1em white);
 }

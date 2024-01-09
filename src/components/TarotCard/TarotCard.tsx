@@ -57,7 +57,7 @@ function TarotCard({
       <animated.div
         data-testid="front-card"
         id="front-card"
-        className="tarot-card"
+        className="front-card"
         style={frontStyle}
       >
         <TarotCardImage number={number} orientation={orientation} />
@@ -65,7 +65,7 @@ function TarotCard({
       <animated.div
         id="back-card"
         data-testid="back-card"
-        className="tarot-card"
+        className="back-card"
         style={backStyle}
       >
         <TarotCardImage number={78} />
