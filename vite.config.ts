@@ -8,7 +8,7 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: "autoUpdate",
-      workbox: { globPatterns: ["/index.html,**/*.{js,css,html,ico,png,svg,webp"] },
+      workbox: { globPatterns: ["*/*.*", "*.*"] },
       manifest: {
         name: "Daily Tarot",
         short_name: "Tarot",
