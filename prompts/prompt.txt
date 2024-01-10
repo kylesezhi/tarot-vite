@@ -1,12 +1,9 @@
-Fill out the information for the tarot card in the title. Give a JSON object in the following shape. Do NOT add or remove any key-value pairs in this object shape. Respond with ONLY the JSON, no other text. Write some affirmations from the first person, as in "I ..." or "My ...", etc.. and always make them positive and inspirational. Use action verbs. I will tip you $200 for really inspirational affirmations.
+Fill out the information for the tarot card in the title. Give a JSON object in the following shape. Do NOT add or remove any key-value pairs in this object shape. Respond with ONLY the JSON, no other text. Write a mystic message based on the keywords and meaning of the card in the title. I will tip generously for creative and surprising messages. Mention the 404 in your message. Keep it short - under three sentences.
 ```json
 {
   "name": "name of card",
   "errorMessage: "If you are unable to fulfill the request, include the explanation here. Otherwise, do not include it.",
-  "affirmations": {
-    "upright": ["Here is a one-sentence affirmation related to the card and its orientation.", "Here is another one-sentence affirmation related to the card and its orientation.","Here is a one-sentence affirmation related to the card and its orientation.", "Here is another one-sentence affirmation related to the card and its orientation.","Here is a one-sentence affirmation related to the card and its orientation.", "Here is another one-sentence affirmation related to the card and its orientation."],
-    "reversed": ["Here is a one-sentence affirmation related to the card and its orientation.", "Here is another one-sentence affirmation related to the card and its orientation.","Here is a one-sentence affirmation related to the card and its orientation.", "Here is another one-sentence affirmation related to the card and its orientation.","Here is a one-sentence affirmation related to the card and its orientation.", "Here is another one-sentence affirmation related to the card and its orientation."],
-  }
+  "http404Message": "A mystic and creative 404 message relating to the card goes here. Mention the 404. Make it under 3 sentences."
 }
 ```
 
@@ -14,9 +11,6 @@ Fill out the information for the tarot card in the title. Give a JSON object in 
 interface TarotCard {
   name: string;
   errorMessage?: string;
-  affirmations: {
-    upright: string[];
-    reversed: string[];
-  };
+  http404Message: string;
 }
 ```

@@ -1,0 +1,22 @@
+Fill out the information for the tarot card in the title. Give a JSON object in the following shape. Do NOT add or remove any key-value pairs in this object shape. Respond with ONLY the JSON, no other text. Write some affirmations from the first person, as in "I ..." or "My ...", etc.. and always make them positive and inspirational. Use action verbs. I will tip you $200 for really inspirational affirmations.
+```json
+{
+  "name": "name of card",
+  "errorMessage: "If you are unable to fulfill the request, include the explanation here. Otherwise, do not include it.",
+  "affirmations": {
+    "upright": ["Here is a one-sentence affirmation related to the card and its orientation.", "Here is another one-sentence affirmation related to the card and its orientation.","Here is a one-sentence affirmation related to the card and its orientation.", "Here is another one-sentence affirmation related to the card and its orientation.","Here is a one-sentence affirmation related to the card and its orientation.", "Here is another one-sentence affirmation related to the card and its orientation."],
+    "reversed": ["Here is a one-sentence affirmation related to the card and its orientation.", "Here is another one-sentence affirmation related to the card and its orientation.","Here is a one-sentence affirmation related to the card and its orientation.", "Here is another one-sentence affirmation related to the card and its orientation.","Here is a one-sentence affirmation related to the card and its orientation.", "Here is another one-sentence affirmation related to the card and its orientation."],
+  }
+}
+```
+
+```typescript
+interface TarotCard {
+  name: string;
+  errorMessage?: string;
+  affirmations: {
+    upright: string[];
+    reversed: string[];
+  };
+}
+```

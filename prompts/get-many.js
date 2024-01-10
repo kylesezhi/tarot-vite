@@ -1,7 +1,8 @@
-const { exec } = require("child_process");
-const interpretations = require("../src/store/interpretations.json");
-const fs = require("fs");
+import { exec } from "child_process";
+import interpretations from "../src/store/interpretations.json" assert { type: "json" };
+import fs from "fs";
 const prompt = fs.readFileSync("./prompt.txt", "utf-8");
+import process from "node:process";
 
 const removeJsonFormatting = (str) => {
   return str.replace(/```json/, "").replace(/```/, "");
@@ -45,7 +46,7 @@ const waitRandomTimeAsync = async () => {
   await new Promise((resolve) => setTimeout(resolve, randomDelay));
 };
 
-const askBard = async (interpretations, subset) => {
+const askBard = async (interpretations, subset, propToUpdate) => {
   await waitRandomTimeAsync();
 
   const index = subset.shift();
@@ -60,7 +61,7 @@ const askBard = async (interpretations, subset) => {
     } else {
       const jsonMaybe = verifyJson(removeJsonFormatting(stdout));
       if (jsonMaybe !== null) {
-        interpretations[index].affirmations = jsonMaybe.affirmations;
+        interpretations[index][propToUpdate] = jsonMaybe[propToUpdate];
         console.log(jsonMaybe);
       } else {
         console.log("Invalid JSON returned: " + interpretations[index].name);
@@ -86,10 +87,11 @@ const askBard = async (interpretations, subset) => {
 };
 
 // Subset
-askBard(interpretations, [20, 23, 30, 62, 66, 72, 73, 76]);
+askBard(interpretations, [0], "http404Message");
 
 // All
 // askBard(
 //   interpretations,
 //   Array.from({ length: 10 }, (_, i) => i),
+//   "http404Message",
 // );
