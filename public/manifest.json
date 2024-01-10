@@ -1,6 +1,11 @@
 {
-  "short_name": "Tarot",
   "name": "Daily Tarot",
+  "short_name": "Tarot",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "description": "An app that enables users to draw a single tarot card, providing both its meaning and keywords, while also offering a comprehensive index with interpretations for all tarot cards.",
   "icons": [
     {
       "src": "favicon.ico",
@@ -456,9 +461,5 @@
       "sizes": "1024x1024"
     }
 
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#000000"
+  ]
 }
