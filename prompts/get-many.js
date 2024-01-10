@@ -54,9 +54,11 @@ const askBard = async (interpretations, subset, propToUpdate) => {
   exec(`./bard-cli ${promptWithTitle}`, (error, stdout, stderr) => {
     if (error) {
       console.error("Error:", error);
+      saveFile(interpretations);
       process.exit();
     } else if (stderr) {
       console.error("Standard error:", error);
+      saveFile(interpretations);
       process.exit();
     } else {
       const jsonMaybe = verifyJson(removeJsonFormatting(stdout));
@@ -64,15 +66,14 @@ const askBard = async (interpretations, subset, propToUpdate) => {
         interpretations[index][propToUpdate] = jsonMaybe[propToUpdate];
         console.log(jsonMaybe);
       } else {
-        console.log("Invalid JSON returned: " + interpretations[index].name);
-        console.log(stdout);
-        appendError(
+        const errorMessage =
           index +
-            " Invalid JSON returned: " +
-            interpretations[index].name +
-            "\n" +
-            stdout,
-        );
+          " Invalid JSON returned: " +
+          interpretations[index].name +
+          "\n" +
+          stdout;
+        console.log(errorMessage);
+        appendError(errorMessage);
       }
     }
 
@@ -87,11 +88,8 @@ const askBard = async (interpretations, subset, propToUpdate) => {
 };
 
 // Subset
-askBard(interpretations, [0], "http404Message");
+// askBard(interpretations, [0], "http404Message");
 
 // All
-// askBard(
-//   interpretations,
-//   Array.from({ length: 10 }, (_, i) => i),
-//   "http404Message",
-// );
+const allCards = Array.from({ length: 78 }, (_, i) => i);
+askBard(interpretations, allCards, "http404Message");
