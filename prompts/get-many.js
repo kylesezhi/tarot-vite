@@ -79,16 +79,16 @@ const askBard = async (interpretations, subset, propToUpdate) => {
 
     // Recursion
     if (subset.length <= 0) {
-      console.log("done.");
+      console.log("Done!");
       saveFile(interpretations);
       return;
     }
-    askBard(interpretations, subset);
+    askBard(interpretations, subset, propToUpdate);
   });
 };
 
 // Subset
-// askBard(interpretations, [0], "http404Message");
+// askBard(interpretations, [0, 1], "http404Message");
 
 // All
 const allCards = Array.from({ length: 78 }, (_, i) => i);
