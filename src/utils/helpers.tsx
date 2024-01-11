@@ -58,6 +58,7 @@ const drawInterpretation = (
     description: interpretation.description[drawnCard.orientation],
     affirmation,
     orientation: drawnCard.orientation,
+    http404Message: interpretation.http404Message,
   };
 };
 

@@ -46,8 +46,7 @@
         "I am celebrating the joy of being alive and the endless possibilities that await me."
       ]
     },
-    "number": 0,
-    "http404Message": "Every journey begins with a step into the unknown. Embrace the open road, even if it leads to a 404. Sometimes, the most unexpected paths hold the greatest potential."
+    "number": 0
   },
   {
     "name": "The Magician",
@@ -95,8 +94,7 @@
         "I trust my intuition and fearlessly pursue my dreams."
       ]
     },
-    "number": 1,
-    "http404Message": "The tools are here, but the spell is incomplete. Only you can create the magic. Error 404: Manifestation not found."
+    "number": 1
   },
   {
     "name": "The High Priestess",
@@ -143,8 +141,7 @@
         "I am patient with the process of self-discovery and trust that all will be revealed in time."
       ]
     },
-    "number": 2,
-    "http404Message": "The path is shrouded, secrets held close. Seek not without, but within. Error 404: Intuition not found."
+    "number": 2
   },
   {
     "name": "The Empress",
@@ -193,8 +190,7 @@
         "I am embracing my feminine power and wisdom."
       ]
     },
-    "number": 3,
-    "http404Message": "The Empress whispers, 'What you seek is not lost, but merely gestating. Allow the 404 to guide you inward, where fertile abundance awaits.'"
+    "number": 3
   },
   {
     "name": "The Emperor",
@@ -237,8 +233,7 @@
         "I find strength in my vulnerability and authenticity."
       ]
     },
-    "number": 4,
-    "http404Message": "The Emperor's gaze falls upon an empty throne. Seek not dominion here, but forge a new path beyond the 404."
+    "number": 4
   },
   {
     "name": "The Hierophant",
@@ -282,8 +277,7 @@
         "I create my own spiritual practices and connect with the divine in my own way."
       ]
     },
-    "number": 5,
-    "http404Message": "The gates of tradition remain shut. Seek not knowledge from without, but from within. The Hierophant's wisdom is not found on this path."
+    "number": 5
   },
   {
     "name": "The Lovers",
@@ -335,8 +329,7 @@
         "I trust my intuition to guide me towards connections that align with my soul's purpose."
       ]
     },
-    "number": 6,
-    "http404Message": "Two paths diverge in a sun-dappled grove, but your heart's compass spins. Perhaps the answer lies not in choosing, but in the dance itself. (Error 404: Path not found. Reroute with an open mind.)"
+    "number": 6
   },
   {
     "name": "The Chariot",
@@ -379,8 +372,7 @@
         "I redefine success based on my authentic values and desires."
       ]
     },
-    "number": 7,
-    "http404Message": "The Chariot has veered off course, leaving only Error 404 in its wake. Seek a new path, or harness your own willpower to forge one."
+    "number": 7
   },
   {
     "name": "Strength",
@@ -427,8 +419,7 @@
         "My inner strength is awakening, and I am ready to rise."
       ]
     },
-    "number": 8,
-    "http404Message": "The path you seek may be hidden, but true strength is found not in seeking, but in surrender. Embrace the 404, and let it guide you to the untamed power within."
+    "number": 8
   },
   {
     "name": "The Hermit",
@@ -475,8 +466,7 @@
         "I embrace the light of truth, dispelling the shadows of doubt and fear."
       ]
     },
-    "number": 9,
-    "http404Message": "The path you seek lies within, not without. Seek solitude's wisdom, for the answers you need are already held in your lantern's glow. The 404 is but a guidepost, urging you inward."
+    "number": 9
   },
   {
     "name": "Wheel of Fortune",
@@ -523,8 +513,7 @@
         "I embrace the lessons of change and use them to create a more fulfilling life."
       ]
     },
-    "number": 10,
-    "http404Message": "The wheel spins unseen, but fate has not forgotten you. Seek new paths, for 404 is but a doorway to unexpected fortunes."
+    "number": 10
   },
   {
     "name": "Justice",
@@ -575,8 +564,7 @@
         "I trust in my ability to create a more just and equitable world, starting with myself."
       ]
     },
-    "number": 11,
-    "http404Message": "The scales of fate hang in the void, 404: Justice not found. Perhaps you seek a different path?"
+    "number": 11
   },
   {
     "name": "The Hanged Man",
@@ -621,8 +609,7 @@
         "I trust in my ability to navigate challenges and emerge stronger on the other side."
       ]
     },
-    "number": 12,
-    "http404Message": "404 Mystical Energy Not Found. The Hanged Man whispers through the void, 'Lost paths lead to unexpected discoveries.'"
+    "number": 12
   },
   {
     "name": "Death",
@@ -665,8 +652,7 @@
         "I accept endings as a natural part of life and trust in new beginnings."
       ]
     },
-    "number": 13,
-    "http404Message": "What has been shed no longer exists. The path you sought has transformed. Embrace the ending, and seek a new beginning."
+    "number": 13
   },
   {
     "name": "Temperance",
@@ -717,8 +703,7 @@
         "I trust the process of life, knowing that every experience leads me closer to my true self."
       ]
     },
-    "number": 14,
-    "http404Message": "The path to moderation is not found. Perhaps it lies in the still waters between the two cups, or in the steady hand that pours. Seek balance, not the 404."
+    "number": 14
   },
   {
     "name": "The Devil",
@@ -764,8 +749,7 @@
         "I step into my authentic truth and create a life of freedom and joy."
       ]
     },
-    "number": 15,
-    "http404Message": "The chains you seek have slipped away, leaving only a 404 in their place. Embrace this liberation, for even the Devil cannot hold you now."
+    "number": 15
   },
   {
     "name": "The Tower",
@@ -810,8 +794,7 @@
         "I release the illusion of control and surrender to the flow of life, trusting in my ability to adapt and thrive."
       ]
     },
-    "number": 16,
-    "http404Message": "The path is blocked, but remember, even towers crumble to pave the way for new beginnings. Seek not the 404, but the 001."
+    "number": 16
   },
   {
     "name": "The Star",
@@ -858,8 +841,7 @@
         "I am aligning my actions with my values and creating a life I love."
       ]
     },
-    "number": 17,
-    "http404Message": "The path you seek is shrouded in celestial mystery. Perhaps the stars haven't aligned, or a new constellation awaits. Look beyond the 404 and follow the light of hope."
+    "number": 17
   },
   {
     "name": "The Moon",
@@ -904,8 +886,7 @@
         "I trust my inner wisdom to lead me through any challenge."
       ]
     },
-    "number": 18,
-    "http404Message": "Illusions dance under the moon's glow, but what seeks you in the 404 may be more shadow than light."
+    "number": 18
   },
   {
     "name": "The Sun",
@@ -952,8 +933,7 @@
         "I am opening myself up to new opportunities and experiences."
       ]
     },
-    "number": 19,
-    "http404Message": "The path to radiance is not found. Seek warmth in unexpected corners, for the Sun's light can reach even the deepest 404s."
+    "number": 19
   },
   {
     "name": "Judgement",
@@ -998,9 +978,7 @@
         "I am deserving of second chances, and I seize the opportunity for growth."
       ]
     },
-    "number": 20,
-    "http404Message": "404 Cosmic Verdict Not Found. In the realm of uncertainty, Judgement whispers, 'Embrace the unknown, for it holds the key to revelation.'"
-
+    "number": 20
   },
   {
     "name": "The World",
@@ -1045,8 +1023,7 @@
         "I know that I have everything I need within me to create the life I truly desire."
       ]
     },
-    "number": 21,
-    "http404Message": "The path you seek is not found in this realm, wanderer. Perhaps it lies beyond the veil of the known, or within the depths of your own reflection. Turn inward, for the World is also You."
+    "number": 21
   },
   {
     "name": "Ace of Cups",
@@ -1094,8 +1071,7 @@
         "I cultivate self-love and compassion, nurturing my inner wellspring."
       ]
     },
-    "number": 22,
-    "http404Message": "The cup runneth over, but not with what you seek. A 404 blocks the flow. Seek love's reflection in a different mirror."
+    "number": 22
   },
   {
     "name": "Two of Cups",
@@ -1140,8 +1116,7 @@
         "I trust that the right connections will come into my life at the perfect time."
       ]
     },
-    "number": 23,
-    "http404Message": "Two hearts adrift, seeking a shared chalice, yet finding only the echo of 404. Seek not without, but within, for the love you seek may already reside in your own reflection."
+    "number": 23
   },
   {
     "name": "Three of Cups",
@@ -1184,8 +1159,7 @@
         "I am worthy of love, belonging, and joyful companionship."
       ]
     },
-    "number": 24,
-    "http404Message": "Though the path may seem lost, the Three of Cups whispers: abundance awaits in unexpected connections. Raise a toast to the 404, for it may just lead to the merriest celebration yet."
+    "number": 24
   },
   {
     "name": "Four of Cups",
@@ -1234,8 +1208,7 @@
         "I find contentment within myself and radiate gratitude for all that I have."
       ]
     },
-    "number": 25,
-    "http404Message": "Seeking solace in stillness, you've stumbled upon a 404. Perhaps the pause is the answer, not the path. Look within, for the wellspring lies there."
+    "number": 25
   },
   {
     "name": "Five of Cups",
@@ -1280,8 +1253,7 @@
         "I am opening myself up to love, joy, and abundance."
       ]
     },
-    "number": 26,
-    "http404Message": "Four cups stand tall, but one lies spilled. Seek not what's lost, but the resilience that remains. The 404 beckons you to rebuild, not reminisce."
+    "number": 26
   },
   {
     "name": "Six of Cups",
@@ -1330,8 +1302,7 @@
         "I step boldly into the future, knowing that my best days are ahead."
       ]
     },
-    "number": 27,
-    "http404Message": "The path you seek is paved with memories, not cobblestones. Seek solace in the garden of the past, but beware the thorns of 404."
+    "number": 27
   },
   {
     "name": "Seven of Cups",
@@ -1380,8 +1351,7 @@
         "I celebrate my progress and achievements, honoring the journey as much as the destination."
       ]
     },
-    "number": 28,
-    "http404Message": "Illusions shatter like gossamer veils. The 404 you seek whispers: Seek not the chalices in the clouds, but the truth within your heart."
+    "number": 28
   },
   {
     "name": "Eight of Cups",
@@ -1428,8 +1398,7 @@
         "I honor my need for emotional healing and seek support to guide me through it."
       ]
     },
-    "number": 29,
-    "http404Message": "The path you seek is not found, but eight cups stand waiting. Release what no longer serves, and a new journey begins at 404."
+    "number": 29
   },
   {
     "name": "Nine of Cups",
@@ -1479,8 +1448,7 @@
         "I nurture my emotional well-being with compassion and self-love."
       ]
     },
-    "number": 30,
-    "http404Message": "Seeking solace in wishes? The Nine of Cups awaits, not on this path, but where contentment blooms. Look within, for fulfillment hides not in mirrored reflections, but in the quiet corners of your grateful heart. 404 not found, but abundance abounds."
+    "number": 30
   },
   {
     "name": "Ten of Cups",
@@ -1529,8 +1497,7 @@
         "I create a home within myself where love, harmony, and contentment always reside."
       ]
     },
-    "number": 31,
-    "http404Message": "Seeker, the overflowing cup you seek may not lie in the cards, but in the connections you nurture. Look beyond the 404 and mend the bridges within."
+    "number": 31
   },
   {
     "name": "Page of Cups",
@@ -1582,8 +1549,7 @@
         "I find joy in the simple things and celebrate the magic of everyday moments."
       ]
     },
-    "number": 32,
-    "http404Message": "The chalice you seek is not here, but a playful fish has left you a 404. Dive into imagination's depths to find it."
+    "number": 32
   },
   {
     "name": "Knight of Cups",
@@ -1635,8 +1601,7 @@
         "I am finding my voice and expressing my needs and desires with confidence."
       ]
     },
-    "number": 33,
-    "http404Message": "The stream you seek has changed course. Trust the tides to guide your cup to a more fruitful shore."
+    "number": 33
   },
   {
     "name": "Queen of Cups",
@@ -1683,8 +1648,7 @@
         "I forgive myself for past emotional wounds and move forward with love and acceptance."
       ]
     },
-    "number": 34,
-    "http404Message": "The chalice overflows, not with water, but with 404s. Seek solace in the depths of your intuition, for the answer lies not on the surface."
+    "number": 34
   },
   {
     "name": "King of Cups",
@@ -1734,8 +1698,7 @@
         "I am cultivating compassion for myself and others, creating a world of understanding and acceptance."
       ]
     },
-    "number": 35,
-    "http404Message": "The chalice overflows, not with water, but with 404s. Seek solace in the depths of your intuition, for the answer lies not on the surface."
+    "number": 35
   },
   {
     "name": "Ace of Swords",
@@ -1781,8 +1744,7 @@
         "I open my heart to compassion and understanding, creating space for healing and growth."
       ]
     },
-    "number": 36,
-    "http404Message": "The path to clarity is blocked. Seek a new angle, for the answer lies not where you stand, but where the wind whispers secrets through the unseen."
+    "number": 36
   },
   {
     "name": "Two of Swords",
@@ -1829,8 +1791,7 @@
         "I restore balance within myself by honoring my needs and desires."
       ]
     },
-    "number": 37,
-    "http404Message": "Path not found. Perhaps a choice awaits, veiled in the reflection of crossed blades. Seek stillness, for clarity lies in the quiet space between."
+    "number": 37
   },
   {
     "name": "Three of Swords",
@@ -1877,8 +1838,7 @@
         "I nurture my emotional well-being with kindness and patience."
       ]
     },
-    "number": 38,
-    "http404Message": "The path is blocked by piercing blades. Perhaps the answer lies not in seeking, but in surrendering. ⚔️ #ThreeOfSwords #404"
+    "number": 38
   },
   {
     "name": "Four of Swords",
@@ -1927,8 +1887,7 @@
         "I release the burdens of overthinking and embrace the peace within."
       ]
     },
-    "number": 39,
-    "http404Message": "Seeking solace in stillness, you've stumbled upon a 404. Perhaps the path lies not in searching, but in resting the blades. Breathe, reflect, and the answer will rise from the quiet."
+    "number": 39
   },
   {
     "name": "Five of Swords",
@@ -1965,8 +1924,7 @@
         "I choose peace over pride and create harmonious relationships."
       ]
     },
-    "number": 40,
-    "http404Message": "The path you seek lies shrouded in conflict's shadow. Only by laying down your blades can you find the passage to peace. (Error 404: Path not found)"
+    "number": 40
   },
   {
     "name": "Six of Swords",
@@ -2009,8 +1967,7 @@
         "I embrace the lessons of the past and use them to fuel my growth and transformation."
       ]
     },
-    "number": 41,
-    "http404Message": "The path you seek is not yet charted. But fear not, for the ferryman awaits, ready to guide you across the veil of uncertainty. (Error 404: Page Not Found)"
+    "number": 41
   },
   {
     "name": "Seven of Swords",
@@ -2055,8 +2012,7 @@
         "I embrace my truth, shining my light brightly for all to see."
       ]
     },
-    "number": 42,
-    "http404Message": "Stealthy steps lead to hidden paths, but the moonless night conceals the 404. Seek not what's lost, for secrets hide in plain sight."
+    "number": 42
   },
   {
     "name": "Eight of Swords",
@@ -2099,8 +2055,7 @@
         "I believe in my ability to create positive change."
       ]
     },
-    "number": 43,
-    "http404Message": "Lost in a labyrinth of self-doubt? The Eight of Swords whispers, 'Turn inward, not away.' Unbind your blindfolds, seeker. The path lies within the 404."
+    "number": 43
   },
   {
     "name": "Nine of Swords",
@@ -2137,8 +2092,7 @@
         "I create a peaceful sanctuary within myself, where I can always find solace and strength."
       ]
     },
-    "number": 44,
-    "http404Message": "Nine blades sever the threads of certainty. Seek not the path, for it lies shrouded in 404. Only within the shadows may truth be revealed."
+    "number": 44
   },
   {
     "name": "Ten of Swords",
@@ -2181,8 +2135,7 @@
         "I embrace change with grace and resilience, knowing that it leads to a brighter future."
       ]
     },
-    "number": 45,
-    "http404Message": "Ten blades pierce the night, severing the path to dawn. Embrace the 404, for even in endings, new beginnings take flight."
+    "number": 45
   },
   {
     "name": "Page of Swords",
@@ -2230,8 +2183,7 @@
         "I balance my thirst for knowledge with patience and groundedness."
       ]
     },
-    "number": 46,
-    "http404Message": "Seeking clarity? The wind whispers secrets, but the Page of Swords guards the path. Listen closely, for the answer lies not in the 404, but in the rustle of unseen pages."
+    "number": 46
   },
   {
     "name": "Knight of Swords",
@@ -2268,8 +2220,7 @@
         "I nurture patience and self-discipline, knowing that true strength lies in mastering my mind."
       ]
     },
-    "number": 47,
-    "http404Message": "The mind races ahead, but the path is shrouded. Still your thoughts, Knight, and the truth shall be revealed. (Error 404: Page not found)"
+    "number": 47
   },
   {
     "name": "Queen of Swords",
@@ -2324,8 +2275,7 @@
         "I seek balance between my mind and heart, honoring both my intellect and my emotions."
       ]
     },
-    "number": 48,
-    "http404Message": "Seeking clarity? The Queen's sharp mind awaits, but the path to her wisdom lies not here. Look within, for the answer may already be yours to claim. Error 404: Truth not found."
+    "number": 48
   },
   {
     "name": "King of Swords",
@@ -2371,8 +2321,7 @@
         "I transform my sharp intellect into a tool for healing and connection."
       ]
     },
-    "number": 49,
-    "http404Message": "Seeking clarity? The King's blade cuts through illusion, but your path remains shrouded. Perhaps the answer lies not in the 404, but within the 3 swords you hold."
+    "number": 49
   },
   {
     "name": "Ace of Wands",
@@ -2415,8 +2364,7 @@
         "I embrace the lessons of setbacks and transform challenges into opportunities."
       ]
     },
-    "number": 50,
-    "http404Message": "The path to your spark is hidden. Seek the flicker in the dark, the ember beneath the ash. Error 404: Inspiration not found."
+    "number": 50
   },
   {
     "name": "Two of Wands",
@@ -2463,8 +2411,7 @@
         "I reclaim my power and take decisive action to create the life I truly desire."
       ]
     },
-    "number": 51,
-    "http404Message": "The path to duality is blocked, but a spark whispers: 'Look within. The two are one.'"
+    "number": 51
   },
   {
     "name": "Three of Wands",
@@ -2516,8 +2463,7 @@
         "I trust my intuition and confidently make choices that align with my true purpose."
       ]
     },
-    "number": 52,
-    "http404Message": "The path diverges, but not all trails are meant for now. Error 404: Seek a new horizon, for adventure awaits beyond the known."
+    "number": 52
   },
   {
     "name": "Four of Wands",
@@ -2564,8 +2510,7 @@
         "I trust my intuition and create a home that truly reflects my authentic self."
       ]
     },
-    "number": 53,
-    "http404Message": "Seeking stability? The Four of Wands awaits, but the path is hidden. Perhaps 404 isn't an error, but a doorway. Knock, wanderer, and ask within."
+    "number": 53
   },
   {
     "name": "Five of Wands",
@@ -2610,8 +2555,7 @@
         "I transform inner conflict into self-awareness, harnessing my energy for positive change."
       ]
     },
-    "number": 54,
-    "http404Message": "Lost in the fray? The Five of Wands beckons. Remember, conflict can forge unity. Look beyond the clash, a new path awaits. (Error 404: Mystical passage not found.)"
+    "number": 54
   },
   {
     "name": "Six of Wands",
@@ -2656,8 +2600,7 @@
         "I am navigating setbacks with grace, knowing that they are opportunities for growth and self-discovery."
       ]
     },
-    "number": 55,
-    "http404Message": "The path to victory may yet be hidden, but fear not the 404. The Six of Wands rides forth, bearing the laurels of acclaim."
+    "number": 55
   },
   {
     "name": "Seven of Wands",
@@ -2702,8 +2645,7 @@
         "I trust my intuition and confidently navigate adversity."
       ]
     },
-    "number": 56,
-    "http404Message": "Though the path may seem lost, courage's flame burns bright. Remember, victory often hides in the shadows of a 404."
+    "number": 56
   },
   {
     "name": "Eight of Wands",
@@ -2753,8 +2695,7 @@
         "I confidently reclaim my power and move forward with grace and determination."
       ]
     },
-    "number": 57,
-    "http404Message": "The path twists and turns, but speed is your ally. Eight wands pierce the veil, revealing 404: a door to unforeseen possibilities."
+    "number": 57
   },
   {
     "name": "Nine of Wands",
@@ -2803,8 +2744,7 @@
         "I find strength in vulnerability and resilience in surrender."
       ]
     },
-    "number": 58,
-    "http404Message": "The path ahead is obscured, but embers glow within. Seek not the destination, but the strength to weather the storm. Error 404: Nine of Wands not found, but resilience awaits."
+    "number": 58
   },
   {
     "name": "Ten of Wands",
@@ -2841,8 +2781,7 @@
         "I trust my intuition to guide me towards a more balanced and fulfilling way of life."
       ]
     },
-    "number": 59,
-    "http404Message": "The path you seek is burdened, dear traveler. Ten heavy staffs weigh upon you, yet within their weight lies the strength to carry on. Turn back, not in defeat, but to find a lighter path, or press onward, knowing the reward awaits."
+    "number": 59
   },
   {
     "name": "Page of Wands",
@@ -2888,8 +2827,7 @@
         "I am committed to seeing my dreams through to fruition, no matter the challenges."
       ]
     },
-    "number": 60,
-    "http404Message": "The path to your spark is hidden, but embers glow within. Seek the flicker, not the flame. Error 404: Potential not yet found."
+    "number": 60
   },
   {
     "name": "Knight of Wands",
@@ -2934,8 +2872,7 @@
         "I embrace opportunities for growth, learning from my setbacks and refining my approach."
       ]
     },
-    "number": 61,
-    "http404Message": "The path to your fiery spark is blocked. Seek a new direction, Knight, for the embers of your passion still glow. Error 404: Inspiration not found."
+    "number": 61
   },
   {
     "name": "Queen of Wands",
@@ -2982,8 +2919,7 @@
         "I am deserving of success, and I welcome opportunities that align with my passion."
       ]
     },
-    "number": 62,
-    "http404Message": "The path to your fiery passion seems lost. Perhaps a spark from the Queen's torch awaits on a different page. Check for typos, or try a broader search. Remember, the flame within you never truly goes out."
+    "number": 62
   },
   {
     "name": "King of Wands",
@@ -3034,8 +2970,7 @@
         "I am embracing my vulnerability and allowing myself to be open to change."
       ]
     },
-    "number": 63,
-    "http404Message": "The path to ignition is blocked. Seek a spark elsewhere, or fan the embers of your own will. The King of Wands awaits when your flame burns bright."
+    "number": 63
   },
   {
     "name": "Ace of Pentacles",
@@ -3083,8 +3018,7 @@
         "I reclaim my power and create a solid foundation for lasting prosperity."
       ]
     },
-    "number": 64,
-    "http404Message": "The seed you seek lies not in the void, but in the fertile ground beneath your feet. Turn inward, till the soil of your spirit, and watch abundance sprout anew."
+    "number": 64
   },
   {
     "name": "Two of Pentacles",
@@ -3129,8 +3063,7 @@
         "I trust my intuition to guide me, making choices that bring me peace and fulfillment."
       ]
     },
-    "number": 65,
-    "http404Message": "Lost at sea, juggling coins on a tightrope? The Two of Pentacles beckons you to find balance, lest you tip the 404 into the abyss."
+    "number": 65
   },
   {
     "name": "Three of Pentacles",
@@ -3176,9 +3109,7 @@
         "I am deserving of recognition for my efforts, and I confidently showcase my skills."
       ]
     },
-    "number": 66,
-    "http404Message": "404 Mystic Collaboration Not Found. In the void of collaboration, the Three of Pentacles whispers, 'Harmony is the alchemy of shared visions.'"
-
+    "number": 66
   },
   {
     "name": "Four of Pentacles",
@@ -3223,8 +3154,7 @@
         "I trust in the universe to provide for my needs, allowing me to share my gifts generously."
       ]
     },
-    "number": 67,
-    "http404Message": "Seeking stability? The Four of Pentacles reminds you, security lies not in hoarding, but in open hands and a generous heart. Error 404: Resource not found, but abundance awaits."
+    "number": 67
   },
   {
     "name": "Five of Pentacles",
@@ -3267,8 +3197,7 @@
         "I cultivate gratitude for the blessings in my life, large and small."
       ]
     },
-    "number": 68,
-    "http404Message": "Lost in the blizzard, the path obscured, but a flicker in the distance. The Five of Pentacles whispers, 'Seek not solace, but the strength to build anew.'"
+    "number": 68
   },
   {
     "name": "Six of Pentacles",
@@ -3315,8 +3244,7 @@
         "I trust that the universe will always provide for me, and I release any worries about my financial security."
       ]
     },
-    "number": 69,
-    "http404Message": "Seek not bounty from empty coffers. The path to harmony flows not through these domains. Seek a new vessel for your quest."
+    "number": 69
   },
   {
     "name": "Seven of Pentacles",
@@ -3363,8 +3291,7 @@
         "With gentle course correction, I guide my growth, ensuring a bountiful harvest."
       ]
     },
-    "number": 70,
-    "http404Message": "The path you seek is not yet mapped. Rest now, like the worker in the shade of pentacles. When you awaken, the way forward will sprout."
+    "number": 70
   },
   {
     "name": "Eight of Pentacles",
@@ -3410,8 +3337,7 @@
         "I am committed to finding joy and fulfillment in my work, without sacrificing my well-being."
       ]
     },
-    "number": 71,
-    "http404Message": "The path to mastery is paved with diligent hands. Seek not shortcuts, for the 404 lies in neglecting the craft. Eight coins wait, patiently."
+    "number": 71
   },
   {
     "name": "Nine of Pentacles",
@@ -3461,8 +3387,7 @@
         "I am a magnet for abundance, and I allow prosperity to flow into my life."
       ]
     },
-    "number": 72,
-    "http404Message": "Seeking solace in material comforts? The abundance you crave lies not in possessions, but within. Turn inward, seeker, and find the nine treasures hidden in your heart. The 404 you found is a reminder that true wealth cannot be indexed."
+    "number": 72
   },
   {
     "name": "Ten of Pentacles",
@@ -3515,8 +3440,7 @@
         "I open my heart to the true abundance that flows from love and connection."
       ]
     },
-    "number": 73,
-    "http404Message": "Seek not within the digital realm, for true abundance lies in the warmth of hearth and home. The 404 merely guides you back to where you belong."
+    "number": 73
   },
   {
     "name": "Page of Pentacles",
@@ -3569,8 +3493,7 @@
         "I am finding my own unique path to success."
       ]
     },
-    "number": 74,
-    "http404Message": "Seeking stability? The Page of Pentacles beckons, but perhaps it's hidden in plain sight. Look beyond the 404, for abundance often disguises itself."
+    "number": 74
   },
   {
     "name": "Knight of Pentacles",
@@ -3615,8 +3538,7 @@
         "I honor my intuition and act with courage and conviction."
       ]
     },
-    "number": 75,
-    "http404Message": "The path to abundance is paved with patience, not shortcuts. Seek not the 404, but the fertile ground beneath your feet. There, your golden harvest awaits."
+    "number": 75
   },
   {
     "name": "Queen of Pentacles",
@@ -3664,8 +3586,7 @@
         "I am open to receiving abundance in all its forms, allowing it to flow into my life."
       ]
     },
-    "number": 76,
-    "http404Message": "Seeking solace in material comforts won't mend a broken heart, Queen. Look within for the true riches. The 404 may be a nudge to turn inward."
+    "number": 76
   },
   {
     "name": "King of Pentacles",
@@ -3718,7 +3639,6 @@
         "I am creating a legacy of abundance that will benefit others for generations to come."
       ]
     },
-    "number": 77,
-    "http404Message": "Seeking stability in the void? The King of Pentacles awaits, not on a throne of gold, but in the fertile soil of the 404. Perhaps your path to abundance lies not in what you find, but in what you cultivate."
+    "number": 77
   }
 ]

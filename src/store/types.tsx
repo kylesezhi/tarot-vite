@@ -22,6 +22,7 @@ export type Interpretation = {
     upright: Array<string>;
     reversed: Array<string>;
   };
+  http404Message: string;
 };
 export type DrawnInterpretation = {
   name: string;
@@ -31,6 +32,7 @@ export type DrawnInterpretation = {
   description: string;
   affirmation: string;
   orientation: Orientation;
+  http404Message: string;
 };
 export interface Store {
   interpretations: Array<Interpretation>;
@@ -65,6 +67,7 @@ export const emptyInterpretation: Interpretation = {
     upright: [],
     reversed: [],
   },
+  http404Message: "",
 };
 export const emptyDrawnInterpretation: DrawnInterpretation = {
   name: "",
@@ -74,4 +77,5 @@ export const emptyDrawnInterpretation: DrawnInterpretation = {
   description: "",
   affirmation: "",
   orientation: "upright",
+  http404Message: "",
 };
