@@ -15,7 +15,9 @@ function ShowCardHeader({
   interpretation,
 }: ShowCardHeaderProps) {
   const title = getTitle(interpretation.name, orientation);
-  const imageUrl = `https://tarot-images.netlify.app/${number}.webp`;
+  const imageUrl = `https://tarot-images.netlify.app/${
+    orientation === "reversed" ? "reversed_" : ""
+  }${number}.webp`;
 
   return (
     <>

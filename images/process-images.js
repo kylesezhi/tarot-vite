@@ -17,12 +17,13 @@ fs.readdir(directoryPath, (err, files) => {
     }
     const filePath = `${directoryPath}/${file}`;
     const outputFilePath = `./processed/${file}`;
+    const reversedOutputFilePath = `./processed/reversed_${file}`;
     const borderWidth = 20;
     const color = { r: 40, g: 44, b: 52, alpha: 1 };
     const imageSize = 160;
 
     // Use Sharp to load and process the WebP file
-    sharp(filePath)
+    const image = sharp(filePath)
       .extend({
         top: borderWidth,
         bottom: borderWidth,
@@ -34,22 +35,26 @@ fs.readdir(directoryPath, (err, files) => {
         width: imageSize,
         height: imageSize,
         fit: "contain",
-        kernel: "lanczos2",
         background: color,
-      })
-      // .composite([
-      //   {
-      //     input: Buffer.from(
-      //       `<svg><rect width="100%" height="100%" rx="10" ry="10" fill="transparent"/></svg>`,
-      //     ),
-      //     blend: "dest-in",
-      //   },
-      // ])
-      .toFile(outputFilePath, (err) => {
+      });
+
+    image.clone().toFile(outputFilePath, (err) => {
+      if (err) {
+        console.error(`Error processing ${file}:`, err);
+      } else {
+        console.log(`Processed ${file} and saved to ${outputFilePath}`);
+      }
+    });
+    image
+      .clone()
+      .rotate(180)
+      .toFile(reversedOutputFilePath, (err) => {
         if (err) {
-          console.error(`Error processing ${file}:`, err);
+          console.error(`Error processing reversed_${file}:`, err);
         } else {
-          console.log(`Processed ${file} and saved to ${outputFilePath}`);
+          console.log(
+            `Processed reversed_${file} and saved to ${reversedOutputFilePath}`,
+          );
         }
       });
   });
