@@ -38,6 +38,7 @@ function ShowCardHeader({
         />
         <meta property="og:image" content={imageUrl} />
         <meta property="og:image:width" content="200" />
+        <meta property="og:image:height" content="200" />
         <meta property="og:site_name" content="Daily Tarot" />
 
         {/* Twitter Meta Tags */}
@@ -54,6 +55,7 @@ function ShowCardHeader({
         />
         <meta name="twitter:image" content={imageUrl} />
         <meta property="twitter:image:width" content="200" />
+        <meta property="twitter:image:height" content="200" />
       </Helmet>
     </>
   );
