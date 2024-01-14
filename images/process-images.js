@@ -17,10 +17,26 @@ fs.readdir(directoryPath, (err, files) => {
     }
     const filePath = `${directoryPath}/${file}`;
     const outputFilePath = `./processed/${file}`;
+    const borderWidth = 20;
+    const color = { r: 40, g: 44, b: 52, alpha: 1 };
+    const imageSize = 160;
 
     // Use Sharp to load and process the WebP file
     sharp(filePath)
-      .resize({ width: 200 })
+      .extend({
+        top: borderWidth,
+        bottom: borderWidth,
+        left: borderWidth,
+        right: borderWidth,
+        background: color,
+      })
+      .resize({
+        width: imageSize,
+        height: imageSize,
+        fit: "contain",
+        kernel: "lanczos2",
+        background: color,
+      })
       // .composite([
       //   {
       //     input: Buffer.from(

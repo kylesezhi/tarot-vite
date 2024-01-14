@@ -1,5 +1,8 @@
 # TODO
 
+1. Add Readme to images 
+1. Set upbnetlify cli
+1. Rotate for reversed 
 1. Zoom in from center
 1. Resize, style share images - https://sharp.pixelplumbing.com/api-operation
 1. Fix black and white icon in chrome android - https://web.dev/articles/maskable-icon
