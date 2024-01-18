@@ -11,7 +11,11 @@ function {{name}}({ temp }: {{name}}Props) {
 {{else}}
 function {{name}}() {
 {{/if}}
+{{#if hasStarterClass}}
+  return <div className="{{kebab name}}"></div>;
+{{else}}
   return <div></div>;
+{{/if}}
 }
 
 export default {{name}};
