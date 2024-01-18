@@ -11,8 +11,8 @@ function InstallButton() {
     }
   }, [prompt]);
   const onClick = async () => {
-    if (prompt) {
-      promptToInstall();
+    if (prompt && typeof promptToInstall === "function") {
+      await promptToInstall();
     }
   };
   return (
