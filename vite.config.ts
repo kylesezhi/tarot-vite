@@ -474,9 +474,9 @@ export default defineConfig({
           },
           {
             "src": "maskable_icon.png",
-            "sizes": "196x196",
+            "sizes": "500x500",
             "type": "image/png",
-            "purpose": "maskable" // <-- New property value `"maskable"`
+            "purpose": "maskable"
           },
         ],
       },
