@@ -1,0 +1,17 @@
+import "./{{name}}.css";
+
+{{#if hasPropInterface}}
+interface {{name}}Props {
+  temp: string;
+}
+{{/if}}
+
+{{#if hasPropInterface}}
+function {{name}}({ temp }: {{name}}Props) {
+{{else}}
+function {{name}}() {
+{{/if}}
+  return <div></div>;
+}
+
+export default {{name}};
