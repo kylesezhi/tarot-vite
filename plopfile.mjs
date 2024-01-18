@@ -8,8 +8,9 @@ export default function (plop) {
       {
         type: "list",
         name: "type",
-        choices: ["component", "container"],
+        choices: ["component", "container", "route"],
         message: "what are you making?",
+        default: "component",
       },
       {
         type: "confirm",
