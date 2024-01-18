@@ -15,11 +15,13 @@ export default function (plop) {
         type: "confirm",
         name: "hasPropInterface",
         message: "do you want a props interface?",
+        default: true,
       },
       {
         type: "confirm",
         name: "hasStarterClass",
         message: "do you want a starter class?",
+        default: true,
       },
       {
         type: "input",
