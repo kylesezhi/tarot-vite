@@ -1,4 +1,4 @@
-.install-button {
+.install-button-container {
   position: fixed;
   bottom: 20px;
   right: 20px;
@@ -6,4 +6,17 @@
 
 .hide {
   display: none;
+}
+
+.install-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  background-color: gray;
+  border: 0;
+  cursor: pointer;
+  gap: 5px;
+  border-radius: 10px;
+  opacity: 0.4;
 }
