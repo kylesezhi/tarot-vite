@@ -472,6 +472,12 @@ export default defineConfig({
             src: "ios/1024.png",
             sizes: "1024x1024",
           },
+          {
+            "src": "maskable_icon.png",
+            "sizes": "196x196",
+            "type": "image/png",
+            "purpose": "maskable" // <-- New property value `"maskable"`
+          },
         ],
       },
     }),
