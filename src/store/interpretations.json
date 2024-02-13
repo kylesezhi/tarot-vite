@@ -479,7 +479,7 @@
     "http404Message": "The path you seek lies within, not without. Seek solitude's wisdom, for the answers you need are already held in your lantern's glow. The 404 is but a guidepost, urging you inward."
   },
   {
-    "name": "Wheel of Fortune",
+    "name": "The Wheel of Fortune",
     "type": "major",
     "keywords": {
       "upright": [
@@ -1000,7 +1000,6 @@
     },
     "number": 20,
     "http404Message": "404 Cosmic Verdict Not Found. In the realm of uncertainty, Judgement whispers, 'Embrace the unknown, for it holds the key to revelation.'"
-
   },
   {
     "name": "The World",
@@ -3178,7 +3177,6 @@
     },
     "number": 66,
     "http404Message": "404 Mystic Collaboration Not Found. In the void of collaboration, the Three of Pentacles whispers, 'Harmony is the alchemy of shared visions.'"
-
   },
   {
     "name": "Four of Pentacles",
